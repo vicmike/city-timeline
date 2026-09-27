@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>City Timeline</title>
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+  <main>
+    <header>
+      <h1>City Timeline</h1>
+      <p class="subtitle">The world's largest cities, from antiquity to today.</p>
+    </header>
+
+    <section class="slider-panel">
+      <div class="year-display" id="year-display"></div>
+      <input type="range" id="year-slider" min="0" max="0" step="1" value="0" />
+      <div class="slider-ticks" id="slider-ticks"></div>
+    </section>
+
+    <section class="note" id="year-note"></section>
+
+    <section class="cards" id="cards"></section>
+
+    <footer>
+      <p>
+        Pre-modern figures are historians' best estimates, not censuses —
+        sources vary widely and are cited per city. See
+        <a href="docs/SPEC.md">docs/SPEC.md</a> for data provenance and
+        open TODOs.
+      </p>
+    </footer>
+  </main>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

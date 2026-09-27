@@ -1,0 +1,142 @@
+[
+  {
+    "year": 100,
+    "label": "100 AD",
+    "note": "Only a single largest city is reliably attested this early; full top-5 rankings need a richer dataset than currently exists here (see TODO in docs/SPEC.md).",
+    "cities": [
+      { "rank": 1, "name": "Rome", "country": "Roman Empire", "population": 1000000, "source": "Morris (2010)", "confidence": "low", "blurb": "Capital of the Roman Empire near its territorial peak; likely the first city in history to reach a million people, fed by grain shipped from Egypt. Modelski estimates a far smaller ~450,000." }
+    ]
+  },
+  {
+    "year": 500,
+    "label": "500 AD",
+    "note": "Single largest city only (see note on 100 AD).",
+    "cities": [
+      { "rank": 1, "name": "Constantinople", "country": "Byzantine Empire", "population": 500000, "source": "Morris (2010)", "confidence": "low", "blurb": "Capital of the Eastern Roman (Byzantine) Empire, ringed by the Theodosian Walls; by this point Rome itself had shrunk to a fraction of its former size. Modelski gives ~400,000." }
+    ]
+  },
+  {
+    "year": 800,
+    "label": "800 AD",
+    "note": "Sources disagree on which city actually led: Chandler picks Baghdad, Morris and Modelski instead credit Chang'an.",
+    "cities": [
+      { "rank": 1, "name": "Baghdad", "country": "Abbasid Caliphate", "population": 700000, "source": "Chandler (1987)", "confidence": "low", "blurb": "Newly built round city of the Abbasid Caliphate under Harun al-Rashid; a center of the Islamic Golden Age's translation and scholarship movement. Morris and Modelski instead rank Chang'an, China (800,000–1,000,000) as larger this year." }
+    ]
+  },
+  {
+    "year": 1000,
+    "label": "1000 AD",
+    "note": "Wide three-way disagreement: Modelski favors Baghdad, Morris favors Kaifeng, Chandler's much lower Cordoba figure reflects a stricter estimation method.",
+    "cities": [
+      { "rank": 1, "name": "Baghdad", "country": "Abbasid Caliphate", "population": 1200000, "source": "Modelski (2003)", "confidence": "low", "blurb": "Home to the House of Wisdom translation movement and one of history's great concentrations of scholarship. Morris instead credits Kaifeng, China (~1,000,000); Chandler's Cordoba estimate is only ~350,000." }
+    ]
+  },
+  {
+    "year": 1200,
+    "label": "1200 AD",
+    "note": "Morris and Modelski both point to cities near 1,000,000 (Hangzhou, Baghdad); Chandler's Hangzhou figure is far lower.",
+    "cities": [
+      { "rank": 1, "name": "Hangzhou", "country": "Southern Song China", "population": 1000000, "source": "Morris (2010)", "confidence": "low", "blurb": "Capital of the Southern Song dynasty. Marco Polo, visiting decades later, would describe it as the most magnificent city he had ever seen. Chandler's estimate is only ~255,000; Modelski instead ranks Baghdad similarly large." }
+    ]
+  },
+  {
+    "year": 1300,
+    "label": "1300 AD",
+    "note": "Single largest city only; Morris and Modelski differ by more than 3x on Hangzhou's population.",
+    "cities": [
+      { "rank": 1, "name": "Hangzhou", "country": "Yuan China", "population": 1500000, "source": "Morris (2010)", "confidence": "low", "blurb": "Under Mongol Yuan rule, Hangzhou remained a major commercial hub; the traveler Ibn Battuta later called it the largest city he had ever seen. Modelski's estimate is only ~432,000." }
+    ]
+  },
+  {
+    "year": 1500,
+    "label": "1500 AD",
+    "note": "Single largest city only; the three sources range from 600,000 to 1,000,000.",
+    "cities": [
+      { "rank": 1, "name": "Beijing", "country": "Ming China", "population": 672000, "source": "Chandler (1987)", "confidence": "low", "blurb": "Ming dynasty capital, rebuilt around the Forbidden City complex completed in 1420." }
+    ]
+  },
+  {
+    "year": 1700,
+    "label": "1700 AD",
+    "note": "Strong three-way disagreement — Chandler, Morris and Modelski each name a different city (Constantinople, Beijing, Ayutthaya) as world's largest this year.",
+    "cities": [
+      { "rank": 1, "name": "Constantinople", "country": "Ottoman Empire", "population": 700000, "source": "Chandler (1987)", "confidence": "low", "blurb": "Ottoman capital bridging Europe and Asia, with a majority non-Muslim population of Greeks, Armenians, and Jews alongside Turks. Morris instead ranks Beijing largest; Modelski, the now-vanished Siamese capital Ayutthaya." }
+    ]
+  },
+  {
+    "year": 1800,
+    "label": "1800 AD",
+    "note": "Rare agreement — all three sources rank this city largest this year.",
+    "cities": [
+      { "rank": 1, "name": "Beijing", "country": "Qing China", "population": 1100000, "source": "Chandler / Morris / Modelski", "confidence": "medium", "blurb": "Qing dynasty capital; China's economy and population were, by most estimates, still the largest in the world." }
+    ]
+  },
+  {
+    "year": 1850,
+    "label": "1850",
+    "cities": [
+      { "rank": 1, "name": "London", "country": "United Kingdom", "population": 2320000, "source": "Chandler (1987)", "confidence": "medium", "blurb": "Capital of the British Empire at the dawn of the Victorian era — the first city in the world to industrialize at scale." }
+    ]
+  },
+  {
+    "year": 1900,
+    "label": "1900",
+    "note": "All three sources closely agree — confidence is much higher from this point on.",
+    "cities": [
+      { "rank": 1, "name": "London", "country": "United Kingdom", "population": 6480000, "source": "Chandler (1987)", "confidence": "high", "blurb": "The world's largest city and financial capital of an empire spanning roughly a quarter of the globe's land area." }
+    ]
+  },
+  {
+    "year": 1925,
+    "label": "1925",
+    "cities": [
+      { "rank": 1, "name": "New York", "country": "United States", "population": 7774000, "source": "Chandler (1987)", "confidence": "high", "blurb": "Newly consolidated as a five-borough city; its Art Deco skyline was still a few years from completion." }
+    ]
+  },
+  {
+    "year": 1950,
+    "label": "1950",
+    "note": "From here on, cities are true top-5 rankings (UN World Urbanization Prospects, urban agglomeration). Exact figures are recalled approximations pending verification against the live UN WUP CSV — see TODO in docs/SPEC.md.",
+    "cities": [
+      { "rank": 1, "name": "New York", "country": "United States", "population": 12338000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Post-war economic boom capital; the newly opened UN headquarters sat on the East River." },
+      { "rank": 2, "name": "Tokyo", "country": "Japan", "population": 11275000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Rebuilding rapidly after much of the city was destroyed by firebombing in 1945." },
+      { "rank": 3, "name": "London", "country": "United Kingdom", "population": 8361000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Still recovering from the Blitz; the Festival of Britain was a year away." },
+      { "rank": 4, "name": "Paris", "country": "France", "population": 6300000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Post-war reconstruction underway under the Marshall Plan." },
+      { "rank": 5, "name": "Moscow", "country": "Soviet Union", "population": 5400000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Capital of the Soviet Union amid its early Cold War superpower buildup." }
+    ]
+  },
+  {
+    "year": 1975,
+    "label": "1975",
+    "cities": [
+      { "rank": 1, "name": "Tokyo", "country": "Japan", "population": 26615000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Ten years after hosting the 1964 Olympics, now the world's largest urban agglomeration by a wide margin." },
+      { "rank": 2, "name": "New York", "country": "United States", "population": 15880000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Facing a fiscal crisis that nearly bankrupted the city this same year." },
+      { "rank": 3, "name": "Shanghai", "country": "China", "population": 11443000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "China's largest industrial city, though still closed to most foreign visitors under Mao-era policy." },
+      { "rank": 4, "name": "Mexico City", "country": "Mexico", "population": 10690000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Among the fastest-growing cities in the world this decade, straining infrastructure and air quality." },
+      { "rank": 5, "name": "São Paulo", "country": "Brazil", "population": 9614000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Brazil's industrial engine, growing explosively during the country's 'economic miracle' years." }
+    ]
+  },
+  {
+    "year": 2000,
+    "label": "2000",
+    "cities": [
+      { "rank": 1, "name": "Tokyo", "country": "Japan", "population": 34450000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Still the world's largest urban agglomeration, a title it had held for decades." },
+      { "rank": 2, "name": "Mexico City", "country": "Mexico", "population": 18022000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "One of the largest metro areas in the Americas, built partly atop the drained lakebed of Aztec Tenochtitlan." },
+      { "rank": 3, "name": "New York", "country": "United States", "population": 17846000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Entering the new millennium as a global financial and cultural capital." },
+      { "rank": 4, "name": "São Paulo", "country": "Brazil", "population": 17020000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "South America's largest metropolis and financial center." },
+      { "rank": 5, "name": "Mumbai", "country": "India", "population": 16368000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "India's financial capital, its population swelling with rural-to-urban migration." }
+    ]
+  },
+  {
+    "year": 2025,
+    "label": "2025 (est.)",
+    "note": "Figures are order-of-magnitude estimates from recalled UN projections, not a fresh pull — verify before treating as current.",
+    "cities": [
+      { "rank": 1, "name": "Tokyo", "country": "Japan", "population": 37000000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Still the world's largest urban agglomeration, despite Japan's shrinking overall population." },
+      { "rank": 2, "name": "Delhi", "country": "India", "population": 34700000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "On track to overtake Tokyo as the world's largest city within the next decade on most UN projections." },
+      { "rank": 3, "name": "Shanghai", "country": "China", "population": 30000000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "China's largest city and a global financial and shipping hub." },
+      { "rank": 4, "name": "Dhaka", "country": "Bangladesh", "population": 23900000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "One of the fastest-growing megacities in the world, and among the most densely populated." },
+      { "rank": 5, "name": "São Paulo", "country": "Brazil", "population": 22800000, "source": "UN WUP (approx.)", "confidence": "medium", "blurb": "Still South America's largest metropolis a century after its coffee-boom growth spurt began." }
+    ]
+  }
+]
