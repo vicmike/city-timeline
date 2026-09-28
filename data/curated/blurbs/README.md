@@ -60,3 +60,6 @@ Keys under `cities` are the ids from `data/curated/cities.json`.
     isn't.
   - The caption must say what the image shows and when it was made.
 - Keep text plain: no markdown and no HTML.
+- When calling Wikipedia or Commons APIs directly, identify with the User-Agent
+  `CityTimelineBuild/0.2 (https://github.com/vicmike/city-timeline)`. Never put
+  an email address or any other personal information in a request.

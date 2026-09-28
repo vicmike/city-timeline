@@ -1,0 +1,224 @@
+{
+  "snapshots": {
+    "-100": {
+      "note": "Alexander's successor kingdoms were in decline: the Parthians had taken Mesopotamia from the Seleucids, and Rome would absorb Seleucid Syria in 64 BC and, after Actium, Ptolemaic Egypt.",
+      "noteSources": [
+        {"title": "Parthian Empire - Wikipedia", "url": "https://en.wikipedia.org/wiki/Parthian_Empire#Expansion_and_consolidation"},
+        {"title": "Antioch - Wikipedia", "url": "https://en.wikipedia.org/wiki/Antioch#Hellenistic_age"},
+        {"title": "History of Alexandria - Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_Alexandria#Roman_annexation"}
+      ],
+      "cities": {
+        "alexandria": {
+          "polity": "Ptolemaic Kingdom",
+          "blurb": "Ptolemaic capital, with its Lighthouse, Serapeum and Museion. Ptolemy X had his mother Cleopatra III murdered in 101 BC and ruled with his niece-wife Berenice III until the Alexandrians expelled him in 88 BC.",
+          "sources": [
+            {"title": "History of Alexandria - Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_Alexandria#Construction"},
+            {"title": "Ptolemy X Alexander I - Wikipedia", "url": "https://en.wikipedia.org/wiki/Ptolemy_X_Alexander_I#Reign_with_Berenice_III"}
+          ],
+          "image": {
+            "file": "File:Lighthouse - Thiersch.png",
+            "kind": "reconstruction",
+            "caption": "Reconstruction drawing of the Pharos, the Lighthouse of Alexandria, by the German archaeologist Hermann Thiersch, 1909."
+          }
+        },
+        "rome": {
+          "polity": "Roman Republic",
+          "blurb": "In 100 BC Marius, victor over the Cimbri, held his sixth consulship. When his ally the tribune Saturninus seized the Capitoline, Marius besieged him under a senatorial emergency decree, and a mob killed Saturninus in the senate house.",
+          "sources": [
+            {"title": "Gaius Marius - Wikipedia", "url": "https://en.wikipedia.org/wiki/Gaius_Marius"},
+            {"title": "Lucius Appuleius Saturninus - Wikipedia", "url": "https://en.wikipedia.org/wiki/Lucius_Appuleius_Saturninus#Death"}
+          ],
+          "image": {
+            "file": "File:RRC 326.1 Gaius Fundanius depicting Gaius Marius triumphator.png",
+            "kind": "period",
+            "caption": "Silver denarius of the moneyer Gaius Fundanius, 101 BC, showing Marius as triumphator in a four-horse chariot."
+          }
+        },
+        "xian": {
+          "polity": "Han dynasty (Western Han)",
+          "blurb": "Emperor Wu's palace-building peaked around 100 BC; by the end of his reign, palaces filled two-thirds of the walled city. After Zhang Qian's missions west, Chang'an was the eastern terminus of the Silk Road.",
+          "sources": [
+            {"title": "Chang'an - Wikipedia", "url": "https://en.wikipedia.org/wiki/Chang%27an#Han_period"}
+          ],
+          "image": {
+            "file": "File:Round eave tile with cloud design, attributed to Weiyang Palace, Xi'an, Shaanxi province, China, Western Han dynasty, 3rd-2nd century BC, ceramic - Tokyo National Museum - Tokyo, Japan - DSC08507.jpg",
+            "kind": "period",
+            "caption": "Round ceramic eave tile with a cloud design attributed to Chang'an's Weiyang Palace, Western Han, 3rd-2nd century BC; Tokyo National Museum."
+          }
+        },
+        "seleucia": {
+          "polity": "Parthian Empire",
+          "blurb": "Founded as the first Seleucid capital, it fell to the Parthian king Mithridates I in 141 BC and became Parthia's western capital. It stayed a Hellenistic city, and its mint struck Parthia's first tetradrachms.",
+          "sources": [
+            {"title": "Seleucia - Wikipedia", "url": "https://en.wikipedia.org/wiki/Seleucia#Seleucid_Empire"},
+            {"title": "Parthian Empire - Wikipedia", "url": "https://en.wikipedia.org/wiki/Parthian_Empire#Currency"}
+          ],
+          "image": {
+            "file": "File:Tetradrachm of Mithridates II of Parthia, minted at Seleucia between 120 and 109 BC.jpg",
+            "kind": "period",
+            "caption": "Silver tetradrachm of the Parthian king Mithridates II, minted at Seleucia between 120 and 109 BC."
+          }
+        },
+        "antioch": {
+          "polity": "Seleucid Empire",
+          "blurb": "Seleucid royal capital on the Orontes, a four-quartered Tetrapolis. Its citizens took sides in the dynasty's feuds, and in 83 BC they turned on their feeble kings and invited Tigranes the Great to occupy the city.",
+          "sources": [
+            {"title": "Antioch - Wikipedia", "url": "https://en.wikipedia.org/wiki/Antioch#Hellenistic_age"}
+          ],
+          "image": {
+            "file": "File:Tyche Antioch Vatican Inv2672.jpg",
+            "kind": "period",
+            "caption": "The Tyche (Fortune) of Antioch, the city's patron goddess; Roman marble copy of a 3rd-century BC Greek bronze by Eutychides, Vatican Museums."
+          }
+        }
+      }
+    },
+    "1": {
+      "note": "Two great empires spanned Eurasia: Augustus's Rome, early in the two-century Pax Romana, and Han China, where the regent Wang Mang would seize the throne in AD 9.",
+      "noteSources": [
+        {"title": "Pax Romana - Wikipedia", "url": "https://en.wikipedia.org/wiki/Pax_Romana"},
+        {"title": "Wang Mang - Wikipedia", "url": "https://en.wikipedia.org/wiki/Wang_Mang"}
+      ],
+      "cities": {
+        "rome": {
+          "polity": "Roman Empire",
+          "blurb": "Augustus was turning Rome from brick to marble. His Forum, with its Temple of Mars Ultor, had been inaugurated in 2 BC, and his grandson and adopted heir Gaius was consul for AD 1.",
+          "sources": [
+            {"title": "Augustus - Wikipedia", "url": "https://en.wikipedia.org/wiki/Augustus#Remodeling_of_Rome"},
+            {"title": "Augustus - Wikipedia", "url": "https://en.wikipedia.org/wiki/Augustus#The_search_for_an_heir"},
+            {"title": "Forum of Augustus - Wikipedia", "url": "https://en.wikipedia.org/wiki/Forum_of_Augustus#History"}
+          ],
+          "image": {
+            "file": "File:Forum of Augustus, Temple of Mars Ultor 2013.jpg",
+            "kind": "site",
+            "caption": "Remains of the Temple of Mars Ultor in the Forum of Augustus, Rome; photo 2013."
+          }
+        },
+        "xian": {
+          "polity": "Han dynasty (Western Han)",
+          "blurb": "The Han capital, where Wang Mang ruled as regent for the boy Emperor Ping. In AD 1 he was made Duke of Anhan, 'Duke who made Han secure', the first duke in Han history.",
+          "sources": [
+            {"title": "Emperor Ping of Han - Wikipedia", "url": "https://en.wikipedia.org/wiki/Emperor_Ping_of_Han#Early_reign_and_Wang_Mang's_aggrandization_of_power"}
+          ],
+          "image": {
+            "file": "File:Weiyang Palace site.JPG",
+            "kind": "site",
+            "caption": "Rammed-earth foundations of the front hall of the Weiyang Palace, the Han emperors' palace in Chang'an; photo 2013."
+          }
+        },
+        "el-mirador": {
+          "polity": "Preclassic Maya (Mirador Basin)",
+          "blurb": "The great Preclassic Maya centre, crowned by triadic pyramids such as La Danta, with raised white causeways running to Nakbe and El Tintal. It would be abandoned by about AD 150.",
+          "sources": [
+            {"title": "El Mirador - Wikipedia", "url": "https://en.wikipedia.org/wiki/El_Mirador#History"}
+          ],
+          "image": {
+            "file": "File:Flickr - archer10 (Dennis) - Guatemala 1828 - La Danta at the Mayan site of El Mirador.jpg",
+            "kind": "site",
+            "caption": "The La Danta pyramid at El Mirador, Guatemala; photo 2007."
+          }
+        },
+        "luoyang": {
+          "polity": "Han dynasty (Western Han)",
+          "blurb": "The old Zhou royal city, where the Han founder first ruled before choosing Chang'an, was now the seat of Henan Commandery. Wang Mang would put one of his six state market offices here in AD 10.",
+          "sources": [
+            {"title": "Henan Commandery - Wikipedia", "url": "https://en.wikipedia.org/wiki/Henan_Commandery"},
+            {"title": "Chang'an - Wikipedia", "url": "https://en.wikipedia.org/wiki/Chang%27an#Han_period"},
+            {"title": "Wang Mang - Wikipedia", "url": "https://en.wikipedia.org/wiki/Wang_Mang#Economic_policies"}
+          ],
+          "image": {
+            "file": "File:Western Han Fresco Brick Tomb 05.jpg",
+            "kind": "site",
+            "caption": "A painted Western Han brick tomb, reassembled in the ancient tombs museum at Luoyang; photo 2007."
+          }
+        }
+      }
+    },
+    "100": {
+      "note": "Rome and Han China were both near their height: Trajan would take the Roman Empire to its greatest extent in 117, while the restored Eastern Han ruled China from Luoyang.",
+      "noteSources": [
+        {"title": "Pax Romana - Wikipedia", "url": "https://en.wikipedia.org/wiki/Pax_Romana"},
+        {"title": "Han dynasty - Wikipedia", "url": "https://en.wikipedia.org/wiki/Han_dynasty#Wang_Mang's_reign_and_civil_war"}
+      ],
+      "cities": {
+        "rome": {
+          "polity": "Roman Empire",
+          "blurb": "Trajan, who entered Rome as emperor in 99, opened his third consulship here on 1 January 100. He was rebuilding the Circus Maximus, replacing wooden seating with stone; the work was finished by 103.",
+          "sources": [
+            {"title": "Trajan - Wikipedia", "url": "https://en.wikipedia.org/wiki/Trajan#The_Senate"},
+            {"title": "Trajan - Wikipedia", "url": "https://en.wikipedia.org/wiki/Trajan#Games"}
+          ],
+          "image": {
+            "file": "File:Circus Maximus seen from Palatine hill.JPG",
+            "kind": "site",
+            "caption": "The site of the Circus Maximus seen from the Palatine Hill, Rome; photo 2014."
+          }
+        },
+        "luoyang": {
+          "polity": "Han dynasty (Eastern Han)",
+          "blurb": "Eastern Han capital of Emperor He, who in 92 closed the city gates and overthrew the Dou clan, leaning on palace eunuchs. In the palace workshop the eunuch Cai Lun would improve papermaking in 105.",
+          "sources": [
+            {"title": "Emperor He of Han - Wikipedia", "url": "https://en.wikipedia.org/wiki/Emperor_He_of_Han#The_coup_d'etat_against_the_Dous"},
+            {"title": "Cai Lun - Wikipedia", "url": "https://en.wikipedia.org/wiki/Cai_Lun"}
+          ],
+          "image": {
+            "file": "File:Eastern Han Luoyang Mural of Liubo players.jpg",
+            "kind": "period",
+            "caption": "Two men playing the board game liubo, detail of a mural from an Eastern Han tomb (AD 25-220) at Zhucun, Luoyang."
+          }
+        },
+        "alexandria": {
+          "polity": "Roman Empire (Egypt)",
+          "blurb": "Capital of Roman Egypt, a province held by the emperor through his own prefect, and a key granary for Rome. Tension between Jews and Greeks had brought riots in AD 38 and 66.",
+          "sources": [
+            {"title": "History of Alexandria - Wikipedia", "url": "https://en.wikipedia.org/wiki/History_of_Alexandria#Roman_annexation"}
+          ],
+          "image": {
+            "file": "File:Monete romane, alessandria, in bronzo, con faro e imbarcazione, II secolo dc. 01.jpg",
+            "kind": "period",
+            "caption": "Roman bronze coins of Alexandria showing the Pharos lighthouse and a ship, 2nd century AD; Numismatic Museum of Athens."
+          }
+        },
+        "antioch": {
+          "polity": "Roman Empire (Syria)",
+          "blurb": "Roman emperors treated it as an eastern Rome, adding a forum, colonnades and a hippodrome modelled on the Circus Maximus. It was a chief centre of early Christianity, where converts were first called Christians.",
+          "sources": [
+            {"title": "Antioch - Wikipedia", "url": "https://en.wikipedia.org/wiki/Antioch#Roman_rule_before_Constantine"},
+            {"title": "Antioch - Wikipedia", "url": "https://en.wikipedia.org/wiki/Antioch#Christianity"}
+          ],
+          "image": {
+            "file": "File:Mosaic of Isiac Ceremony, from Daphne near Antioch, 2nd century AD, Hatay Archaeology Museum, Antakya, Turkey (36063955161).jpg",
+            "kind": "period",
+            "caption": "Mosaic of a ceremony for Isis from Daphne, Antioch's suburb, 2nd century AD; Hatay Archaeology Museum, Antakya."
+          }
+        },
+        "carthage": {
+          "polity": "Roman Empire (Africa Proconsularis)",
+          "blurb": "Refounded by Julius Caesar as Colonia Iulia Concordia Carthago, it was the capital of grain-rich Roman Africa and the second city of the western empire. Its amphitheatre was built around this time.",
+          "sources": [
+            {"title": "Roman Carthage - Wikipedia", "url": "https://en.wikipedia.org/wiki/Roman_Carthage#Foundation"},
+            {"title": "Carthage amphitheatre - Wikipedia", "url": "https://en.wikipedia.org/wiki/Carthage_amphitheatre#History"}
+          ],
+          "image": {
+            "file": "File:Roman amphitheatre of Carthage - view from above.jpg",
+            "kind": "site",
+            "caption": "The arena of the Roman amphitheatre of Carthage, Tunisia; photo 2010."
+          }
+        },
+        "seleucia": {
+          "polity": "Parthian Empire",
+          "blurb": "Under Parthian rule it was still, Tacitus wrote, a fully Hellenistic city, and the earliest Parthian iwans were built here in the early 1st century AD. Trajan would burn it in 117.",
+          "sources": [
+            {"title": "Seleucia - Wikipedia", "url": "https://en.wikipedia.org/wiki/Seleucia#Seleucid_Empire"},
+            {"title": "Parthian Empire - Wikipedia", "url": "https://en.wikipedia.org/wiki/Parthian_Empire#Art_and_architecture"}
+          ],
+          "image": {
+            "file": "File:Tetradrachm of Vonones I, Seleucia mint.jpg",
+            "kind": "period",
+            "caption": "Silver tetradrachm of the Parthian king Vonones I (reigned AD 8-12), struck at the Seleucia mint."
+          }
+        }
+      }
+    }
+  }
+}

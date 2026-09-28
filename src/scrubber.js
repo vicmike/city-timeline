@@ -66,6 +66,7 @@ export function createScrubber(root, snapshots, { onChange }) {
     root.querySelectorAll(".stop").forEach((el, j) => {
       el.classList.toggle("past", j <= i);
       el.classList.toggle("current", j === i);
+      el.classList.toggle("near", Math.abs(j - i) === 1); // keep the thumb label readable
     });
     if (!silent && changed) onChange(i);
   }

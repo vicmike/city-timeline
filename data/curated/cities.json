@@ -10,75 +10,1407 @@
     "latin-america": "Latin America"
   },
   "cities": {
-    "thebes": {"wikipedia": "Thebes, Egypt", "region": "west-asia-north-africa", "country": "Egypt", "chandler": ["Thebes|Egypt"], "names": [{"name": "Thebes"}], "aliases": ["Waset"]},
-    "hattusa": {"wikipedia": "Hattusa", "region": "west-asia-north-africa", "country": "Turkey", "chandler": ["Hattusa|Turkey"], "names": [{"name": "Hattusa"}]},
-    "dur-kurigalzu": {"wikipedia": "Dur-Kurigalzu", "region": "west-asia-north-africa", "country": "Iraq", "chandler": ["Dur-Kurigalzu|Iraq"], "names": [{"name": "Dur-Kurigalzu"}]},
-    "ao": {"wikipedia": "Zhengzhou Shang City", "region": "east-asia", "country": "China", "chandler": ["Ao|China"], "names": [{"name": "Ao (Zhengzhou)"}]},
-    "memphis": {"wikipedia": "Memphis, Egypt", "region": "west-asia-north-africa", "country": "Egypt", "chandler": ["Memphis|Egypt"], "names": [{"name": "Memphis"}]},
-    "amarna": {"wikipedia": "Amarna", "region": "west-asia-north-africa", "country": "Egypt", "chandler": ["Amarna|Egypt"], "names": [{"name": "Akhetaten (Amarna)"}]},
-    "heliopolis": {"wikipedia": "Heliopolis (ancient Egypt)", "region": "west-asia-north-africa", "country": "Egypt", "chandler": ["Heliopolis|Egypt"], "names": [{"name": "Heliopolis"}]},
-    "knossos": {"wikipedia": "Knossos", "region": "europe", "country": "Greece", "chandler": ["Knossos|Greece"], "names": [{"name": "Knossos"}]},
-    "nineveh": {"wikipedia": "Nineveh", "region": "west-asia-north-africa", "country": "Iraq", "chandler": ["Nineveh|Iraq"], "names": [{"name": "Nineveh"}]},
-    "luoyang": {"wikipedia": "Luoyang", "region": "east-asia", "country": "China", "chandler": ["Luoyang|China"], "wup2018": [20612], "names": [{"name": "Luoyang"}], "aliases": ["Chengzhou", "Luoyi"]},
-    "babylon": {"wikipedia": "Babylon", "region": "west-asia-north-africa", "country": "Iraq", "chandler": ["Babylon|Iraq"], "names": [{"name": "Babylon"}]},
-    "miletus": {"wikipedia": "Miletus", "region": "west-asia-north-africa", "country": "Turkey", "chandler": ["Miletus|Turkey"], "names": [{"name": "Miletus"}]},
-    "sais": {"wikipedia": "Sais, Egypt", "region": "west-asia-north-africa", "country": "Egypt", "chandler": ["Sais|Egypt"], "names": [{"name": "Sais"}]},
-    "athens": {"wikipedia": "Athens", "region": "europe", "country": "Greece", "chandler": ["Athens|Greece"], "names": [{"name": "Athens"}]},
-    "syracuse": {"wikipedia": "Syracuse, Sicily", "region": "europe", "country": "Italy", "chandler": ["Syracuse|Greece"], "names": [{"name": "Syracuse"}]},
-    "pataliputra": {"wikipedia": "Pataliputra", "region": "south-asia", "country": "India", "chandler": ["Patna|India"], "wup2018": [21364], "names": [{"name": "Pataliputra", "to": 1540}, {"name": "Patna"}], "aliases": ["Patna"]},
-    "xian": {"wikipedia": "Xi'an", "region": "east-asia", "country": "China", "chandler": ["Xian|China"], "wup2018": [20721], "wup2025": [8371], "names": [{"name": "Chang'an", "to": 1368}, {"name": "Xi'an"}], "aliases": ["Chang'an", "Changan", "Xian"]},
-    "alexandria": {"wikipedia": "Alexandria", "region": "west-asia-north-africa", "country": "Egypt", "chandler": ["Alexandria|Egypt"], "wup2018": [22804], "wup2025": [275], "names": [{"name": "Alexandria"}]},
-    "seleucia": {"wikipedia": "Seleucia", "region": "west-asia-north-africa", "country": "Iraq", "chandler": ["Seleucia|Iraq"], "names": [{"name": "Seleucia"}]},
-    "carthage": {"wikipedia": "Carthage", "region": "west-asia-north-africa", "country": "Tunisia", "chandler": ["Carthage|Tunisia"], "names": [{"name": "Carthage"}]},
-    "rome": {"wikipedia": "Rome", "region": "europe", "country": "Italy", "chandler": ["Rome|Italy"], "wup2018": [21588], "wup2025": [4156], "names": [{"name": "Rome"}]},
-    "ctesiphon": {"wikipedia": "Ctesiphon", "region": "west-asia-north-africa", "country": "Iraq", "chandler": ["Ctesiphon|Iraq"], "names": [{"name": "Ctesiphon"}]},
-    "antioch": {"wikipedia": "Antioch", "region": "west-asia-north-africa", "country": "Turkey", "chandler": ["Antioch|Syria/Turkey"], "names": [{"name": "Antioch"}]},
-    "nanjing": {"wikipedia": "Nanjing", "region": "east-asia", "country": "China", "chandler": ["Nanjing|China"], "wup2018": [20625], "wup2025": [11254], "names": [{"name": "Jiankang", "to": 589}, {"name": "Nanjing"}], "aliases": ["Yingtian", "Yingtian (Nanjing)", "Jiankang"]},
-    "istanbul": {"wikipedia": "Istanbul", "region": "west-asia-north-africa", "country": "Turkey", "chandler": ["Istanbul|Turkey"], "wup2018": [22691], "wup2025": [2626], "names": [{"name": "Byzantium", "to": 329}, {"name": "Constantinople", "to": 1929}, {"name": "Istanbul"}], "aliases": ["Constantinople", "Byzantium"]},
-    "teotihuacan": {"wikipedia": "Teotihuacan", "region": "latin-america", "country": "Mexico", "chandler": ["Teotihuacan|Mexico"], "names": [{"name": "Teotihuacan"}]},
-    "kannauj": {"wikipedia": "Kannauj", "region": "south-asia", "country": "India", "chandler": ["Kanauji|India"], "names": [{"name": "Kannauj"}]},
-    "baghdad": {"wikipedia": "Baghdad", "region": "west-asia-north-africa", "country": "Iraq", "chandler": ["Baghdad|Iraq"], "wup2018": [21529], "wup2025": [3303], "names": [{"name": "Baghdad"}]},
-    "kyoto": {"wikipedia": "Kyoto", "region": "east-asia", "country": "Japan", "chandler": ["Kyoto|Japan"], "names": [{"name": "Heian-kyō", "to": 1099}, {"name": "Kyoto"}], "aliases": ["Heian-kyo", "Heiankyo"]},
-    "cordoba": {"wikipedia": "Córdoba, Spain", "region": "europe", "country": "Spain", "chandler": ["Cordoba|Spain"], "wup2018": [22531], "names": [{"name": "Córdoba"}], "aliases": ["Cordoba", "Cordova"]},
-    "cairo": {"wikipedia": "Cairo", "region": "west-asia-north-africa", "country": "Egypt", "chandler": ["Cairo|Egypt"], "wup2018": [22812], "wup2025": [4435], "names": [{"name": "Fustat", "to": 968}, {"name": "Cairo"}], "aliases": ["Fustat", "Fostat"]},
-    "kaifeng": {"wikipedia": "Kaifeng", "region": "east-asia", "country": "China", "chandler": ["Kaifeng|China"], "wup2018": [20581], "names": [{"name": "Kaifeng"}], "aliases": ["Bianjing", "Bianliang"]},
-    "angkor": {"wikipedia": "Angkor", "region": "southeast-asia", "country": "Cambodia", "chandler": ["Angkor|Cambodia"], "names": [{"name": "Angkor"}]},
-    "hangzhou": {"wikipedia": "Hangzhou", "region": "east-asia", "country": "China", "chandler": ["Hangzhou|China"], "wup2018": [20524], "wup2025": [11700], "names": [{"name": "Hangzhou"}], "aliases": ["Lin'an"]},
-    "fez": {"wikipedia": "Fez, Morocco", "region": "west-asia-north-africa", "country": "Morocco", "chandler": ["Fez|Morocco"], "names": [{"name": "Fez"}]},
-    "bagan": {"wikipedia": "Bagan", "region": "southeast-asia", "country": "Myanmar", "chandler": ["Bagan|Myanmar"], "names": [{"name": "Pagan (Bagan)"}]},
-    "kamakura": {"wikipedia": "Kamakura", "region": "east-asia", "country": "Japan", "chandler": ["Kamakura|Japan"], "names": [{"name": "Kamakura"}]},
-    "marrakesh": {"wikipedia": "Marrakesh", "region": "west-asia-north-africa", "country": "Morocco", "chandler": ["Marrakech|Morocco"], "wup2018": [21896], "names": [{"name": "Marrakesh"}]},
-    "basavakalyan": {"wikipedia": "Basavakalyan", "region": "south-asia", "country": "India", "chandler": ["Kalyan|India"], "names": [{"name": "Kalyani (Basavakalyan)"}]},
-    "beijing": {"wikipedia": "Beijing", "region": "east-asia", "country": "China", "chandler": ["Beijing|China"], "wup2018": [20464], "wup2025": [9020], "names": [{"name": "Khanbaliq", "to": 1367}, {"name": "Beiping", "to": 1402}, {"name": "Beijing"}], "aliases": ["Khanbaliq", "Dadu", "Peking"]},
-    "paris": {"wikipedia": "Paris", "region": "europe", "country": "France", "chandler": ["Paris|France"], "wup2018": [20985], "wup2025": [2994], "names": [{"name": "Paris"}]},
-    "vijayanagara": {"wikipedia": "Vijayanagara", "region": "south-asia", "country": "India", "chandler": ["Vijayanagar|India"], "names": [{"name": "Vijayanagara"}]},
-    "tabriz": {"wikipedia": "Tabriz", "region": "west-asia-north-africa", "country": "Iran", "chandler": ["Tabriz|Iran"], "wup2018": [21522], "names": [{"name": "Tabriz"}]},
-    "gauda": {"wikipedia": "Gauḍa (city)", "region": "south-asia", "country": "India", "chandler": ["Gauda|India"], "names": [{"name": "Gauda"}]},
-    "agra": {"wikipedia": "Agra", "region": "south-asia", "country": "India", "chandler": ["Agra|India"], "wup2018": [21151], "names": [{"name": "Agra"}]},
-    "osaka": {"wikipedia": "Osaka", "region": "east-asia", "country": "Japan", "chandler": ["Osaka|Japan"], "wup2018": [206459], "wup2025": [4490], "names": [{"name": "Osaka"}], "unLabel": {"wup2018": "Osaka–Kobe–Kyoto (Kinki metro area)"}},
-    "tokyo": {"wikipedia": "Tokyo", "region": "east-asia", "country": "Japan", "chandler": ["Tokyo|Japan"], "wup2018": [21671], "wup2025": [6030], "names": [{"name": "Edo", "to": 1867}, {"name": "Tokyo"}], "aliases": ["Edo"]},
-    "london": {"wikipedia": "London", "region": "europe", "country": "United Kingdom", "chandler": ["London|United Kingdom"], "wup2018": [22860], "wup2025": [5938], "names": [{"name": "London"}]},
-    "ahmedabad": {"wikipedia": "Ahmedabad", "region": "south-asia", "country": "India", "chandler": ["Ahmedabad|India"], "wup2018": [21152], "wup2025": [6408], "names": [{"name": "Ahmedabad"}]},
-    "guangzhou": {"wikipedia": "Guangzhou", "region": "east-asia", "country": "China", "chandler": ["Guangzhou|China"], "wup2018": [20517], "wup2025": [11306], "names": [{"name": "Guangzhou"}], "aliases": ["Canton"]},
-    "new-york": {"wikipedia": "New York City", "region": "north-america", "country": "United States", "chandler": ["New York|United States of America"], "wup2018": [23083], "wup2025": [8354], "names": [{"name": "New York"}], "aliases": ["New York (urban area)"], "unLabel": {"wup2018": "New York–Newark urban area"}},
-    "berlin": {"wikipedia": "Berlin", "region": "europe", "country": "Germany", "chandler": ["Berlin|Germany"], "wup2018": [204296], "wup2025": [5576], "names": [{"name": "Berlin"}]},
-    "vienna": {"wikipedia": "Vienna", "region": "europe", "country": "Austria", "chandler": ["Vienna|Austria"], "wup2018": [20107], "wup2025": [1054], "names": [{"name": "Vienna"}]},
-    "chicago": {"wikipedia": "Chicago", "region": "north-america", "country": "United States", "chandler": ["Chicago|United States of America"], "wup2018": [22956], "wup2025": [7747], "names": [{"name": "Chicago"}]},
-    "saint-petersburg": {"wikipedia": "Saint Petersburg", "region": "europe", "country": "Russia", "chandler": ["Saint Petersburg|Russian Federation"], "wup2018": [22365], "wup2025": [568], "names": [{"name": "Saint Petersburg", "to": 1913}, {"name": "Petrograd", "to": 1923}, {"name": "Leningrad", "to": 1990}, {"name": "Saint Petersburg"}]},
-    "naples": {"wikipedia": "Naples", "region": "europe", "country": "Italy", "chandler": ["Naples|Italy"], "wup2018": [21574], "wup2025": [4726], "names": [{"name": "Naples"}]},
-    "mumbai": {"wikipedia": "Mumbai", "region": "south-asia", "country": "India", "chandler": ["Mumbai|India"], "wup2018": [21206], "wup2025": [7945], "names": [{"name": "Bombay", "to": 1994}, {"name": "Mumbai"}], "aliases": ["Bombay"]},
-    "shanghai": {"wikipedia": "Shanghai", "region": "east-asia", "country": "China", "wup2018": [20656], "wup2025": [11738], "names": [{"name": "Shanghai"}]},
-    "moscow": {"wikipedia": "Moscow", "region": "europe", "country": "Russia", "wup2018": [22299], "wup2025": [2485], "names": [{"name": "Moscow"}]},
-    "mexico-city": {"wikipedia": "Mexico City", "region": "latin-america", "country": "Mexico", "wup2018": [21853], "wup2025": [5439], "names": [{"name": "Mexico City"}]},
-    "sao-paulo": {"wikipedia": "São Paulo", "region": "latin-america", "country": "Brazil", "wup2018": [20287], "wup2025": [7303], "names": [{"name": "São Paulo"}]},
-    "buenos-aires": {"wikipedia": "Buenos Aires", "region": "latin-america", "country": "Argentina", "wup2018": [20058], "wup2025": [4459], "names": [{"name": "Buenos Aires"}]},
-    "los-angeles": {"wikipedia": "Los Angeles", "region": "north-america", "country": "United States", "wup2018": [23052], "wup2025": [1725], "names": [{"name": "Los Angeles"}]},
-    "delhi": {"wikipedia": "Delhi", "region": "south-asia", "country": "India", "wup2018": [21228], "wup2025": [8364], "names": [{"name": "Delhi"}]},
-    "dhaka": {"wikipedia": "Dhaka", "region": "south-asia", "country": "Bangladesh", "wup2018": [20119], "wup2025": [6249], "names": [{"name": "Dhaka"}]},
-    "kolkata": {"wikipedia": "Kolkata", "region": "south-asia", "country": "India", "wup2018": [21211], "wup2025": [11821], "names": [{"name": "Calcutta", "to": 2000}, {"name": "Kolkata"}], "aliases": ["Calcutta"]},
-    "jakarta": {"wikipedia": "Jakarta", "region": "southeast-asia", "country": "Indonesia", "wup2018": [21454], "wup2025": [5590], "names": [{"name": "Jakarta"}]},
-    "seoul": {"wikipedia": "Seoul", "region": "east-asia", "country": "South Korea", "wup2018": [21758], "wup2025": [332], "names": [{"name": "Seoul"}]},
-    "manila": {"wikipedia": "Manila", "region": "southeast-asia", "country": "Philippines", "wup2018": [22109], "wup2025": [2369], "names": [{"name": "Manila"}]},
-    "karachi": {"wikipedia": "Karachi", "region": "south-asia", "country": "Pakistan", "wup2018": [22044], "wup2025": [2578], "names": [{"name": "Karachi"}]}
+    "thebes": {
+      "wikipedia": "Thebes, Egypt",
+      "region": "west-asia-north-africa",
+      "country": "Egypt",
+      "chandler": [
+        "Thebes|Egypt"
+      ],
+      "names": [
+        {
+          "name": "Thebes"
+        }
+      ],
+      "aliases": [
+        "Waset"
+      ]
+    },
+    "hattusa": {
+      "wikipedia": "Hattusa",
+      "region": "west-asia-north-africa",
+      "country": "Turkey",
+      "chandler": [
+        "Hattusa|Turkey"
+      ],
+      "names": [
+        {
+          "name": "Hattusa"
+        }
+      ]
+    },
+    "dur-kurigalzu": {
+      "wikipedia": "Dur-Kurigalzu",
+      "region": "west-asia-north-africa",
+      "country": "Iraq",
+      "chandler": [
+        "Dur-Kurigalzu|Iraq"
+      ],
+      "names": [
+        {
+          "name": "Dur-Kurigalzu"
+        }
+      ]
+    },
+    "ao": {
+      "wikipedia": "Zhengzhou Shang City",
+      "region": "east-asia",
+      "country": "China",
+      "chandler": [
+        "Ao|China"
+      ],
+      "names": [
+        {
+          "name": "Ao (Zhengzhou)"
+        }
+      ],
+      "aliases": [
+        "Zhengzhou"
+      ]
+    },
+    "memphis": {
+      "wikipedia": "Memphis, Egypt",
+      "region": "west-asia-north-africa",
+      "country": "Egypt",
+      "chandler": [
+        "Memphis|Egypt"
+      ],
+      "names": [
+        {
+          "name": "Memphis"
+        }
+      ]
+    },
+    "amarna": {
+      "wikipedia": "Amarna",
+      "region": "west-asia-north-africa",
+      "country": "Egypt",
+      "chandler": [
+        "Amarna|Egypt"
+      ],
+      "names": [
+        {
+          "name": "Akhetaten (Amarna)"
+        }
+      ]
+    },
+    "heliopolis": {
+      "wikipedia": "Heliopolis (ancient Egypt)",
+      "region": "west-asia-north-africa",
+      "country": "Egypt",
+      "chandler": [
+        "Heliopolis|Egypt"
+      ],
+      "names": [
+        {
+          "name": "Heliopolis"
+        }
+      ]
+    },
+    "knossos": {
+      "wikipedia": "Knossos",
+      "region": "europe",
+      "country": "Greece",
+      "chandler": [
+        "Knossos|Greece"
+      ],
+      "names": [
+        {
+          "name": "Knossos"
+        }
+      ]
+    },
+    "nineveh": {
+      "wikipedia": "Nineveh",
+      "region": "west-asia-north-africa",
+      "country": "Iraq",
+      "chandler": [
+        "Nineveh|Iraq"
+      ],
+      "names": [
+        {
+          "name": "Nineveh"
+        }
+      ],
+      "aliases": [
+        "Niniveh"
+      ]
+    },
+    "luoyang": {
+      "wikipedia": "Luoyang",
+      "region": "east-asia",
+      "country": "China",
+      "chandler": [
+        "Luoyang|China"
+      ],
+      "wup2018": [
+        20612
+      ],
+      "names": [
+        {
+          "name": "Luoyang"
+        }
+      ],
+      "aliases": [
+        "Chengzhou",
+        "Luoyi"
+      ]
+    },
+    "babylon": {
+      "wikipedia": "Babylon",
+      "region": "west-asia-north-africa",
+      "country": "Iraq",
+      "chandler": [
+        "Babylon|Iraq"
+      ],
+      "names": [
+        {
+          "name": "Babylon"
+        }
+      ]
+    },
+    "miletus": {
+      "wikipedia": "Miletus",
+      "region": "west-asia-north-africa",
+      "country": "Turkey",
+      "chandler": [
+        "Miletus|Turkey"
+      ],
+      "names": [
+        {
+          "name": "Miletus"
+        }
+      ]
+    },
+    "sais": {
+      "wikipedia": "Sais, Egypt",
+      "region": "west-asia-north-africa",
+      "country": "Egypt",
+      "chandler": [
+        "Sais|Egypt"
+      ],
+      "names": [
+        {
+          "name": "Sais"
+        }
+      ]
+    },
+    "athens": {
+      "wikipedia": "Athens",
+      "region": "europe",
+      "country": "Greece",
+      "chandler": [
+        "Athens|Greece"
+      ],
+      "names": [
+        {
+          "name": "Athens"
+        }
+      ]
+    },
+    "syracuse": {
+      "wikipedia": "Syracuse, Sicily",
+      "region": "europe",
+      "country": "Italy",
+      "chandler": [
+        "Syracuse|Greece"
+      ],
+      "names": [
+        {
+          "name": "Syracuse"
+        }
+      ]
+    },
+    "pataliputra": {
+      "wikipedia": "Pataliputra",
+      "region": "south-asia",
+      "country": "India",
+      "chandler": [
+        "Patna|India"
+      ],
+      "wup2018": [
+        21364
+      ],
+      "names": [
+        {
+          "name": "Pataliputra",
+          "to": 1540
+        },
+        {
+          "name": "Patna"
+        }
+      ],
+      "aliases": [
+        "Patna"
+      ]
+    },
+    "xian": {
+      "wikipedia": "Xi'an",
+      "region": "east-asia",
+      "country": "China",
+      "chandler": [
+        "Xian|China"
+      ],
+      "wup2018": [
+        20721
+      ],
+      "wup2025": [
+        8371
+      ],
+      "names": [
+        {
+          "name": "Chang'an",
+          "to": 1368
+        },
+        {
+          "name": "Xi'an"
+        }
+      ],
+      "aliases": [
+        "Chang'an",
+        "Changan",
+        "Xian"
+      ]
+    },
+    "alexandria": {
+      "wikipedia": "Alexandria",
+      "region": "west-asia-north-africa",
+      "country": "Egypt",
+      "chandler": [
+        "Alexandria|Egypt"
+      ],
+      "wup2018": [
+        22804
+      ],
+      "wup2025": [
+        275
+      ],
+      "names": [
+        {
+          "name": "Alexandria"
+        }
+      ]
+    },
+    "seleucia": {
+      "wikipedia": "Seleucia",
+      "region": "west-asia-north-africa",
+      "country": "Iraq",
+      "chandler": [
+        "Seleucia|Iraq"
+      ],
+      "names": [
+        {
+          "name": "Seleucia"
+        }
+      ]
+    },
+    "carthage": {
+      "wikipedia": "Carthage",
+      "region": "west-asia-north-africa",
+      "country": "Tunisia",
+      "chandler": [
+        "Carthage|Tunisia"
+      ],
+      "names": [
+        {
+          "name": "Carthage"
+        }
+      ]
+    },
+    "rome": {
+      "wikipedia": "Rome",
+      "region": "europe",
+      "country": "Italy",
+      "chandler": [
+        "Rome|Italy"
+      ],
+      "wup2018": [
+        21588
+      ],
+      "wup2025": [
+        4156
+      ],
+      "names": [
+        {
+          "name": "Rome"
+        }
+      ]
+    },
+    "ctesiphon": {
+      "wikipedia": "Ctesiphon",
+      "region": "west-asia-north-africa",
+      "country": "Iraq",
+      "chandler": [
+        "Ctesiphon|Iraq"
+      ],
+      "names": [
+        {
+          "name": "Ctesiphon"
+        }
+      ]
+    },
+    "antioch": {
+      "wikipedia": "Antioch",
+      "region": "west-asia-north-africa",
+      "country": "Turkey",
+      "chandler": [
+        "Antioch|Syria/Turkey"
+      ],
+      "names": [
+        {
+          "name": "Antioch"
+        }
+      ]
+    },
+    "nanjing": {
+      "wikipedia": "Nanjing",
+      "region": "east-asia",
+      "country": "China",
+      "chandler": [
+        "Nanjing|China"
+      ],
+      "wup2018": [
+        20625
+      ],
+      "wup2025": [
+        11254
+      ],
+      "names": [
+        {
+          "name": "Jiankang",
+          "to": 589
+        },
+        {
+          "name": "Nanjing"
+        }
+      ],
+      "aliases": [
+        "Yingtian",
+        "Yingtian (Nanjing)",
+        "Jiankang"
+      ]
+    },
+    "istanbul": {
+      "wikipedia": "Istanbul",
+      "region": "west-asia-north-africa",
+      "country": "Turkey",
+      "chandler": [
+        "Istanbul|Turkey"
+      ],
+      "wup2018": [
+        22691
+      ],
+      "wup2025": [
+        2626
+      ],
+      "names": [
+        {
+          "name": "Byzantium",
+          "to": 329
+        },
+        {
+          "name": "Constantinople",
+          "to": 1929
+        },
+        {
+          "name": "Istanbul"
+        }
+      ],
+      "aliases": [
+        "Constantinople",
+        "Byzantium"
+      ]
+    },
+    "teotihuacan": {
+      "wikipedia": "Teotihuacan",
+      "region": "latin-america",
+      "country": "Mexico",
+      "chandler": [
+        "Teotihuacan|Mexico"
+      ],
+      "names": [
+        {
+          "name": "Teotihuacan"
+        }
+      ]
+    },
+    "kannauj": {
+      "wikipedia": "Kannauj",
+      "region": "south-asia",
+      "country": "India",
+      "chandler": [
+        "Kanauji|India"
+      ],
+      "names": [
+        {
+          "name": "Kannauj"
+        }
+      ]
+    },
+    "baghdad": {
+      "wikipedia": "Baghdad",
+      "region": "west-asia-north-africa",
+      "country": "Iraq",
+      "chandler": [
+        "Baghdad|Iraq"
+      ],
+      "wup2018": [
+        21529
+      ],
+      "wup2025": [
+        3303
+      ],
+      "names": [
+        {
+          "name": "Baghdad"
+        }
+      ]
+    },
+    "kyoto": {
+      "wikipedia": "Kyoto",
+      "region": "east-asia",
+      "country": "Japan",
+      "chandler": [
+        "Kyoto|Japan"
+      ],
+      "names": [
+        {
+          "name": "Heian-kyō",
+          "to": 1099
+        },
+        {
+          "name": "Kyoto"
+        }
+      ],
+      "aliases": [
+        "Heian-kyo",
+        "Heiankyo"
+      ]
+    },
+    "cordoba": {
+      "wikipedia": "Córdoba, Spain",
+      "region": "europe",
+      "country": "Spain",
+      "chandler": [
+        "Cordoba|Spain"
+      ],
+      "wup2018": [
+        22531
+      ],
+      "names": [
+        {
+          "name": "Córdoba"
+        }
+      ],
+      "aliases": [
+        "Cordoba",
+        "Cordova"
+      ]
+    },
+    "cairo": {
+      "wikipedia": "Cairo",
+      "region": "west-asia-north-africa",
+      "country": "Egypt",
+      "chandler": [
+        "Cairo|Egypt"
+      ],
+      "wup2018": [
+        22812
+      ],
+      "wup2025": [
+        4435
+      ],
+      "names": [
+        {
+          "name": "Fustat",
+          "to": 968
+        },
+        {
+          "name": "Cairo"
+        }
+      ],
+      "aliases": [
+        "Fustat",
+        "Fostat"
+      ]
+    },
+    "kaifeng": {
+      "wikipedia": "Kaifeng",
+      "region": "east-asia",
+      "country": "China",
+      "chandler": [
+        "Kaifeng|China"
+      ],
+      "wup2018": [
+        20581
+      ],
+      "names": [
+        {
+          "name": "Kaifeng"
+        }
+      ],
+      "aliases": [
+        "Bianjing",
+        "Bianliang"
+      ]
+    },
+    "angkor": {
+      "wikipedia": "Angkor",
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "chandler": [
+        "Angkor|Cambodia"
+      ],
+      "names": [
+        {
+          "name": "Angkor"
+        }
+      ]
+    },
+    "hangzhou": {
+      "wikipedia": "Hangzhou",
+      "region": "east-asia",
+      "country": "China",
+      "chandler": [
+        "Hangzhou|China"
+      ],
+      "wup2018": [
+        20524
+      ],
+      "wup2025": [
+        11700
+      ],
+      "names": [
+        {
+          "name": "Hangzhou"
+        }
+      ],
+      "aliases": [
+        "Lin'an"
+      ]
+    },
+    "fez": {
+      "wikipedia": "Fez, Morocco",
+      "region": "west-asia-north-africa",
+      "country": "Morocco",
+      "chandler": [
+        "Fez|Morocco"
+      ],
+      "names": [
+        {
+          "name": "Fez"
+        }
+      ],
+      "aliases": [
+        "Fes, Morocco",
+        "Fes"
+      ]
+    },
+    "bagan": {
+      "wikipedia": "Bagan",
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "chandler": [
+        "Bagan|Myanmar"
+      ],
+      "names": [
+        {
+          "name": "Pagan (Bagan)"
+        }
+      ]
+    },
+    "kamakura": {
+      "wikipedia": "Kamakura",
+      "region": "east-asia",
+      "country": "Japan",
+      "chandler": [
+        "Kamakura|Japan"
+      ],
+      "names": [
+        {
+          "name": "Kamakura"
+        }
+      ]
+    },
+    "marrakesh": {
+      "wikipedia": "Marrakesh",
+      "region": "west-asia-north-africa",
+      "country": "Morocco",
+      "chandler": [
+        "Marrakech|Morocco"
+      ],
+      "wup2018": [
+        21896
+      ],
+      "names": [
+        {
+          "name": "Marrakesh"
+        }
+      ]
+    },
+    "basavakalyan": {
+      "wikipedia": "Basavakalyan",
+      "region": "south-asia",
+      "country": "India",
+      "chandler": [
+        "Kalyan|India"
+      ],
+      "names": [
+        {
+          "name": "Kalyani (Basavakalyan)"
+        }
+      ]
+    },
+    "beijing": {
+      "wikipedia": "Beijing",
+      "region": "east-asia",
+      "country": "China",
+      "chandler": [
+        "Beijing|China"
+      ],
+      "wup2018": [
+        20464
+      ],
+      "wup2025": [
+        9020
+      ],
+      "names": [
+        {
+          "name": "Khanbaliq",
+          "to": 1367
+        },
+        {
+          "name": "Beiping",
+          "to": 1402
+        },
+        {
+          "name": "Beijing"
+        }
+      ],
+      "aliases": [
+        "Khanbaliq",
+        "Dadu",
+        "Peking"
+      ]
+    },
+    "paris": {
+      "wikipedia": "Paris",
+      "region": "europe",
+      "country": "France",
+      "chandler": [
+        "Paris|France"
+      ],
+      "wup2018": [
+        20985
+      ],
+      "wup2025": [
+        2994
+      ],
+      "names": [
+        {
+          "name": "Paris"
+        }
+      ]
+    },
+    "vijayanagara": {
+      "wikipedia": "Vijayanagara",
+      "region": "south-asia",
+      "country": "India",
+      "chandler": [
+        "Vijayanagar|India"
+      ],
+      "names": [
+        {
+          "name": "Vijayanagara"
+        }
+      ]
+    },
+    "tabriz": {
+      "wikipedia": "Tabriz",
+      "region": "west-asia-north-africa",
+      "country": "Iran",
+      "chandler": [
+        "Tabriz|Iran"
+      ],
+      "wup2018": [
+        21522
+      ],
+      "names": [
+        {
+          "name": "Tabriz"
+        }
+      ]
+    },
+    "gauda": {
+      "wikipedia": "Gauḍa (city)",
+      "region": "south-asia",
+      "country": "India",
+      "chandler": [
+        "Gauda|India"
+      ],
+      "names": [
+        {
+          "name": "Gauda"
+        }
+      ]
+    },
+    "agra": {
+      "wikipedia": "Agra",
+      "region": "south-asia",
+      "country": "India",
+      "chandler": [
+        "Agra|India"
+      ],
+      "wup2018": [
+        21151
+      ],
+      "names": [
+        {
+          "name": "Agra"
+        }
+      ]
+    },
+    "osaka": {
+      "wikipedia": "Osaka",
+      "region": "east-asia",
+      "country": "Japan",
+      "chandler": [
+        "Osaka|Japan"
+      ],
+      "wup2018": [
+        206459
+      ],
+      "wup2025": [
+        4490
+      ],
+      "names": [
+        {
+          "name": "Osaka"
+        }
+      ],
+      "unLabel": {
+        "wup2018": "Osaka–Kobe–Kyoto (Kinki metro area)"
+      }
+    },
+    "tokyo": {
+      "wikipedia": "Tokyo",
+      "region": "east-asia",
+      "country": "Japan",
+      "chandler": [
+        "Tokyo|Japan"
+      ],
+      "wup2018": [
+        21671
+      ],
+      "wup2025": [
+        6030
+      ],
+      "names": [
+        {
+          "name": "Edo",
+          "to": 1867
+        },
+        {
+          "name": "Tokyo"
+        }
+      ],
+      "aliases": [
+        "Edo"
+      ]
+    },
+    "london": {
+      "wikipedia": "London",
+      "region": "europe",
+      "country": "United Kingdom",
+      "chandler": [
+        "London|United Kingdom"
+      ],
+      "wup2018": [
+        22860
+      ],
+      "wup2025": [
+        5938
+      ],
+      "names": [
+        {
+          "name": "London"
+        }
+      ]
+    },
+    "ahmedabad": {
+      "wikipedia": "Ahmedabad",
+      "region": "south-asia",
+      "country": "India",
+      "chandler": [
+        "Ahmedabad|India"
+      ],
+      "wup2018": [
+        21152
+      ],
+      "wup2025": [
+        6408
+      ],
+      "names": [
+        {
+          "name": "Ahmedabad"
+        }
+      ]
+    },
+    "guangzhou": {
+      "wikipedia": "Guangzhou",
+      "region": "east-asia",
+      "country": "China",
+      "chandler": [
+        "Guangzhou|China"
+      ],
+      "wup2018": [
+        20517
+      ],
+      "wup2025": [
+        11306
+      ],
+      "names": [
+        {
+          "name": "Guangzhou"
+        }
+      ],
+      "aliases": [
+        "Canton"
+      ]
+    },
+    "new-york": {
+      "wikipedia": "New York City",
+      "region": "north-america",
+      "country": "United States",
+      "chandler": [
+        "New York|United States of America"
+      ],
+      "wup2018": [
+        23083
+      ],
+      "wup2025": [
+        8354
+      ],
+      "names": [
+        {
+          "name": "New York"
+        }
+      ],
+      "aliases": [
+        "New York (urban area)"
+      ],
+      "unLabel": {
+        "wup2018": "New York–Newark urban area"
+      }
+    },
+    "berlin": {
+      "wikipedia": "Berlin",
+      "region": "europe",
+      "country": "Germany",
+      "chandler": [
+        "Berlin|Germany"
+      ],
+      "wup2018": [
+        204296
+      ],
+      "wup2025": [
+        5576
+      ],
+      "names": [
+        {
+          "name": "Berlin"
+        }
+      ]
+    },
+    "vienna": {
+      "wikipedia": "Vienna",
+      "region": "europe",
+      "country": "Austria",
+      "chandler": [
+        "Vienna|Austria"
+      ],
+      "wup2018": [
+        20107
+      ],
+      "wup2025": [
+        1054
+      ],
+      "names": [
+        {
+          "name": "Vienna"
+        }
+      ]
+    },
+    "chicago": {
+      "wikipedia": "Chicago",
+      "region": "north-america",
+      "country": "United States",
+      "chandler": [
+        "Chicago|United States of America"
+      ],
+      "wup2018": [
+        22956
+      ],
+      "wup2025": [
+        7747
+      ],
+      "names": [
+        {
+          "name": "Chicago"
+        }
+      ]
+    },
+    "saint-petersburg": {
+      "wikipedia": "Saint Petersburg",
+      "region": "europe",
+      "country": "Russia",
+      "chandler": [
+        "Saint Petersburg|Russian Federation"
+      ],
+      "wup2018": [
+        22365
+      ],
+      "wup2025": [
+        568
+      ],
+      "names": [
+        {
+          "name": "Saint Petersburg",
+          "to": 1913
+        },
+        {
+          "name": "Petrograd",
+          "to": 1923
+        },
+        {
+          "name": "Leningrad",
+          "to": 1990
+        },
+        {
+          "name": "Saint Petersburg"
+        }
+      ]
+    },
+    "naples": {
+      "wikipedia": "Naples",
+      "region": "europe",
+      "country": "Italy",
+      "chandler": [
+        "Naples|Italy"
+      ],
+      "wup2018": [
+        21574
+      ],
+      "wup2025": [
+        4726
+      ],
+      "names": [
+        {
+          "name": "Naples"
+        }
+      ]
+    },
+    "mumbai": {
+      "wikipedia": "Mumbai",
+      "region": "south-asia",
+      "country": "India",
+      "chandler": [
+        "Mumbai|India"
+      ],
+      "wup2018": [
+        21206
+      ],
+      "wup2025": [
+        7945
+      ],
+      "names": [
+        {
+          "name": "Bombay",
+          "to": 1994
+        },
+        {
+          "name": "Mumbai"
+        }
+      ],
+      "aliases": [
+        "Bombay"
+      ]
+    },
+    "shanghai": {
+      "wikipedia": "Shanghai",
+      "region": "east-asia",
+      "country": "China",
+      "wup2018": [
+        20656
+      ],
+      "wup2025": [
+        11738
+      ],
+      "names": [
+        {
+          "name": "Shanghai"
+        }
+      ]
+    },
+    "moscow": {
+      "wikipedia": "Moscow",
+      "region": "europe",
+      "country": "Russia",
+      "wup2018": [
+        22299
+      ],
+      "wup2025": [
+        2485
+      ],
+      "names": [
+        {
+          "name": "Moscow"
+        }
+      ]
+    },
+    "mexico-city": {
+      "wikipedia": "Mexico City",
+      "region": "latin-america",
+      "country": "Mexico",
+      "wup2018": [
+        21853
+      ],
+      "wup2025": [
+        5439
+      ],
+      "names": [
+        {
+          "name": "Mexico City"
+        }
+      ]
+    },
+    "sao-paulo": {
+      "wikipedia": "São Paulo",
+      "region": "latin-america",
+      "country": "Brazil",
+      "wup2018": [
+        20287
+      ],
+      "wup2025": [
+        7303
+      ],
+      "names": [
+        {
+          "name": "São Paulo"
+        }
+      ]
+    },
+    "buenos-aires": {
+      "wikipedia": "Buenos Aires",
+      "region": "latin-america",
+      "country": "Argentina",
+      "wup2018": [
+        20058
+      ],
+      "wup2025": [
+        4459
+      ],
+      "names": [
+        {
+          "name": "Buenos Aires"
+        }
+      ]
+    },
+    "los-angeles": {
+      "wikipedia": "Los Angeles",
+      "region": "north-america",
+      "country": "United States",
+      "wup2018": [
+        23052
+      ],
+      "wup2025": [
+        1725
+      ],
+      "names": [
+        {
+          "name": "Los Angeles"
+        }
+      ]
+    },
+    "delhi": {
+      "wikipedia": "Delhi",
+      "region": "south-asia",
+      "country": "India",
+      "wup2018": [
+        21228
+      ],
+      "wup2025": [
+        8364
+      ],
+      "names": [
+        {
+          "name": "Delhi"
+        }
+      ]
+    },
+    "dhaka": {
+      "wikipedia": "Dhaka",
+      "region": "south-asia",
+      "country": "Bangladesh",
+      "wup2018": [
+        20119
+      ],
+      "wup2025": [
+        6249
+      ],
+      "names": [
+        {
+          "name": "Dhaka"
+        }
+      ]
+    },
+    "kolkata": {
+      "wikipedia": "Kolkata",
+      "region": "south-asia",
+      "country": "India",
+      "wup2018": [
+        21211
+      ],
+      "wup2025": [
+        11821
+      ],
+      "names": [
+        {
+          "name": "Calcutta",
+          "to": 2000
+        },
+        {
+          "name": "Kolkata"
+        }
+      ],
+      "aliases": [
+        "Calcutta"
+      ]
+    },
+    "jakarta": {
+      "wikipedia": "Jakarta",
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "wup2018": [
+        21454
+      ],
+      "wup2025": [
+        5590
+      ],
+      "names": [
+        {
+          "name": "Jakarta"
+        }
+      ]
+    },
+    "seoul": {
+      "wikipedia": "Seoul",
+      "region": "east-asia",
+      "country": "South Korea",
+      "wup2018": [
+        21758
+      ],
+      "wup2025": [
+        332
+      ],
+      "names": [
+        {
+          "name": "Seoul"
+        }
+      ]
+    },
+    "manila": {
+      "wikipedia": "Manila",
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "wup2018": [
+        22109
+      ],
+      "wup2025": [
+        2369
+      ],
+      "names": [
+        {
+          "name": "Manila"
+        }
+      ]
+    },
+    "karachi": {
+      "wikipedia": "Karachi",
+      "region": "south-asia",
+      "country": "Pakistan",
+      "wup2018": [
+        22044
+      ],
+      "wup2025": [
+        2578
+      ],
+      "names": [
+        {
+          "name": "Karachi"
+        }
+      ]
+    },
+    "mycenae": {
+      "wikipedia": "Mycenae",
+      "region": "europe",
+      "country": "Greece",
+      "names": [
+        {
+          "name": "Mycenae"
+        }
+      ]
+    },
+    "linzi": {
+      "wikipedia": "Ancient Linzi",
+      "region": "east-asia",
+      "country": "China",
+      "names": [
+        {
+          "name": "Linzi"
+        }
+      ],
+      "aliases": [
+        "Linzi"
+      ]
+    },
+    "xiadu": {
+      "wikipedia": "Xiadu",
+      "region": "east-asia",
+      "country": "China",
+      "names": [
+        {
+          "name": "Xiadu"
+        }
+      ]
+    },
+    "xianyang": {
+      "wikipedia": "Xianyang",
+      "region": "east-asia",
+      "country": "China",
+      "wup2018": [
+        20727
+      ],
+      "names": [
+        {
+          "name": "Xianyang"
+        }
+      ]
+    },
+    "varanasi": {
+      "wikipedia": "Varanasi",
+      "region": "south-asia",
+      "country": "India",
+      "names": [
+        {
+          "name": "Varanasi"
+        }
+      ],
+      "aliases": [
+        "Benares",
+        "Kashi"
+      ]
+    },
+    "thanjavur": {
+      "wikipedia": "Thanjavur",
+      "region": "south-asia",
+      "country": "India",
+      "names": [
+        {
+          "name": "Thanjavur"
+        }
+      ],
+      "aliases": [
+        "Tanjore"
+      ]
+    },
+    "tenochtitlan": {
+      "wikipedia": "Tenochtitlan",
+      "region": "latin-america",
+      "country": "Mexico",
+      "names": [
+        {
+          "name": "Tenochtitlan"
+        }
+      ]
+    },
+    "lahore": {
+      "wikipedia": "Lahore",
+      "region": "south-asia",
+      "country": "Pakistan",
+      "names": [
+        {
+          "name": "Lahore"
+        }
+      ]
+    },
+    "el-mirador": {
+      "wikipedia": "El Mirador",
+      "region": "latin-america",
+      "country": "Guatemala",
+      "names": [
+        {
+          "name": "El Mirador"
+        }
+      ]
+    },
+    "xuchang": {
+      "wikipedia": "Xuchang",
+      "region": "east-asia",
+      "country": "China",
+      "names": [
+        {
+          "name": "Xuchang"
+        }
+      ]
+    },
+    "yecheng": {
+      "wikipedia": "Ye (Hebei)",
+      "region": "east-asia",
+      "country": "China",
+      "chandler": [
+        "Handan|China"
+      ],
+      "names": [
+        {
+          "name": "Ye"
+        }
+      ],
+      "aliases": [
+        "Yecheng"
+      ],
+      "_note": "Chandler's digitized 'Handan (other name Ye)' row matches the citypops (Chandler-based) figure for Ye in AD 361 (120,000), so it is mapped here."
+    },
+    "datong": {
+      "wikipedia": "Datong",
+      "region": "east-asia",
+      "country": "China",
+      "names": [
+        {
+          "name": "Pingcheng",
+          "to": 1000
+        },
+        {
+          "name": "Datong"
+        }
+      ],
+      "aliases": [
+        "Pingcheng"
+      ],
+      "_note": "Named Pingcheng as the Northern Wei capital; Wikipedia's Historical urban community sizes labels its AD 400 row 'Pingcheng'."
+    },
+    "kosambi": {
+      "wikipedia": "Kosambi",
+      "region": "south-asia",
+      "country": "India",
+      "names": [
+        {
+          "name": "Kosambi"
+        }
+      ],
+      "aliases": [
+        "Kaushambi"
+      ]
+    }
   }
 }

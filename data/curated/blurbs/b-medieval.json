@@ -91,6 +91,33 @@
             "kind": "period",
             "caption": "Silver drachm of Harshavardhana, struck during his reign (606–647)."
           }
+        },
+        "varanasi": {
+          "polity": "Kingdom of Kannauj (Vardhana dynasty)",
+          "blurb": "A Ganges city within Harsha's realm, ruled from Kannauj. The Chinese pilgrim Xuanzang, visiting around 635, found it thickly populated and prosperous, a centre of religion and learning stretching about 5 km along the western bank.",
+          "sources": [
+            {
+              "title": "Varanasi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Varanasi#Ancient_period"
+            },
+            {
+              "title": "The Varanasi Heritage Dossier/History and Development - Wikiversity",
+              "url": "https://en.wikiversity.org/wiki/The_Varanasi_Heritage_Dossier/History_and_Development"
+            },
+            {
+              "title": "The Varanasi Heritage Dossier/Varanasi/Kashi: Notable Dates in History - Wikiversity",
+              "url": "https://en.wikiversity.org/wiki/The_Varanasi_Heritage_Dossier/Varanasi/Kashi:_Notable_Dates_in_History"
+            },
+            {
+              "title": "Harsha - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Harsha"
+            }
+          ],
+          "image": {
+            "file": "File:Dhamek Stupa, 2025.jpg",
+            "kind": "site",
+            "caption": "The Dhamek Stupa at Sarnath, 8 km from Varanasi, a Buddhist site Xuanzang also visited; photographed in 2025."
+          }
         }
       }
     },
@@ -189,6 +216,29 @@
             "kind": "reconstruction",
             "caption": "Modern scale model of the planned capital Heian-kyō, photographed in 2018."
           }
+        },
+        "guangzhou": {
+          "polity": "Tang dynasty",
+          "blurb": "Tang China's key southern port, known to Persian geographers as Khanfu. Arab and Persian pirates had sacked it in 758; in 801 the Tang geographer Jia Dan recorded a sea route from here to the Euphrates.",
+          "sources": [
+            {
+              "title": "Guangzhou - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Guangzhou#Imperial_China"
+            },
+            {
+              "title": "Guangzhou - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Guangzhou#Toponymy"
+            },
+            {
+              "title": "Jia Dan - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jia_Dan#Works"
+            }
+          ],
+          "image": {
+            "file": "File:Yifa Pagoda, Guangxiao Temple, in 2017.jpg",
+            "kind": "site",
+            "caption": "The Yifa Pagoda at Guangxiao Temple, erected in 676–679 under the Tang; photographed in 2017."
+          }
         }
       }
     },
@@ -275,6 +325,33 @@
             "file": "File:Miniature Model of Rajomon.jpg",
             "kind": "reconstruction",
             "caption": "Modern miniature model of Rajōmon, Heian-kyō's southern gate, at the Museum of Kyoto."
+          }
+        },
+        "thanjavur": {
+          "polity": "Chola Empire",
+          "blurb": "Chola capital under Rajaraja I, whose armies had sacked Anuradhapura in Sri Lanka in 993. In 1000 he began a land survey of his realm, and from 1003 he built the great Rajarajesvaram temple here.",
+          "sources": [
+            {
+              "title": "Thanjavur - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Thanjavur#History"
+            },
+            {
+              "title": "Rajaraja I - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Rajaraja_I#Conquest_of_northern_Sri_Lanka"
+            },
+            {
+              "title": "Rajaraja I - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Rajaraja_I"
+            },
+            {
+              "title": "Brihadisvara Temple - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Brihadisvara_Temple"
+            }
+          ],
+          "image": {
+            "file": "File:Thanjavur Brihadeeswarar Temple.jpg",
+            "kind": "site",
+            "caption": "The Brihadisvara (Rajarajesvaram) temple, built by Rajaraja I in 1003–1010; photographed in 2014."
           }
         }
       }
@@ -376,6 +453,25 @@
             "kind": "site",
             "caption": "Bab al-Futuh, one of the stone gates built by Badr al-Gamali between 1087 and 1092; photographed in 2019."
           }
+        },
+        "angkor": {
+          "polity": "Khmer Empire",
+          "blurb": "A contested capital: Jayavarman VI, a usurper from the Phimai area, had claimed the throne around 1080, but a rival royal line may have held Angkor until 1113. Its centrepiece was the Baphuon, Suryavarman I's mid-11th-century state temple.",
+          "sources": [
+            {
+              "title": "Jayavarman VI - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jayavarman_VI#History"
+            },
+            {
+              "title": "Baphuon - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Baphuon#History"
+            }
+          ],
+          "image": {
+            "file": "File:BaphuonEasternFacade2011.jpg",
+            "kind": "site",
+            "caption": "Eastern facade of the Baphuon temple-mountain after restoration, photographed in 2011."
+          }
         }
       }
     },
@@ -458,6 +554,48 @@
               "url": "https://en.wikipedia.org/wiki/Kamakura#Kamakura_period"
             }
           ]
+        },
+        "angkor": {
+          "polity": "Khmer Empire",
+          "blurb": "Rebuilt by Jayavarman VII after Cham invaders sacked Yasodharapura in 1177. Over its ruins he raised the walled city of Angkor Thom around the Bayon, and founded the Buddhist temples of Ta Prohm (1186) and Preah Khan (1191).",
+          "sources": [
+            {
+              "title": "Angkor - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Angkor#Jayavarman_VII"
+            },
+            {
+              "title": "Ta Prohm - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ta_Prohm#Foundation_and_expansion"
+            },
+            {
+              "title": "Preah Khan - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Preah_Khan#History"
+            }
+          ],
+          "image": {
+            "file": "File:Angkor Thom Bayon 28.jpg",
+            "kind": "site",
+            "caption": "The Bayon, Jayavarman VII's state temple at the centre of Angkor Thom, photographed in 2015."
+          }
+        },
+        "istanbul": {
+          "polity": "Byzantine Empire",
+          "blurb": "Constantinople under Alexios III Angelos was scarred by a severe fire in 1197 that burned the Latin Quarter. In April 1204 the Fourth Crusade would break in from the Golden Horn and pillage the city for three days.",
+          "sources": [
+            {
+              "title": "Constantinople - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Constantinople#1185%E2%80%931261:_Constantinople_during_the_Imperial_Exile"
+            },
+            {
+              "title": "Zeyrek Mosque - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Zeyrek_Mosque#Byzantine_period"
+            }
+          ],
+          "image": {
+            "file": "File:2014 Zeyrek Mosque (1) Monastery of the Pantokrator.jpg",
+            "kind": "site",
+            "caption": "The Pantokrator Monastery churches, built by the Komnenoi in 1118–1136 and now the Zeyrek Mosque; photographed in 2014."
+          }
         }
       }
     },

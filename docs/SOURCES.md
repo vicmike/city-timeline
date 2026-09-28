@@ -72,7 +72,24 @@ Attribution (where a number came from) is not the same as verification (whether 
 3. **Chandler against other historians:** every ranked city-year is compared with all the cited estimates for it. Where they differ by more than 2×, the card says "Historians disagree" and shows the range and each source. Rome in AD 361 is an example: Chandler 150k, Morris 800k.
 4. **The #1 city** is checked against Wikipedia's list of largest cities by year (Morris, Modelski, Chandler).
 
-Not yet done: the rankings themselves still use Chandler alone before 1950, and the 100 BC–AD 300 snapshots are missing. Both are planned.
+## How rankings before 1950 are made
+
+The default ranking is **All historians (median)** (`pipeline/combined.py`). For each city and year:
+
+1. Each historian or work that gives a figure casts one vote. A figure cited jointly to several historians, such as "1,000,000 [Morris][Modelski]", counts as a vote from each of them.
+2. Chandler's figures reach us three ways: the Reba et al. digitization, figures Wikipedia cites to Chandler, and the citypops dataset built on Chandler's numbers. These collapse into **one** Chandler vote, which uses the digitized value. A value Wikipedia gives with no citation never votes.
+3. The city's figure is the median of its votes. Cities are ranked by that median, and ties are kept.
+
+Every card lists the votes behind its median, each linked to its citation. A figure resting on a single source is labelled "One source only".
+
+Why a median by default: using one method for the whole timeline stops figures jumping between sources. Chandler alone would put Rome at 150k in AD 361, while the next year with data (AD 400) has only Morris's 800k. The median also reduces the pull of any single outlier.
+
+**Chandler (1987)** remains available through the toggle for the 23 years where he has a full table. Six years (100 BC, AD 1, 100, 200, 300 and 400) exist only in the combined ranking, because Chandler has no usable table for them.
+
+Known limits:
+- Many figures rest on one or two sources.
+- Coverage varies by region. The Wikipedia tables are richest for Europe and China.
+- We take Wikipedia's transcriptions on trust.
 
 ## Descriptive text and images
 
@@ -90,5 +107,5 @@ Not yet done: the rankings themselves still use Chandler alone before 1950, and 
 |---|---|---|
 | `data/curated/cities.json` | Maps each source's city names to one city; Wikipedia article; region; historical names by era | Era names and dates follow each city's Wikipedia article |
 | `data/curated/chandler_corrections.csv` | Documented fixes to the digitized Chandler data | A reason and evidence on every row |
-| `data/curated/reviewed.csv` | A verdict on each automated warning | Reasoning on every row; `caveat` rows are shown to readers |
+| `data/curated/reviewed.csv` | A verdict on each automated warning, plus hand-researched caveats (`manual` rows) | Reasoning and sources on every row; `caveat` rows are shown to readers |
 | `data/curated/blurbs/*.json` | Per-year notes, blurbs, polities | `sources` / `noteSources` required |

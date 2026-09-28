@@ -8,7 +8,7 @@ OUT = ROOT / "public" / "data"
 REPORT = ROOT / "data" / "build-report.md"
 MANIFEST = ROOT / "data" / "sources.lock.json"
 
-USER_AGENT = "CityTimelineBuild/0.1 (offline data pipeline; https://github.com/)"
+USER_AGENT = "CityTimelineBuild/0.2 (offline data pipeline; https://github.com/vicmike/city-timeline)"
 
 UN_BASE = "https://population.un.org/wup/assets/Download"
 SOURCES = {
@@ -50,6 +50,11 @@ HISTORICAL_YEARS = [
     1300, 1400, 1500, 1600, 1700, 1750, 1800, 1825, 1850, 1875, 1900, 1925,
 ]
 MIN_RECORDED_CITIES = 10
+
+# Years Chandler has no usable table for, but where the other historians
+# together give a real top 5 (see pipeline/combined.py). Ranked by the
+# "all historians" median only.
+COMBINED_ONLY_YEARS = [-100, 1, 100, 200, 300, 400]
 
 # From 1950 the UN series takes over.
 MODERN_YEARS = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020, 2025]

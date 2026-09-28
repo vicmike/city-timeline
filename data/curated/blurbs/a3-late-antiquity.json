@@ -1,0 +1,389 @@
+{
+  "snapshots": {
+    "200": {
+      "note": "In 200, with China splitting into warlord states, Cao Cao, who held the Han emperor at Xu, turned on his northern rival Yuan Shao, while Septimius Severus had restored peace to Rome after the upheavals of the late 2nd century.",
+      "noteSources": [
+        {
+          "title": "Three Kingdoms - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Three_Kingdoms#North_China_Plain"
+        },
+        {
+          "title": "Severan dynasty - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Severan_dynasty"
+        }
+      ],
+      "cities": {
+        "rome": {
+          "polity": "Roman Empire",
+          "blurb": "Septimius Severus had replaced the Praetorian Guard with Danubian veterans and stationed a new legion at Albanum, 20 km away. After defeating Parthia he raised a triumphal arch in the Forum, and he also built the Septizodium.",
+          "sources": [
+            {
+              "title": "Septimius Severus - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Septimius_Severus#Military_reforms"
+            },
+            {
+              "title": "Septimius Severus - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Septimius_Severus#Relations_with_the_Senate_and_People"
+            },
+            {
+              "title": "Septimius Severus - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Septimius_Severus#Assessment_and_legacy"
+            }
+          ],
+          "image": {
+            "file": "File:Arch of Septimius Severus in Rome (1).jpg",
+            "kind": "site",
+            "caption": "The Arch of Septimius Severus in the Roman Forum, raised after his Parthian victory; photo 2018."
+          }
+        },
+        "alexandria": {
+          "polity": "Roman Empire",
+          "blurb": "Egypt's grain came down the Nile to Lake Mareotis and sailed from Alexandria's Great Harbour for Rome. Clement ran the city's Catechetical School, teaching Christianity through Greek philosophy, until Septimius Severus's persecution drove him to Palestine in 202.",
+          "sources": [
+            {
+              "title": "Grain supply to the city of Rome - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Grain_supply_to_the_city_of_Rome#Grain_from_Egypt"
+            },
+            {
+              "title": "Catechetical School of Alexandria - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Catechetical_School_of_Alexandria#The_Catechetical_School"
+            }
+          ],
+          "image": {
+            "file": "File:Catacombs of Kom El Shoqafa, Alexandria, Egypt.jpg",
+            "kind": "site",
+            "caption": "Relief of Anubis tending the dead in the Catacombs of Kom El Shoqafa, tombs cut in the 2nd century AD and used into the 4th; photo 2020."
+          }
+        },
+        "carthage": {
+          "polity": "Roman Empire",
+          "blurb": "Centre of Roman Africa, a breadbasket of the empire, with the seaside Baths of Antoninus, Africa's largest. Tertullian, the first theologian to write in Latin, worked here; in 203 Perpetua and Felicity were executed at games for Geta's birthday.",
+          "sources": [
+            {
+              "title": "Roman Carthage - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Roman_Carthage"
+            },
+            {
+              "title": "Baths of Antoninus - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Baths_of_Antoninus"
+            },
+            {
+              "title": "Tertullian - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tertullian"
+            },
+            {
+              "title": "Perpetua and Felicity - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Perpetua_and_Felicity"
+            }
+          ],
+          "image": {
+            "file": "File:Baths of Antoninus, Carthage.jpg",
+            "kind": "site",
+            "caption": "Ruins of the Baths of Antoninus, built under Antoninus Pius on the shore at Carthage; photo 2014."
+          }
+        },
+        "antioch": {
+          "polity": "Roman Empire",
+          "blurb": "Rome's emperors treated it as an eastern Rome, adding colonnades, baths, a granite-paved main street and a vast circus. The usurper Pescennius Niger, beaten by Septimius Severus in 194, was captured while fleeing from Antioch.",
+          "sources": [
+            {
+              "title": "Antioch - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Antioch#Roman_rule_before_Constantine"
+            },
+            {
+              "title": "Pescennius Niger - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Pescennius_Niger#Septimius_Severus_and_Niger"
+            }
+          ],
+          "image": {
+            "file": "File:Mosaic of Isiac Ceremony, from Daphne near Antioch, 2nd century AD, Hatay Archaeology Museum, Antakya, Turkey (36063955161).jpg",
+            "kind": "period",
+            "caption": "Floor mosaic of a ceremony for Isis from Daphne, Antioch's garden suburb, made in the 2nd century AD; Hatay Archaeology Museum."
+          }
+        },
+        "xian": {
+          "polity": "Han dynasty (Eastern Han)",
+          "blurb": "The old Western Han capital, where Dong Zhuo forced the Han court in 190. After Dong's murder his generals Li Jue and Guo Si feuded; Emperor Xian escaped east in 195, and the court now sat at Xu.",
+          "sources": [
+            {
+              "title": "Chang'an - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chang%27an#Han_period"
+            },
+            {
+              "title": "Emperor Xian of Han - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emperor_Xian_of_Han#Return_to_Luoyang's_ruins"
+            },
+            {
+              "title": "Dong Zhuo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dong_Zhuo#Dong_Zhuo_retreats_to_Chang'an"
+            }
+          ],
+          "image": {
+            "file": "File:Weiyang Palace site.JPG",
+            "kind": "site",
+            "caption": "Site of the Front Hall of Weiyang Palace, the Han palace at Chang'an that the late Eastern Han court also used; photo 2013."
+          }
+        }
+      }
+    },
+    "300": {
+      "note": "Diocletian's accession in 284 ended Rome's Crisis of the Third Century, and his Tetrarchy ruled from frontier capitals; China, reunited by the Western Jin in 280, was sliding into the civil War of the Eight Princes.",
+      "noteSources": [
+        {
+          "title": "Crisis of the Third Century - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century"
+        },
+        {
+          "title": "Tetrarchy - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tetrarchy#Regions_and_capitals"
+        },
+        {
+          "title": "Jin dynasty (266–420) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jin_dynasty_(266%E2%80%93420)"
+        }
+      ],
+      "cities": {
+        "rome": {
+          "polity": "Roman Empire",
+          "blurb": "No longer where emperors lived: the four tetrarchs ruled from frontier capitals such as Milan, leaving Rome the nominal capital under its own city prefect. Even so, the Baths of Diocletian, the largest imperial baths, were rising on the Viminal.",
+          "sources": [
+            {
+              "title": "Tetrarchy - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tetrarchy#Regions_and_capitals"
+            },
+            {
+              "title": "Baths of Diocletian - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Baths_of_Diocletian#History"
+            }
+          ],
+          "image": {
+            "file": "File:Baths of Diocletian - Paulin 1880.jpg",
+            "kind": "reconstruction",
+            "caption": "Cross-section reconstructing the Baths of Diocletian, built 298–306, drawn by the architect Edmond Paulin in 1880."
+          }
+        },
+        "luoyang": {
+          "polity": "Jin dynasty (Western Jin)",
+          "blurb": "Capital of the Western Jin, which had reunited China in 280. In 300 its palace turned deadly: Empress Jia had the crown prince murdered, then Sima Lun deposed her and forced her suicide, deepening the War of the Eight Princes.",
+          "sources": [
+            {
+              "title": "Luoyang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Luoyang#Wei_and_Jin_dynasties"
+            },
+            {
+              "title": "Empress Jia Nanfeng - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Empress_Jia_Nanfeng#Downfall_and_death"
+            },
+            {
+              "title": "War of the Eight Princes - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/War_of_the_Eight_Princes#Coup_of_Sima_Lun"
+            }
+          ],
+          "image": {
+            "file": "File:Western Jin Pottery Warrior, Luoyang.jpg",
+            "kind": "period",
+            "caption": "Western Jin pottery warrior figure in the Luoyang Museum; photo 2014."
+          }
+        },
+        "xian": {
+          "polity": "Jin dynasty (Western Jin)",
+          "blurb": "No longer a capital, Chang'an was the base of Sima Yong, Prince of Hejian, in the War of the Eight Princes. In 304 his general Zhang Fang brought Emperor Hui here, and in 306 Xianbei troops sacked the city.",
+          "sources": [
+            {
+              "title": "War of the Eight Princes - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/War_of_the_Eight_Princes#The_Eight_Princes"
+            },
+            {
+              "title": "War of the Eight Princes - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/War_of_the_Eight_Princes#Captivity_in_Luoyang"
+            },
+            {
+              "title": "War of the Eight Princes - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/War_of_the_Eight_Princes#Uprising_of_the_Eastern_Armies"
+            }
+          ]
+        },
+        "xuchang": {
+          "polity": "Jin dynasty (Western Jin)",
+          "blurb": "Cao Cao's seat for the captive Han emperor from 196 and Cao Wei's first capital in 220, Xuchang was now a Western Jin military command. In 300 Sima Lun sent the resentful Prince of Qi, Sima Jiong, to hold it.",
+          "sources": [
+            {
+              "title": "Xuchang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Xuchang#History"
+            },
+            {
+              "title": "Sima Jiong - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Sima_Jiong#Early_career"
+            },
+            {
+              "title": "War of the Eight Princes - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/War_of_the_Eight_Princes#Usurping_the_throne"
+            }
+          ]
+        },
+        "yecheng": {
+          "polity": "Jin dynasty (Western Jin)",
+          "blurb": "Cao Cao had rebuilt Ye after 204 in the mould of an imperial capital, adding the Bronze Bird Terrace in 210. In 299 the Prince of Chengdu, Sima Ying, was posted here, and Xianbei troops sacked the city in 304.",
+          "sources": [
+            {
+              "title": "Ye (Hebei) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ye_(Hebei)#History"
+            },
+            {
+              "title": "War of the Eight Princes - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/War_of_the_Eight_Princes#Power_behind_the_throne"
+            }
+          ],
+          "image": {
+            "file": "File:20250913 Three Terraces 08.jpg",
+            "kind": "site",
+            "caption": "Site of the Bronze Bird Terrace at Ye, raised by Cao Cao in 210; photo 2025."
+          }
+        }
+      }
+    },
+    "400": {
+      "note": "Northern China was split among as many as nine states in 400, with the Eastern Jin ruling the south from Jiankang; a year later Alaric's Visigoths invaded Roman Italy.",
+      "noteSources": [
+        {
+          "title": "Sixteen Kingdoms - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sixteen_Kingdoms"
+        },
+        {
+          "title": "Honorius (emperor) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Honorius_(emperor)#Early_reign"
+        }
+      ],
+      "cities": {
+        "rome": {
+          "polity": "Western Roman Empire",
+          "blurb": "Emperor Honorius held court at Milan, not Rome. In 401, as Alaric's Visigoths entered Italy, Rome's walls and gates were improved and Hadrian's Tomb became a fortress; in 410 Alaric sacked the city anyway.",
+          "sources": [
+            {
+              "title": "Honorius (emperor) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Honorius_(emperor)#Early_reign"
+            },
+            {
+              "title": "Aurelian Walls - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Aurelian_Walls#History"
+            },
+            {
+              "title": "History of Rome - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Rome#Germanic_invasions_and_collapse_of_the_Western_Empire"
+            }
+          ],
+          "image": {
+            "file": "File:Aurelian Walls Rome 2011 1.jpg",
+            "kind": "site",
+            "caption": "Rome's Aurelian Walls near Porta San Sebastiano, the circuit Honorius improved in 401; photo 2011."
+          }
+        },
+        "nanjing": {
+          "polity": "Jin dynasty (Eastern Jin)",
+          "blurb": "Capital of the Eastern Jin since 317. The regent Sima Yuanxian governed for the disabled Emperor An; late in 399 Sun En's rebels overran Yang Province and advanced on Jiankang, and soon after the warlord Huan Xuan took the city.",
+          "sources": [
+            {
+              "title": "Jiankang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Jiankang#History"
+            },
+            {
+              "title": "Emperor An of Jin - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emperor_An_of_Jin#Under_Sima_Yuanxian's_regency"
+            }
+          ],
+          "image": {
+            "file": "File:20240604 Site of Jiankang in the Oriental Metropolitan Museum.jpg",
+            "kind": "site",
+            "caption": "Excavated remains of Jiankang displayed in the Oriental Metropolitan Museum, Nanjing; photo 2024."
+          }
+        },
+        "luoyang": {
+          "polity": "Later Qin",
+          "blurb": "Sacked by the Han-Zhao in 311 and fought over ever since, the former Jin capital changed hands again in winter 399, when Yao Xing's Later Qin forces took it and the surrounding cities from the Eastern Jin.",
+          "sources": [
+            {
+              "title": "Luoyang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Luoyang#Wei_and_Jin_dynasties"
+            },
+            {
+              "title": "Yao Xing - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Yao_Xing#Early_reign:_establishment_of_Later_Qin_as_regional_power"
+            },
+            {
+              "title": "Later Qin - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Later_Qin#Early_reign_of_Yao_Xing_and_zenith_of_Later_Qin"
+            }
+          ],
+          "image": {
+            "file": "File:20240815 Site of Luoyang City from Han to Wei Dynasty - Site of the Palace City 05.jpg",
+            "kind": "site",
+            "caption": "Rammed-earth remains of the palace city at the site of Han–Wei Luoyang; photo 2024."
+          }
+        },
+        "datong": {
+          "polity": "Northern Wei",
+          "blurb": "Tuoba Gui made Pingcheng the Northern Wei capital in 398, after overrunning Later Yan, and proclaimed himself emperor in 399. He founded an imperial university here, had books gathered from across his realm, and resettled people deported from conquered lands.",
+          "sources": [
+            {
+              "title": "Emperor Daowu of Northern Wei - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emperor_Daowu_of_Northern_Wei#Following_hostility_with_Later_Yan"
+            },
+            {
+              "title": "Emperor Daowu of Northern Wei - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emperor_Daowu_of_Northern_Wei#Early_reign_as_emperor"
+            },
+            {
+              "title": "Northern Wei - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Northern_Wei#Deportations"
+            },
+            {
+              "title": "Datong - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Datong#History"
+            }
+          ],
+          "image": {
+            "file": "File:平城 大同市博物馆之北魏各种瓦当.jpg",
+            "kind": "period",
+            "caption": "Northern Wei eave tiles with moulded inscriptions, displayed in the Datong Museum; photo 2025."
+          }
+        },
+        "xian": {
+          "polity": "Later Qin",
+          "blurb": "Capital of the Qiang-ruled Later Qin. Yao Xing invited Confucian scholars to teach here while heavily promoting Buddhism: the monk Faxian set out from Chang'an for India in 399, and Kumarajiva reached the court in 401 to translate Sanskrit texts.",
+          "sources": [
+            {
+              "title": "Later Qin - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Later_Qin#Early_reign_of_Yao_Xing_and_zenith_of_Later_Qin"
+            },
+            {
+              "title": "Chang'an - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chang%27an#Jin,_Sixteen_Kingdoms,_and_Northern_Dynasties_period"
+            }
+          ]
+        },
+        "yecheng": {
+          "polity": "Northern Wei",
+          "blurb": "A year-long siege in the 380s left Ye so ruined that the Later Yan ruled from Zhongshan instead. Around the new year 398 its defender Murong De abandoned it to Tuoba Gui, who briefly considered making Ye his capital.",
+          "sources": [
+            {
+              "title": "Ye (Hebei) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ye_(Hebei)#History"
+            },
+            {
+              "title": "Later Yan - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Later_Yan"
+            },
+            {
+              "title": "Emperor Daowu of Northern Wei - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emperor_Daowu_of_Northern_Wei#Following_hostility_with_Later_Yan"
+            },
+            {
+              "title": "Emperor Daowu of Northern Wei - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emperor_Daowu_of_Northern_Wei#Early_reign_as_emperor"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

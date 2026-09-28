@@ -16,8 +16,10 @@ non-goals so we don't scope-creep into a general dashboard.
 **Data pipeline and UI in place.** `public/data/` is generated from
 real sources by `pipeline/`, not written by hand:
 
-- **1360 BC to 1925:** Chandler (1987), as digitized by Reba et al. (2016). A
-  genuine top 5 for 24 benchmark years, with documented corrections.
+- **1360 BC to 1925:** ranked by the median of every cited historian's estimate
+  (Chandler, Morris, Modelski, de Vries and others, via Wikipedia's
+  multi-source tables), with Chandler's own ranking as a toggle. 29 snapshot
+  years, including 100 BC to AD 400.
 - **1950 to 2025:** UN World Urbanization Prospects 2018 (urban agglomerations),
   plus the UN's 2025 Degree-of-Urbanisation ranking as an alternative from 1980.
 - **Per city:** era-appropriate names (Edo, Chang'an, Constantinople…),

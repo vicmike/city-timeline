@@ -187,6 +187,29 @@
             "kind": "site",
             "caption": "The Blue Mosque of Tabriz, built in 1465, photographed in the mid-19th century."
           }
+        },
+        "tenochtitlan": {
+          "polity": "Aztec Empire",
+          "blurb": "Capital of the Mexica under Ahuitzotl, who more than doubled the lands under Aztec dominance. After a flood of Lake Texcoco he rebuilt the island city on a grander scale; in 1487 he had inaugurated an enlarged Templo Mayor.",
+          "sources": [
+            {
+              "title": "Tenochtitlan - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tenochtitlan#History"
+            },
+            {
+              "title": "Ahuitzotl - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ahuitzotl#Biography"
+            },
+            {
+              "title": "Templo Mayor - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Templo_Mayor#Sixth_Temple"
+            }
+          ],
+          "image": {
+            "file": "File:Map of Tenochtitlan, 1524.jpg",
+            "kind": "period",
+            "caption": "Map of Tenochtitlan on its lake, a colourised woodcut printed in Nuremberg in 1524."
+          }
         }
       }
     },
@@ -288,6 +311,33 @@
             "file": "File:Rakuchu rakugai zu byobu (Fukuoka City Museum).jpg",
             "kind": "period",
             "caption": "Scenes in and around the Capital, a pair of folding screens of Kyoto attributed to Kano Takanobu, Momoyama period (1568–1600)."
+          }
+        },
+        "lahore": {
+          "polity": "Mughal Empire",
+          "blurb": "Akbar's capital from the mid-1580s until 1599, when he returned to Agra. He rebuilt the citadel and city walls and set up the Akbari Mandi grain market, while most residents lived in suburbs beyond the walls.",
+          "sources": [
+            {
+              "title": "Lahore - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Lahore#Akbar"
+            },
+            {
+              "title": "Lahore - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Lahore#Early_Mughal"
+            },
+            {
+              "title": "Akbar - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Akbar#Capitals"
+            },
+            {
+              "title": "Lahore Fort - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Lahore_Fort#Akbari_Gate"
+            }
+          ],
+          "image": {
+            "file": "File:Akbari Gate Lahore Fort.jpg",
+            "kind": "site",
+            "caption": "The Akbari Gate of Lahore Fort, built under Akbar; photographed in 2021."
           }
         }
       }

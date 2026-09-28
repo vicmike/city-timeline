@@ -1715,6 +1715,19 @@
      1975,
      1271000
     ]
+   ],
+   "estimates": [
+    {
+     "year": -1360,
+     "low": 35000,
+     "high": 35000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -7009,6 +7022,100 @@
    }
   ]
  },
+ "datong": {
+  "id": "datong",
+  "name": "Datong",
+  "country": "China",
+  "region": "east-asia",
+  "names": [
+   {
+    "name": "Pingcheng",
+    "to": 1000
+   },
+   {
+    "name": "Datong"
+   }
+  ],
+  "series": {
+   "estimates": [
+    {
+     "year": -200,
+     "low": 88000,
+     "high": 88000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 400,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 400,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Datong",
+   "url": "https://en.wikipedia.org/wiki/Datong",
+   "qid": "Q72877",
+   "description": "Prefecture-level city in Shanxi, People's Republic of China",
+   "extract": "Datong is a prefecture-level city in northern Shanxi Province in the People's Republic of China. It is located in the Datong Basin at an elevation of 1,040 metres (3,410 ft) and borders Inner Mongolia to the north and west and Hebei to the east. As of the 2020 census, it had a population of 3,105,591 of whom 1,790,452 lived in the built-up area made of the 2 out 4 urban districts of Pingcheng and Yungang as Yunzhou and Xinrong are not conurbated yet.",
+   "revision": "1377184089",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377184089"
+  },
+  "coordinates": {
+   "lat": 40.097,
+   "lon": 113.367
+  },
+  "images": [
+   {
+    "file": "Datong_Ancient_City_Wall_(54578074197).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Datong_Ancient_City_Wall_%2854578074197%29.jpg/960px-Datong_Ancient_City_Wall_%2854578074197%29.jpg",
+    "width": 960,
+    "height": 640,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Datong_Ancient_City_Wall_%2854578074197%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Datong_Ancient_City_Wall_(54578074197).jpg",
+    "artist": "xiquinhosilva",
+    "credit": "Datong Ancient City Wall",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "description": "Datong, located in Shanxi Province, China, is a historic city renowned for its rich cultural heritage and industrial significance. Famous for the Yungang Grottoes, a UNESCO World Heritage Site with over 50,000 Buddhist statues, it showcases ancient artistry from the 5th century. The city also features the Huayan Temple and the Nine Dragon Screen, reflecting its deep historical roots. As a key coal-mining hub, Datong blends its industrial economy with efforts to preserve its cultural landmarks and promote tourism.",
+    "date": "2025-06-01 10:28",
+    "kind": "modern",
+    "caption": "Datong today (Wikipedia lead image)"
+   }
+  ]
+ },
  "delhi": {
   "id": "delhi",
   "name": "Delhi",
@@ -8254,6 +8361,63 @@
    }
   ]
  },
+ "el-mirador": {
+  "id": "el-mirador",
+  "name": "El Mirador",
+  "country": "Guatemala",
+  "region": "latin-america",
+  "names": [
+   {
+    "name": "El Mirador"
+   }
+  ],
+  "series": {
+   "estimates": [
+    {
+     "year": 1,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:El Mirador, the Lost City of the Maya"
+     ],
+     "groups": [
+      "other:29fc49"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "El Mirador",
+   "url": "https://en.wikipedia.org/wiki/El_Mirador",
+   "qid": "Q504904",
+   "description": "Pre-Columbian Maya settlement",
+   "extract": "El Mirador is a large pre-Columbian Middle and Late Preclassic Maya settlement, located in the north of the modern department of El Petén, Guatemala. It is part of the Mirador-Calakmul Karst Basin of northern Guatemala. El Mirador is considered to be the most important complex of ancient cities from the Preclassic period. It features causeways and pyramids, among which the pyramid of La Danta stands out, one of the tallest and most voluminous in the world.",
+   "revision": "1376246921",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376246921"
+  },
+  "coordinates": {
+   "lat": 17.755,
+   "lon": -89.92055556
+  },
+  "images": [
+   {
+    "file": "Pirámide_de_la_Danta,_Petén.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Pir%C3%A1mide_de_la_Danta%2C_Pet%C3%A9n.jpg/960px-Pir%C3%A1mide_de_la_Danta%2C_Pet%C3%A9n.jpg",
+    "width": 960,
+    "height": 1127,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/Pir%C3%A1mide_de_la_Danta%2C_Pet%C3%A9n.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pir%C3%A1mide_de_la_Danta,_Pet%C3%A9n.jpg",
+    "artist": "Konjiki1",
+    "credit": "Own work",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Pyramid of La Danta at the archaeological site of El Mirador, Petén, Guatemala",
+    "date": "2026-04-02 14:43:32",
+    "kind": "modern",
+    "caption": "El Mirador today (Wikipedia lead image)"
+   }
+  ]
+ },
  "fez": {
   "id": "fez",
   "name": "Fez",
@@ -8376,6 +8540,105 @@
     ]
    ],
    "estimates": [
+    {
+     "year": 1000,
+     "low": 75000,
+     "high": 75000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 160000,
+     "high": 160000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
     {
      "year": 1400,
      "low": 125000,
@@ -12819,6 +13082,74 @@
    }
   ]
  },
+ "kosambi": {
+  "id": "kosambi",
+  "name": "Kosambi",
+  "country": "India",
+  "region": "south-asia",
+  "names": [
+   {
+    "name": "Kosambi"
+   }
+  ],
+  "series": {
+   "estimates": [
+    {
+     "year": -650,
+     "low": 55000,
+     "high": 55000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -300,
+     "low": 90000,
+     "high": 180000,
+     "sources": [
+      "hucs::2"
+     ],
+     "groups": [
+      "other:schlingloff-2013"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Kosambi",
+   "url": "https://en.wikipedia.org/wiki/Kosambi",
+   "qid": "Q1194868",
+   "description": "City in Uttar Pradesh, India",
+   "extract": "Kosambi (Pali) or Kaushambi (Sanskrit) was an ancient city in India, characterized by its importance as a trading center along the Ganges Plain and its status as the capital of the Vatsa Kingdom, one of the sixteen mahajanapadas. It was located on the Yamuna River about 56 kilometres (35 mi) southwest of its confluence with the Ganges at Prayaga, which made it a powerful center for trade and beneficial for the Vatsa Kingdom.",
+   "revision": "1343379310",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1343379310"
+  },
+  "coordinates": {
+   "lat": 25.338984,
+   "lon": 81.392899
+  },
+  "images": [
+   {
+    "file": "KausambiCastCopperCoin1stCenturyBCEInscribedKosabi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/KausambiCastCopperCoin1stCenturyBCEInscribedKosabi.jpg",
+    "width": 960,
+    "height": 926,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/38/KausambiCastCopperCoin1stCenturyBCEInscribedKosabi.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:KausambiCastCopperCoin1stCenturyBCEInscribedKosabi.jpg",
+    "artist": "PHGCOM",
+    "credit": "self-made, photographed at the British Museum.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "Kausambi cast copper coin 1st century BCE inscribed \"Kosabi\"",
+    "date": "2007-06-10",
+    "kind": "modern",
+    "caption": "Kosambi today (Wikipedia lead image)"
+   }
+  ]
+ },
  "kyoto": {
   "id": "kyoto",
   "name": "Kyoto",
@@ -13124,6 +13455,284 @@
     "date": "Taken on 20 October 2017 09:40",
     "kind": "modern",
     "caption": "Kyoto today (Wikipedia lead image)"
+   }
+  ]
+ },
+ "lahore": {
+  "id": "lahore",
+  "name": "Lahore",
+  "country": "Pakistan",
+  "region": "south-asia",
+  "names": [
+   {
+    "name": "Lahore"
+   }
+  ],
+  "series": {
+   "estimates": [
+    {
+     "year": 1600,
+     "low": 350000,
+     "high": 350000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 94000,
+     "high": 94000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 1872,
+     "high": 1872,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 99000,
+     "high": 99000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Lahore",
+   "url": "https://en.wikipedia.org/wiki/Lahore",
+   "qid": "Q11739",
+   "description": "Capital of Punjab, Pakistan",
+   "extract": "Lahore is the capital and largest city of the Pakistani province of Punjab. It is the second-largest city in Pakistan, after Karachi, and 27th largest in the world, with a population of over 14 million. Lahore is one of Pakistan's major industrial, educational and economic hubs. It has been the historic capital and cultural centre of the wider Punjab region, and is a major socially liberal, progressive, and cosmopolitan city in the country.",
+   "revision": "1375537781",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375537781"
+  },
+  "coordinates": {
+   "lat": 31.54972222,
+   "lon": 74.34361111
+  },
+  "images": [
+   {
+    "file": "Lahore_Fort_view_from_Baradari.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Lahore_Fort_view_from_Baradari.jpg/960px-Lahore_Fort_view_from_Baradari.jpg",
+    "width": 960,
+    "height": 703,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lahore_Fort_view_from_Baradari.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lahore_Fort_view_from_Baradari.jpg",
+    "artist": "Rohaan Bhatti",
+    "credit": "Own work",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "This is a photo of a monument in Pakistan identified as the",
+    "date": "2011-10-22",
+    "kind": "modern",
+    "caption": "Lahore today (Wikipedia lead image)"
+   }
+  ]
+ },
+ "linzi": {
+  "id": "linzi",
+  "name": "Linzi",
+  "country": "China",
+  "region": "east-asia",
+  "names": [
+   {
+    "name": "Linzi"
+   }
+  ],
+  "series": {
+   "estimates": [
+    {
+     "year": -700,
+     "low": 55000,
+     "high": 100000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski",
+      "morris"
+     ]
+    },
+    {
+     "year": -650,
+     "low": 80000,
+     "high": 100000,
+     "sources": [
+      "hucs:Etext",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "citypops",
+      "modelski"
+     ]
+    },
+    {
+     "year": -600,
+     "low": 65000,
+     "high": 100000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski",
+      "morris"
+     ]
+    },
+    {
+     "year": -500,
+     "low": 80000,
+     "high": 100000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski",
+      "morris"
+     ]
+    },
+    {
+     "year": -430,
+     "low": 60000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "citypops",
+      "modelski"
+     ]
+    },
+    {
+     "year": -400,
+     "low": 100000,
+     "high": 200000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski",
+      "morris"
+     ]
+    },
+    {
+     "year": -300,
+     "low": 125000,
+     "high": 350000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski",
+      "morris"
+     ]
+    },
+    {
+     "year": -200,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -100,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 1,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 200,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Ancient Linzi",
+   "url": "https://en.wikipedia.org/wiki/Ancient_Linzi",
+   "qid": "Q865988",
+   "description": "Archaeological site in China",
+   "extract": "Linzi was the capital city of the Chinese Qi state. The ruins of the city lie in modern-day Linzi District, Shandong, China. The city was one of the largest and richest in China during the Spring and Autumn period. Upon occupying Linzi in 221 BC, King Ying Zheng of Qin completed his conquest of the Chinese rival states and declared himself the first emperor of China shortly afterwards. The ruins of the ancient city were excavated in 1926 by Japanese archaeologists and in 1964 by Chinese archaeologists.",
+   "revision": "1349746201",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1349746201"
+  },
+  "coordinates": {
+   "lat": 36.8829,
+   "lon": 118.3554
+  },
+  "images": [
+   {
+    "file": "Linzi_Zhanguo.svg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Linzi_Zhanguo.svg/960px-Linzi_Zhanguo.svg.png",
+    "width": 960,
+    "height": 1069,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/Linzi_Zhanguo.svg",
+    "page": "https://commons.wikimedia.org/wiki/File:Linzi_Zhanguo.svg",
+    "artist": "Zunkir",
+    "credit": "Own work",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Plan de Linzi, capitale du royaume de Qi, durant la période des Royaumes combattants. Adapté à partir de M. Loeve et E. L. Shaughnessy (dir.), The Cambridge History of Ancient China, From the Origins of Civilization to 221 BC, Cambridge, 1999, p. 657 et Kwang-chih Chang et Pingfang Xu (dir.), The Formation of Chinese Civilization: An Archaeological Perspective, New Haven, Yale University and New World Press, 2005, p. 214.",
+    "date": "2017-09-23",
+    "kind": "modern",
+    "caption": "Ancient Linzi today (Wikipedia lead image)"
    }
   ]
  },
@@ -15995,6 +16604,87 @@
    }
   ]
  },
+ "mycenae": {
+  "id": "mycenae",
+  "name": "Mycenae",
+  "country": "Greece",
+  "region": "europe",
+  "names": [
+   {
+    "name": "Mycenae"
+   }
+  ],
+  "series": {
+   "estimates": [
+    {
+     "year": -2300,
+     "low": 20000,
+     "high": 20000,
+     "sources": [
+      "hucs:auto"
+     ],
+     "groups": [
+      "other:tellier-2009"
+     ]
+    },
+    {
+     "year": -1360,
+     "low": 30000,
+     "high": 35000,
+     "sources": [
+      "hucs:google6a",
+      "hucs:anon:571bac87"
+     ],
+     "groups": [
+      "other:1557eb",
+      "other:denemark-2002"
+     ]
+    },
+    {
+     "year": -1200,
+     "low": 30000,
+     "high": 30000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Mycenae",
+   "url": "https://en.wikipedia.org/wiki/Mycenae",
+   "qid": "Q132564",
+   "description": "Archaeological site in Greece",
+   "extract": "Mycenae is an archaeological site near Mykines in Argolis, north-eastern Peloponnese, Greece. It is located about 120 kilometres south-west of Athens; 11 kilometres north of Argos; and 48 kilometres south of Corinth. The site is 19 kilometres inland from the Saronic Gulf and built upon a hill rising 274 metres above sea level.",
+   "revision": "1375201530",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375201530"
+  },
+  "coordinates": {
+   "lat": 37.73027778,
+   "lon": 22.7575
+  },
+  "images": [
+   {
+    "file": "Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Path_upto_the_Lion_Gate%2C_Mycenae_%2828693130016%29.jpg/960px-Path_upto_the_Lion_Gate%2C_Mycenae_%2828693130016%29.jpg",
+    "width": 960,
+    "height": 640,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Path_upto_the_Lion_Gate%2C_Mycenae_%2828693130016%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg",
+    "artist": "Andy Hay from UK",
+    "credit": "Path upto the Lion Gate, Mycenae",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "description": "Path up to the Lion Gate, Mycenae",
+    "date": "2016-07-10 17:01",
+    "kind": "modern",
+    "caption": "Mycenae today (Wikipedia lead image)"
+   }
+  ]
+ },
  "nanjing": {
   "id": "nanjing",
   "name": "Nanjing",
@@ -17410,6 +18100,63 @@
      -650,
      120000
     ]
+   ],
+   "estimates": [
+    {
+     "year": -1600,
+     "low": 23000,
+     "high": 23000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": -1200,
+     "low": 33000,
+     "high": 33000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": -800,
+     "low": 39000,
+     "high": 39000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": -700,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -650,
+     "low": 120000,
+     "high": 120000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -22863,6 +23610,153 @@
    }
   ]
  },
+ "tenochtitlan": {
+  "id": "tenochtitlan",
+  "name": "Tenochtitlan",
+  "country": "Mexico",
+  "region": "latin-america",
+  "names": [
+   {
+    "name": "Tenochtitlan"
+   }
+  ],
+  "series": {
+   "estimates": [
+    {
+     "year": 1500,
+     "low": 200000,
+     "high": 400000,
+     "sources": [
+      "hucs:anon:f4909b28",
+      "hucs:anon:331d7320",
+      "hucs:anon:916f9a0b"
+     ],
+     "groups": [
+      "other:denevan-1992",
+      "other:smith-2005",
+      "other:totten-1992"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 60000,
+     "high": 60000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Tenochtitlan",
+   "url": "https://en.wikipedia.org/wiki/Tenochtitlan",
+   "qid": "Q13695",
+   "description": "Former city-state in the Valley of Mexico",
+   "extract": "Tenochtitlan, also known as Mexico-Tenochtitlan, was a large Mexican altepetl in what is now the historic center of Mexico City. The exact date of the founding of the city is unclear, but the date 13 March 1325 was chosen in 1925 to celebrate the 600th anniversary of the city. The city was built on an island in what was then Lake Texcoco in the Valley of Mexico. The city was the capital of the expanding Aztec Empire in the 15th century until it was captured by the Tlaxcaltec and the Spanish in 1521.",
+   "revision": "1365740804",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1365740804"
+  },
+  "coordinates": {
+   "lat": 19.43333333,
+   "lon": -99.13333333
+  },
+  "images": [
+   {
+    "file": "Vista_completa_de_Tenochtitlán.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Vista_completa_de_Tenochtitl%C3%A1n.jpg/960px-Vista_completa_de_Tenochtitl%C3%A1n.jpg",
+    "width": 960,
+    "height": 480,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/07/Vista_completa_de_Tenochtitl%C3%A1n.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vista_completa_de_Tenochtitl%C3%A1n.jpg",
+    "artist": "thomas kole",
+    "credit": "https://tenochtitlan.thomaskole.nl/es.html",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "description": "Full view of Tenochtitlán",
+    "date": "2023-09-02",
+    "kind": "modern",
+    "caption": "Tenochtitlan today (Wikipedia lead image)"
+   }
+  ]
+ },
+ "thanjavur": {
+  "id": "thanjavur",
+  "name": "Thanjavur",
+  "country": "India",
+  "region": "south-asia",
+  "names": [
+   {
+    "name": "Thanjavur"
+   }
+  ],
+  "series": {
+   "estimates": [
+    {
+     "year": 1000,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 250000,
+     "high": 250000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 200000,
+     "high": 200000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Thanjavur",
+   "url": "https://en.wikipedia.org/wiki/Thanjavur",
+   "qid": "Q41496",
+   "description": "City in Tamil Nadu, India",
+   "extract": "Thanjavur, also known as Thanjai, previously known as Tanjore, is a city in the Indian state of Tamil Nadu. It is the 12th biggest city in Tamil Nadu. Thanjavur is an important center of southern Indian religion, art, and architecture. Most of the Great Living Chola Temples, which are UNESCO World Heritage Monuments, are located in and around Thanjavur. The foremost among these, the Rajarajesvaram or Brihadisvara Temple, built by the Chola emperor Rajaraja I, is located in the centre of the city. This temple has one of the largest bull statues in India carved out of a single granite rock. Thanjavur is also home to Tanjore painting, a painting style unique to the region. Thanjavur is the headquarters of the Thanjavur District. The city is an important agricultural centre located in the Kaveri Delta and is known as the Rice bowl of Tamil Nadu. Thanjavur is administered by a municipal corporation covering an area of 36.31 km2 (14.02 sq mi) and had a population of 222,943. Roadways are the major means of transportation, while the city also has rail connectivity. The nearest airport is Tiruchirapalli International Airport, located 59.6 km (37.0 mi) away from the city. The nearest seaport is Karaikal, which is 94 km (58 mi) away from Thanjavur.\nThe city first rose to prominence during the reign of the Cholas when it served as the capital of the empire. After the fall of the Cholas, the city was ruled by various dynasties such as the Mutharaiyar dynasty, the Pandyas, the Vijayanagar Empire, the Madurai Nayaks, the Thanjavur Nayaks, the Thanjavur Marathas and the British Empire. It has been a part of independent India since 1947.",
+   "revision": "1376960807",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1376960807"
+  },
+  "coordinates": {
+   "lat": 10.78694444,
+   "lon": 79.13777778
+  },
+  "images": [
+   {
+    "file": "Thanjavur_2.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Thanjavur_2.jpg/960px-Thanjavur_2.jpg",
+    "width": 960,
+    "height": 960,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/81/Thanjavur_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Thanjavur_2.jpg",
+    "artist": "Arun2117dts 5",
+    "credit": "Own work",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "This image shows about Thanjavur City",
+    "date": "2022-04-10",
+    "kind": "modern",
+    "caption": "Thanjavur today (Wikipedia lead image)"
+   }
+  ]
+ },
  "thebes": {
   "id": "thebes",
   "name": "Thebes",
@@ -23613,6 +24507,85 @@
    }
   ]
  },
+ "varanasi": {
+  "id": "varanasi",
+  "name": "Varanasi",
+  "country": "India",
+  "region": "south-asia",
+  "names": [
+   {
+    "name": "Varanasi"
+   }
+  ],
+  "series": {
+   "estimates": [
+    {
+     "year": 622,
+     "low": 75000,
+     "high": 210000,
+     "sources": [
+      "hucs:anon:cf366999"
+     ],
+     "groups": [
+      "other:dyson-2018"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 49000,
+     "high": 49000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 59000,
+     "high": 59000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Varanasi",
+   "url": "https://en.wikipedia.org/wiki/Varanasi",
+   "qid": "Q79980",
+   "description": "Metropolis in Uttar Pradesh, India",
+   "extract": "Varanasi, or Kashi, is a city on the Ganges river in northern India that has a central place in the traditions of pilgrimage, death, and mourning in the Hindu world. The city also has a syncretic tradition of Islamic artisanship that underpins its religious tourism. Located in the middle-Ganges valley in the southeastern part of the state of Uttar Pradesh, Varanasi lies on the left bank of the river. It is 692 kilometres (430 mi) to the southeast of India's capital New Delhi and 320 kilometres (200 mi) to the southeast of the state capital, Lucknow. It lies 121 kilometres (75 mi) downstream of Prayagraj, where the confluence with the Yamuna river is another major Hindu pilgrimage site.",
+   "revision": "1375915711",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375915711"
+  },
+  "coordinates": {
+   "lat": 25.31888889,
+   "lon": 83.01277778
+  },
+  "images": [
+   {
+    "file": "Varanasi,_India,_Ghats,_Cremation_ceremony_in_progress.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg/960px-Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg",
+    "width": 960,
+    "height": 640,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Varanasi,_India,_Ghats,_Cremation_ceremony_in_progress.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "credit": "Own work",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "description": "In Shivaism creation and destruction are part of a single whole. Pale blue smoke rises into the air from this sacred site where those lucky enough to die in the city of Varanasi or have their bodies transported there for burning on the banks of the Ganges are receiving their last rites. Ganges, Varanasi, India.",
+    "date": "2007-11-18 16:23:16",
+    "kind": "modern",
+    "caption": "Varanasi today (Wikipedia lead image)"
+   }
+  ]
+ },
  "vienna": {
   "id": "vienna",
   "name": "Vienna",
@@ -24287,6 +25260,90 @@
     "caption": "Vijayanagara today (Wikipedia lead image)"
    }
   ]
+ },
+ "xiadu": {
+  "id": "xiadu",
+  "name": "Xiadu",
+  "country": "China",
+  "region": "east-asia",
+  "names": [
+   {
+    "name": "Xiadu"
+   }
+  ],
+  "series": {
+   "estimates": [
+    {
+     "year": -600,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -500,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -430,
+     "low": 320000,
+     "high": 320000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -400,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -300,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Xiadu",
+   "url": "https://en.wikipedia.org/wiki/Xiadu",
+   "qid": "Q5364678",
+   "description": null,
+   "extract": "The Xiadu or Lower Capital of Yan was one of the capitals of Yan during the Warring States period of ancient China. Xiadu may have been the largest city in the world from 400 to 300 BC, with an estimated peak population over 300,000.",
+   "revision": "1349827282",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1349827282"
+  },
+  "coordinates": {
+   "lat": 39.616908,
+   "lon": 116.056
+  },
+  "images": []
  },
  "xian": {
   "id": "xian",
@@ -25214,6 +26271,537 @@
     "date": "2012-04-21 13:27",
     "kind": "modern",
     "caption": "Xi'an today (Wikipedia lead image)"
+   }
+  ]
+ },
+ "xianyang": {
+  "id": "xianyang",
+  "name": "Xianyang",
+  "country": "China",
+  "region": "east-asia",
+  "names": [
+   {
+    "name": "Xianyang"
+   }
+  ],
+  "series": {
+   "wup2018": [
+    [
+     1950,
+     126864
+    ],
+    [
+     1951,
+     129798
+    ],
+    [
+     1952,
+     132805
+    ],
+    [
+     1953,
+     135872
+    ],
+    [
+     1954,
+     139015
+    ],
+    [
+     1955,
+     142230
+    ],
+    [
+     1956,
+     145524
+    ],
+    [
+     1957,
+     148886
+    ],
+    [
+     1958,
+     152329
+    ],
+    [
+     1959,
+     155853
+    ],
+    [
+     1960,
+     159463
+    ],
+    [
+     1961,
+     163146
+    ],
+    [
+     1962,
+     166919
+    ],
+    [
+     1963,
+     170780
+    ],
+    [
+     1964,
+     174736
+    ],
+    [
+     1965,
+     178772
+    ],
+    [
+     1966,
+     182907
+    ],
+    [
+     1967,
+     187137
+    ],
+    [
+     1968,
+     191472
+    ],
+    [
+     1969,
+     195894
+    ],
+    [
+     1970,
+     200425
+    ],
+    [
+     1971,
+     205061
+    ],
+    [
+     1972,
+     209811
+    ],
+    [
+     1973,
+     214657
+    ],
+    [
+     1974,
+     219622
+    ],
+    [
+     1975,
+     224702
+    ],
+    [
+     1976,
+     229906
+    ],
+    [
+     1977,
+     235216
+    ],
+    [
+     1978,
+     240657
+    ],
+    [
+     1979,
+     246223
+    ],
+    [
+     1980,
+     251926
+    ],
+    [
+     1981,
+     257745
+    ],
+    [
+     1982,
+     263707
+    ],
+    [
+     1983,
+     269806
+    ],
+    [
+     1984,
+     276056
+    ],
+    [
+     1985,
+     282432
+    ],
+    [
+     1986,
+     288964
+    ],
+    [
+     1987,
+     295648
+    ],
+    [
+     1988,
+     302496
+    ],
+    [
+     1989,
+     309483
+    ],
+    [
+     1990,
+     316641
+    ],
+    [
+     1991,
+     336491
+    ],
+    [
+     1992,
+     357614
+    ],
+    [
+     1993,
+     380001
+    ],
+    [
+     1994,
+     403822
+    ],
+    [
+     1995,
+     429137
+    ],
+    [
+     1996,
+     456077
+    ],
+    [
+     1997,
+     484627
+    ],
+    [
+     1998,
+     515007
+    ],
+    [
+     1999,
+     547292
+    ],
+    [
+     2000,
+     581650
+    ],
+    [
+     2001,
+     597349
+    ],
+    [
+     2002,
+     602964
+    ],
+    [
+     2003,
+     608632
+    ],
+    [
+     2004,
+     614362
+    ],
+    [
+     2005,
+     620129
+    ],
+    [
+     2006,
+     625959
+    ],
+    [
+     2007,
+     631843
+    ],
+    [
+     2008,
+     637791
+    ],
+    [
+     2009,
+     643779
+    ],
+    [
+     2010,
+     649831
+    ],
+    [
+     2011,
+     655940
+    ],
+    [
+     2012,
+     662114
+    ],
+    [
+     2013,
+     668330
+    ],
+    [
+     2014,
+     674613
+    ],
+    [
+     2015,
+     680955
+    ],
+    [
+     2016,
+     687365
+    ],
+    [
+     2017,
+     693818
+    ],
+    [
+     2018,
+     700340
+    ],
+    [
+     2019,
+     707306
+    ],
+    [
+     2020,
+     715007
+    ],
+    [
+     2021,
+     723612
+    ],
+    [
+     2022,
+     733142
+    ],
+    [
+     2023,
+     743491
+    ],
+    [
+     2024,
+     754446
+    ],
+    [
+     2025,
+     765748
+    ]
+   ],
+   "estimates": [
+    {
+     "year": -300,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -200,
+     "low": 100000,
+     "high": 300000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Xianyang",
+   "url": "https://en.wikipedia.org/wiki/Xianyang",
+   "qid": "Q497341",
+   "description": "Prefecture-level city in Shaanxi, People's Republic of China",
+   "extract": "Xianyang is a prefecture-level city in central Shaanxi province, situated on the Wei River a few kilometers upstream (west) from the provincial capital of Xi'an. The old Xianyang city was once the capital of the Qin dynasty and thus the first imperial capital of China. It is now integrated into the Greater Xi'an Metropolitan Area, one of the main megalopolises in northwestern China, with more than 7.17 million inhabitants. Its built-up area, consisting of 2 urban districts, had 945,420 inhabitants at the 2010 census. It has a total area of 10,213 square kilometers (3,943 mi2).",
+   "revision": "1375016552",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375016552"
+  },
+  "coordinates": {
+   "lat": 34.3299,
+   "lon": 108.7088
+  },
+  "images": [
+   {
+    "file": "Maoling_10.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Maoling_10.jpg/960px-Maoling_10.jpg",
+    "width": 960,
+    "height": 540,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Maoling_10.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Maoling_10.jpg",
+    "artist": "Brücke-Osteuropa",
+    "credit": "Own work",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Grab von Huo Qubing im Rahmen des Mausoleums Maoling in der Nähe von Xi'an",
+    "date": "2011-08-17",
+    "kind": "modern",
+    "caption": "Xianyang today (Wikipedia lead image)"
+   }
+  ]
+ },
+ "xuchang": {
+  "id": "xuchang",
+  "name": "Xuchang",
+  "country": "China",
+  "region": "east-asia",
+  "names": [
+   {
+    "name": "Xuchang"
+   }
+  ],
+  "series": {
+   "estimates": [
+    {
+     "year": 300,
+     "low": 140000,
+     "high": 140000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Xuchang",
+   "url": "https://en.wikipedia.org/wiki/Xuchang",
+   "qid": "Q404529",
+   "description": "Prefecture-level city in Henan, People's Republic of China",
+   "extract": "Xuchang is a prefecture-level city in central Henan province in Central China. It is bordered by the provincial capital of Zhengzhou to the northwest, Kaifeng to the northeast, Zhoukou to the east, Luohe to the southeast, and Pingdingshan to the southwest.",
+   "revision": "1365660972",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1365660972"
+  },
+  "coordinates": {
+   "lat": 34.037,
+   "lon": 113.852
+  },
+  "images": [
+   {
+    "file": "20240427_Getian_Avenue_in_Changge.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/20240427_Getian_Avenue_in_Changge.jpg/960px-20240427_Getian_Avenue_in_Changge.jpg",
+    "width": 960,
+    "height": 640,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/20240427_Getian_Avenue_in_Changge.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20240427_Getian_Avenue_in_Changge.jpg",
+    "artist": "Windmemories",
+    "credit": "Own work",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Getian Avenue in Changge",
+    "date": "2024-04-27 14:56:29",
+    "kind": "modern",
+    "caption": "Xuchang today (Wikipedia lead image)"
+   }
+  ]
+ },
+ "yecheng": {
+  "id": "yecheng",
+  "name": "Ye",
+  "country": "China",
+  "region": "east-asia",
+  "names": [
+   {
+    "name": "Ye"
+   }
+  ],
+  "series": {
+   "chandler": [
+    [
+     361,
+     120000
+    ],
+    [
+     1975,
+     615000
+    ]
+   ],
+   "estimates": [
+    {
+     "year": 300,
+     "low": 140000,
+     "high": 140000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 361,
+     "low": 120000,
+     "high": 120000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 400,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    }
+   ]
+  },
+  "wikipedia": {
+   "title": "Ye (Hebei)",
+   "url": "https://en.wikipedia.org/wiki/Ye_(Hebei)",
+   "qid": "Q1274372",
+   "description": "Ancient Chinese city in modern Hebei",
+   "extract": "Ye or Yecheng was an ancient Chinese city located in what is now Linzhang County, Handan, Hebei province and neighbouring Anyang, Henan province.",
+   "revision": "1349748372",
+   "permalink": "https://en.wikipedia.org/w/index.php?oldid=1349748372"
+  },
+  "coordinates": {
+   "lat": 36.2748,
+   "lon": 114.4002
+  },
+  "images": [
+   {
+    "file": "20250913_Model_of_Ye.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/20250913_Model_of_Ye.jpg/960px-20250913_Model_of_Ye.jpg",
+    "width": 960,
+    "height": 640,
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/20250913_Model_of_Ye.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20250913_Model_of_Ye.jpg",
+    "artist": "Windmemories",
+    "credit": "Own work",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Model of Ye in Yecheng Museum",
+    "date": "2025-09-13 17:21:38",
+    "kind": "modern",
+    "caption": "Ye (Hebei) today (Wikipedia lead image)"
    }
   ]
  }

@@ -12,8 +12,8 @@ import json
 import sys
 from datetime import date
 
-from . import chandler, enrich, estimates, un, validate, wikilist
-from .config import (CURATED, HISTORICAL_YEARS, MAX_WITH_TIES, MIN_RECORDED_CITIES,
+from . import chandler, combined, enrich, estimates, un, validate, wikilist
+from .config import (COMBINED_ONLY_YEARS, CURATED, HISTORICAL_YEARS, MAX_WITH_TIES, MIN_RECORDED_CITIES,
                      MODERN_YEARS, OUT, REPORT, TOP_N)
 
 SOURCES = {
@@ -61,6 +61,16 @@ SOURCES = {
                     "are shown as uncited and never used for ranking.",
         "url": "https://en.wikipedia.org/wiki/Historical_urban_community_sizes",
         "license": "CC BY-SA 4.0 (Wikipedia table); figures belong to the cited works",
+    },
+    "combined": {
+        "label": "All historians (median)",
+        "citation": "For each city, the median of every cited historian's estimate for that year: Chandler (1987) "
+                    "counted once, plus Morris, Modelski, de Vries, Chandler & Fox and other scholars as cited in "
+                    "Wikipedia's 'Historical urban community sizes'. Each card lists the figures behind its median.",
+        "url": "https://en.wikipedia.org/wiki/Historical_urban_community_sizes",
+        "license": "Figures belong to the cited works",
+        "definition": "Median of the cited historians' estimates. Historians define a city differently and often "
+                      "disagree by 2x or more; a figure resting on one source is marked as such.",
     },
     "wikipedia": {
         "label": "Wikipedia",
@@ -141,6 +151,36 @@ def main() -> int:
                           f"data/curated/cities.json")
         return cid
 
+    alias_index = {}
+    for cid, c in cities.items():
+        for n in [c["wikipedia"], *[e["name"] for e in c["names"]], *c.get("aliases", [])]:
+            alias_index[n.lower()] = cid
+
+    print("parsing multi-historian estimates ...")
+    est = estimates.build(cities, alias_index)
+
+    def combined_entries(year):
+        """All-historians median ranking for a year (see pipeline/combined.py)."""
+        figs = combined.figures(combined.votes_for_year(year, est, ch, by_chandler), est["citations"])
+        rows = sorted(figs.items(), key=lambda kv: -kv[1]["population"])
+        ranked, overflow = rank_with_ties([(k, f["population"]) for k, f in rows])
+        out = []
+        for r in ranked:
+            if r["key"].startswith("?"):
+                errors.append(f"{year_label(year)}: combined ranking #{r['rank']} is {r['key'][1:]!r} "
+                              f"({r['population']:,}), which has no entry in data/curated/cities.json")
+                continue
+            f = figs[r["key"]]
+            out.append({"id": r["key"], "rank": r["rank"], "tied": r["tied"], "population": f["population"],
+                        "votes": f["votes"], "n": len(f["votes"])})
+        tied = None
+        if overflow:
+            names = [cities[k]["names"][-1]["name"] if not k.startswith("?") else k[1:] for k in overflow]
+            tied = {"population": figs[overflow[0]]["population"], "names": names}
+        return out, len(figs), tied
+
+    est["citations"][combined.DIGITIZED] = combined.DIGITIZED_CITATION
+
     # --- historical (Chandler) -------------------------------------------------
     for year in HISTORICAL_YEARS:
         rows = ch[ch.year == year].sort_values("population", ascending=False)
@@ -165,7 +205,19 @@ def main() -> int:
             fix = fixes.get((by_chandler_rev.get(e["id"]), year))
             if fix:
                 e["correction"] = fix
+        comb, n, tied = combined_entries(year)
+        snap["alternates"] = {"combined": comb}
+        snap["combinedCities"] = n
+        if tied:
+            snap["combinedTiedForNext"] = tied
         snapshots.append(snap)
+
+    # --- years only the combined historians cover --------------------------------
+    for year in COMBINED_ONLY_YEARS:
+        comb, n, tied = combined_entries(year)
+        snapshots.append({"year": year, "label": year_label(year), "source": "combined",
+                          "combinedCities": n, "cities": comb, **({"tiedForNext": tied} if tied else {})})
+    snapshots.sort(key=lambda s: s["year"])
 
     # --- modern (UN WUP 2018, national definitions) -----------------------------
     for year in MODERN_YEARS:
@@ -191,20 +243,13 @@ def main() -> int:
         snapshots.append(snap)
 
     # --- names, blurbs, other historians' estimates --------------------------------
-    alias_index = {}
-    for cid, c in cities.items():
-        for n in [c["wikipedia"], *[e["name"] for e in c["names"]], *c.get("aliases", [])]:
-            alias_index[n.lower()] = cid
-
-    print("parsing multi-historian estimates ...")
-    est = estimates.build(cities, alias_index)
 
     for snap in snapshots:
         year = snap["year"]
-        for entry in snap["cities"] + snap.get("alternates", {}).get("wup2025", []):
+        for entry in snap["cities"] + [e for alt in snap.get("alternates", {}).values() for e in alt]:
             if entry["id"]:
                 entry["name"] = era_name(cities[entry["id"]], year)
-        for entry in snap["cities"]:
+        for entry in snap["cities"] + snap.get("alternates", {}).get("combined", []):
             # Every other historian's figure for this city in this year, with citations.
             others = [e for e in est["byCity"].get(entry["id"], []) if e["year"] == year]
             if others:
@@ -215,7 +260,7 @@ def main() -> int:
         year_blurbs = blurbs.get("snapshots", {}).get(str(year), {})
         if year_blurbs.get("note"):
             snap["note"] = year_blurbs["note"]
-        for entry in snap["cities"]:
+        for entry in snap["cities"] + snap.get("alternates", {}).get("combined", []):
             b = year_blurbs.get("cities", {}).get(entry["id"])
             if b:
                 if not b.get("sources"):
@@ -248,7 +293,7 @@ def main() -> int:
 
     # --- per-city population series (for trajectories) ------------------------------
     used = sorted({e["id"] for s in snapshots for e in s["cities"] if e["id"]}
-                  | {e["id"] for s in snapshots for e in s.get("alternates", {}).get("wup2025", []) if e["id"]})
+                  | {e["id"] for s in snapshots for alt in s.get("alternates", {}).values() for e in alt if e["id"]})
     city_out = {}
     for cid in used:
         c = cities[cid]
@@ -307,8 +352,29 @@ def main() -> int:
                             enriched=not args.no_enrich)
     warnings += validate.disagreements(snapshots, est)
 
+    # Before 1950 the default ranking is "all historians" (one method across the
+    # whole timeline); Chandler's own ranking stays available as an alternate.
+    for snap in snapshots:
+        if snap["source"] == "chandler":
+            chandler_list = snap["cities"]
+            snap["cities"] = snap["alternates"].pop("combined")
+            snap["alternates"]["chandler"] = chandler_list
+            snap["source"] = "combined"
+            if "tiedForNext" in snap:
+                snap["chandlerTiedForNext"] = snap.pop("tiedForNext")
+            if "combinedTiedForNext" in snap:
+                snap["tiedForNext"] = snap.pop("combinedTiedForNext")
+
     # Reviewed warnings marked "caveat" are shown to readers on that snapshot.
     reviews = validate.load_reviews(CURATED / "reviewed.csv")
+    # "manual" rows attach a hand-researched caveat straight to a snapshot label.
+    for r in reviews:
+        if r["category"] == "manual" and r["verdict"] == "caveat":
+            snap = next((s for s in snapshots if s["label"] == r["match"]), None)
+            if not snap:
+                errors.append(f"reviewed.csv: manual caveat for unknown snapshot {r['match']!r}")
+            else:
+                snap.setdefault("caveats", []).append(r["note"])
     for cat, msg in warnings:
         r = validate.review_for(msg, cat, reviews)
         if r and r["verdict"] == "caveat":

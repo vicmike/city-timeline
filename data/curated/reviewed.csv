@@ -12,3 +12,4 @@ spike,Inwa|Myanmar 1770,no-action,"Not in any snapshot's top 5. Left as digitize
 spike,Lahore|Pakistan 1650,no-action,"Not in any snapshot's top 5. Left as digitized."
 duplicate,Damascus|Syria and Jerusalem|Israel,no-action,"Round-number estimates for two distinct, well-known cities; not a geocoding duplicate."
 duplicate,Kyoto|Japan and Osaka|Japan,no-action,"Two distinct cities that Chandler estimates at the same size in 1825; neither is in that year's top 5."
+manual,430 BC,caveat,"Xiadu's #1 place this year rests on a single figure (Modelski, 320,000). Chinese Wikipedia (燕下都, https://zh.wikipedia.org/wiki/燕下都) dates the city's construction to the mid-4th century BC, under King Zhao of Yan, so it may not yet have existed in 430 BC. Treat this entry with caution; the Chandler (1987) toggle ranks Babylon first."

@@ -95,6 +95,21 @@
             "kind": "site",
             "caption": "The alabaster Sphinx of Memphis, carved under the 18th Dynasty (probably Amenhotep II or Thutmose IV), in the open-air museum at Mit Rahina; photo 2010."
           }
+        },
+        "mycenae": {
+          "polity": "Mycenaean Greece",
+          "blurb": "Around this time Mycenae's acropolis was ringed with massive 'Cyclopean' walls enclosing a palace with a columned megaron throne room. Egypt knew the city by name, and a scarab of Queen Tiye, wife of Amenhotep III, reached its citadel temple.",
+          "sources": [
+            {
+              "title": "Mycenae - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mycenae#Late_Helladic_III_(LHIII;_c._1400–c._1050_BC)"
+            }
+          ],
+          "image": {
+            "file": "File:Cyclopean walls of Mycenae - 1.jpg",
+            "kind": "site",
+            "caption": "Surviving Cyclopean walls of the Mycenae citadel, first built around the 14th century BC; photo 2019."
+          }
         }
       }
     },
@@ -203,6 +218,52 @@
             "kind": "site",
             "caption": "The ruins of Sais in the Nile Delta, from an illustrated travel book by Lowth published in 1855."
           }
+        },
+        "linzi": {
+          "polity": "State of Qi",
+          "blurb": "Capital of Duke Huan, whose minister Guan Zhong made Qi China's most powerful state with reforms including monopolies on salt and iron. In 667 BC the Zhou king named Huan hegemon, the first of the Five Hegemons.",
+          "sources": [
+            {
+              "title": "Ancient Linzi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ancient_Linzi"
+            },
+            {
+              "title": "Qi (state) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Qi_(state)#Spring_and_Autumn_period"
+            },
+            {
+              "title": "Duke Huan of Qi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Duke_Huan_of_Qi#Hegemony"
+            }
+          ],
+          "image": {
+            "file": "File:Linzi model 2010 06 06.jpg",
+            "kind": "reconstruction",
+            "caption": "Modern model of the ancient city of Linzi in the Museum of the Qi State; photo 2010."
+          }
+        },
+        "kosambi": {
+          "polity": "Vatsa",
+          "blurb": "Capital of the Vatsa kingdom, on the Yamuna upstream of its confluence with the Ganges. Tradition says a Kuru king founded it after floods destroyed Hastinapura, and excavated palace foundations here go back to the 8th century BC.",
+          "sources": [
+            {
+              "title": "Kosambi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kosambi"
+            },
+            {
+              "title": "Vatsa - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Vatsa#The_early_period"
+            },
+            {
+              "title": "Kosambi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kosambi#Kausambi_Palace_architecture"
+            }
+          ],
+          "image": {
+            "file": "File:Kosambi ruins.jpg",
+            "kind": "site",
+            "caption": "Excavated brick foundations at the ancient city site of Kosambi; photo 2018."
+          }
         }
       }
     },
@@ -310,6 +371,40 @@
             "file": "File:Relief from the Palace of Apries in Memphis MET DT257081.jpg",
             "kind": "period",
             "caption": "Carved wall relief from the palace of Apries at Memphis, made 589–570 BC; Metropolitan Museum of Art."
+          }
+        },
+        "xiadu": {
+          "polity": "State of Yan",
+          "blurb": "Lower Capital of the northern state of Yan, set in the Taihang foothills between the Beiyi and Zhongyi rivers for defence. Its eastern half held the palace, royal cemeteries and workshops casting iron, bronze and coins.",
+          "sources": [
+            {
+              "title": "Xiadu - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Xiadu"
+            },
+            {
+              "title": "Yan (state) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Yan_(state)"
+            }
+          ],
+          "image": {
+            "file": "File:Warring states roof tile end 2.jpg",
+            "kind": "period",
+            "caption": "Warring States roof-tile end with an animal-mask design, made in the state of Yan and excavated at Xiadu in 1958."
+          }
+        },
+        "linzi": {
+          "polity": "State of Qi",
+          "blurb": "The Jiang dukes still reigned in Linzi, but the Tian clan held real power. Around 481 BC the Tian chief took control of most of Qi, leaving the monarch little beyond the capital and the land around Mount Tai.",
+          "sources": [
+            {
+              "title": "Qi (state) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Qi_(state)#Warring_States_period_–_Tian_dynasty"
+            }
+          ],
+          "image": {
+            "file": "File:Sacrificial horsepit linzi 2010 06 06.jpg",
+            "kind": "site",
+            "caption": "Sacrificial horse pit at the tomb believed to be that of Duke Jing of Qi (r. 547–490 BC) near Linzi; photo 2010."
           }
         }
       }
@@ -426,6 +521,25 @@
             "file": "File:Punic Ports (Ports Puniques) of Carthage, Tunisia January 2024 - 1.jpg",
             "kind": "site",
             "caption": "The site of Carthage's Punic ports, the city's two artificial inner harbours; photo 2024."
+          }
+        },
+        "xianyang": {
+          "polity": "Han dynasty",
+          "blurb": "The burned-out former Qin capital. Xiang Yu set it alight in 206 BC, destroying the royal library's banned books. Liu Bang's new Han capital, Chang'an, was rising just across the Wei River and would absorb Xianyang's southern parts.",
+          "sources": [
+            {
+              "title": "Xianyang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Xianyang#Qin_dynasty"
+            },
+            {
+              "title": "Xianyang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Xianyang#Later_History"
+            }
+          ],
+          "image": {
+            "file": "File:A Model of the Site of Xianyang Palace I 01 2012-09.JPG",
+            "kind": "reconstruction",
+            "caption": "Museum model of the excavated rammed-earth foundations of Palace No. 1 of Qin Xianyang; photo 2012."
           }
         }
       }
@@ -664,6 +778,66 @@
             "file": "File:The Megalopsychia Hunt of Antioch mosaic, late 5th century AD, found in the village of Yakto near Daphne, Hatay Archaeology Museum, Antakya, Turke - 50735694481.jpg",
             "kind": "period",
             "caption": "The Megalopsychia Hunt mosaic, made in the late 5th century and found at Yakto near Daphne, whose border is thought to show buildings of Antioch; Hatay Archaeology Museum."
+          }
+        },
+        "xian": {
+          "polity": "Northern Wei",
+          "blurb": "Held by the Northern Wei since 426, whose court now ruled from Luoyang. Chang'an had been capital of the Former and Later Qin, and under the Later Qin ruler Yao Xing had become an important hub of Chinese Buddhism.",
+          "sources": [
+            {
+              "title": "Chang'an - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chang%27an#Jin,_Sixteen_Kingdoms,_and_Northern_Dynasties_period"
+            },
+            {
+              "title": "Northern Wei - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Northern_Wei"
+            }
+          ]
+        },
+        "datong": {
+          "polity": "Northern Wei",
+          "blurb": "After the Northern Wei court moved to Luoyang in 494, Pingcheng stayed a secondary capital and base of the conservative Xianbei military elite. At nearby Yungang, imperial cave-carving had ended, but private patrons kept cutting caves.",
+          "sources": [
+            {
+              "title": "Emperor Xiaowen of Northern Wei - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emperor_Xiaowen_of_Northern_Wei#Early_personal_reign"
+            },
+            {
+              "title": "Emperor Xiaowen of Northern Wei - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emperor_Xiaowen_of_Northern_Wei"
+            },
+            {
+              "title": "Yungang Grottoes - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Yungang_Grottoes#History"
+            }
+          ],
+          "image": {
+            "file": "File:Cave 20, Yungang Grottoes.jpg",
+            "kind": "site",
+            "caption": "Cave 20 of the Yungang Grottoes near Datong, from the first carving phase that ended in 465; photo 2025."
+          }
+        },
+        "yecheng": {
+          "polity": "Northern Wei",
+          "blurb": "Held by the Northern Wei since its Later Yan defender fled around 398, Ye was no longer a capital; Emperor Daowu had briefly considered making it one. Earlier it had been capital of the Later Zhao and Former Yan.",
+          "sources": [
+            {
+              "title": "Emperor Daowu of Northern Wei - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emperor_Daowu_of_Northern_Wei#Following_hostility_with_Later_Yan"
+            },
+            {
+              "title": "Emperor Daowu of Northern Wei - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emperor_Daowu_of_Northern_Wei#Early_reign_as_emperor"
+            },
+            {
+              "title": "Ye (Hebei) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ye_(Hebei)#History"
+            }
+          ],
+          "image": {
+            "file": "File:20250913 Model of Ye.jpg",
+            "kind": "reconstruction",
+            "caption": "Modern model of the ancient city of Ye in the Yecheng Museum; photo 2025."
           }
         }
       }

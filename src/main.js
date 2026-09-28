@@ -13,7 +13,15 @@ const [timeline, cities] = await Promise.all([
 ]);
 const snapshots = timeline.snapshots;
 const regions = timeline.regions;
-const state = { index: snapshots.length - 1, definition: "wup2018" };
+// Which ranking to show when a snapshot offers more than one. Remembered per
+// family, so choosing "Chandler" sticks while scrubbing through history.
+const MODES = {
+  combined: { family: "historical", label: "All historians (median)" },
+  chandler: { family: "historical", label: "Chandler (1987)" },
+  wup2018: { family: "modern", label: "Each country's definition" },
+  wup2025: { family: "modern", label: "One global definition" },
+};
+const state = { index: snapshots.length - 1, pref: { historical: "combined", modern: "wup2018" } };
 
 // ---------------------------------------------------------------- theme
 const themeBtn = $("theme-btn");
@@ -47,15 +55,19 @@ $("context").innerHTML = `
 const map = createMap($("map"), { onSelect: openCity });
 
 // ---------------------------------------------------------------- helpers
-function activeEntries(snap) {
-  if (state.definition === "wup2025" && snap.alternates?.wup2025) {
-    return snap.alternates.wup2025.map((e) => ({ ...e, tied: false, alternate: true }));
-  }
-  return snap.cities;
+function modesOf(snap) {
+  return [snap.source, ...Object.keys(snap.alternates ?? {})];
 }
 
 function sourceKey(snap) {
-  return state.definition === "wup2025" && snap.alternates?.wup2025 ? "wup2025" : snap.source;
+  const want = state.pref[MODES[snap.source].family];
+  return modesOf(snap).includes(want) ? want : snap.source;
+}
+
+function activeEntries(snap) {
+  const key = sourceKey(snap);
+  const list = key === snap.source ? snap.cities : snap.alternates[key];
+  return list.map((e) => ({ ...e, tied: e.tied ?? false, alternate: key === "wup2025" }));
 }
 
 function cite(sources, start = 1) {
@@ -68,7 +80,7 @@ function render() {
   const snap = snapshots[state.index];
   const entries = activeEntries(snap);
   const src = timeline.sources[sourceKey(snap)];
-  const estimate = snap.source === "chandler";
+  const estimate = snap.year < 1950;
 
   $("era-label").textContent = eraOf(snap.year);
   $("year").textContent = yearLabel(snap.year);
@@ -94,17 +106,20 @@ function render() {
       </div>` : ""}`;
 
   // Ranking header: source + definition, and the definition toggle when there is a choice.
-  const hasAlt = Boolean(snap.alternates?.wup2025);
+  const modes = modesOf(snap);
+  const key = sourceKey(snap);
+  const tied = key === "chandler" ? snap.chandlerTiedForNext : key === snap.source ? snap.tiedForNext : null;
+  const pool = key === "chandler" ? snap.recordedCities : key === "combined" ? snap.combinedCities : null;
   $("ranking-head").innerHTML = `
-    ${hasAlt ? `
-      <div class="toggle" role="radiogroup" aria-label="City definition">
-        <button role="radio" aria-checked="${state.definition === "wup2018"}" data-def="wup2018">Each country's definition</button>
-        <button role="radio" aria-checked="${state.definition === "wup2025"}" data-def="wup2025">One global definition</button>
+    ${modes.length > 1 ? `
+      <div class="toggle" role="radiogroup" aria-label="Ranking">
+        ${modes.map((m) => `<button role="radio" aria-checked="${m === key}" data-mode="${m}">${MODES[m].label}</button>`).join("")}
       </div>` : ""}
     <p class="source-line">
       <b>${escapeHtml(src.label)}</b> · ${escapeHtml(src.definition)}
-      ${snap.recordedCities ? ` Ranked from ${snap.recordedCities} cities recorded for this year.` : ""}
-      ${snap.tiedForNext ? ` ${snap.tiedForNext.names.length} more tie next at ~${snap.tiedForNext.population.toLocaleString("en-US")}.` : ""}
+      ${pool ? ` Ranked from ${pool} cities with ${key === "chandler" ? "a recorded figure" : "cited estimates"} for this year.` : ""}
+      ${key === "combined" && modes.length === 1 ? " Chandler has no table for this year." : ""}
+      ${tied ? ` ${tied.names.length} more tie next at ~${tied.population.toLocaleString("en-US")}.` : ""}
     </p>`;
 
   renderCards(entries, { estimate, snap });
@@ -146,7 +161,7 @@ function renderCards(entries, { estimate, snap }) {
               e.correction ? `<span class="adjusted" title="${escapeHtml(e.correction)}">adjusted</span>` : ""}</div>
           </div>
           ${unLabel ? `<p class="fine">UN figure covers the ${escapeHtml(unLabel)}.</p>` : ""}
-          ${estimatesLine(e)}
+          ${e.votes ? votesLine(e) : estimatesLine(e)}
           ${blurb ? `<p class="blurb">${escapeHtml(blurb)} ${
             e.blurb ? cite(e.sources)
                     : cite([{ title: `${c.wikipedia.title} - Wikipedia`, url: c.wikipedia.permalink }])}</p>` : ""}
@@ -193,6 +208,19 @@ function estimatesLine(e) {
       ${sp ? `<span class="range-tag">${wide ? "Historians disagree" : "Other estimates"}: ${compactPop(sp.min)}–${compactPop(sp.max)}</span>` : ""}
       ${[...byLabel.values()].map((o) => `<span class="est">${escapeHtml(o.label)} <b>${o.v}</b>${
         o.sources.map((s) => citeLink(s)).join("")}</span>`).join("")}
+    </div>`;
+}
+
+/** The figures behind an "all historians" median, each linked to its source. */
+function votesLine(e) {
+  const vals = e.votes.map((v) => v.value);
+  const wide = Math.max(...vals) > 2 * Math.min(...vals);
+  const tag = e.n === 1 ? "One source only" : `Median of ${e.n} sources${wide ? " · historians disagree" : ""}`;
+  return `
+    <div class="estimates${wide || e.n === 1 ? " wide" : ""}">
+      <span class="range-tag">${tag}</span>
+      ${e.votes.map((v) => `<span class="est">${escapeHtml(v.label)} <b>${compactPop(v.value)}</b>${
+        v.sources.slice(0, 3).map((s) => citeLink(s)).join("")}</span>`).join("")}
     </div>`;
 }
 
@@ -248,8 +276,8 @@ document.addEventListener("click", (e) => {
     $("detail").close();
     scrubber.set(snapshots.findIndex((s) => String(s.year) === jump.dataset.year));
   }
-  const def = e.target.closest("[data-def]");
-  if (def) { state.definition = def.dataset.def; render(); }
+  const mode = e.target.closest("[data-mode]");
+  if (mode) { state.pref[MODES[mode.dataset.mode].family] = mode.dataset.mode; render(); }
 });
 $("sources-btn").addEventListener("click", openSources);
 $("sources-btn-2").addEventListener("click", openSources);

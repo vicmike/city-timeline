@@ -19,19 +19,24 @@ MIN_INTERVAL = 1.0  # seconds between live requests (Wikimedia rate limits)
 
 def _get(url: str, **params) -> requests.Response:
     global _last_request
-    for attempt in range(5):
+    for attempt in range(8):
         wait = MIN_INTERVAL - (time.monotonic() - _last_request)
         if wait > 0:
             time.sleep(wait)
         _last_request = time.monotonic()
-        resp = _session.get(url, params=params or None, timeout=60)
+        try:
+            resp = _session.get(url, params=params or None, timeout=60)
+        except requests.ConnectionError:
+            time.sleep(min(120, 3 * 2 ** attempt))
+            continue
         if resp.status_code == 429 or resp.status_code >= 500:
-            time.sleep(2 ** (attempt + 1))
+            # Respect the server's Retry-After, else back off exponentially.
+            retry = resp.headers.get("Retry-After", "")
+            time.sleep(int(retry) if retry.isdigit() else min(120, 3 * 2 ** attempt))
             continue
         resp.raise_for_status()
         return resp
-    resp.raise_for_status()
-    return resp
+    raise RuntimeError(f"giving up on {url} after repeated rate limits / connection errors")
 
 
 def download(key: str) -> Path:

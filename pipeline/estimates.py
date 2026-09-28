@@ -30,6 +30,7 @@ def build(cities: dict, alias_index: dict):
         return cid
 
     by_city: dict[str, list] = {}
+    all_rows: list[dict] = []
     unmatched: dict[str, dict] = {}
     for r in ws["rows"]:
         cid = None
@@ -41,6 +42,7 @@ def build(cities: dict, alias_index: dict):
         groups = sorted({citations[s]["group"] for s in sources}) or ["unsourced"]
         est = {"year": r["year"], "low": r["low"], "high": r["high"],
                "sources": sources, "groups": groups}
+        all_rows.append({**est, "cid": cid, "link": r["link"], "city": r["city"], "location": r["location"]})
         if cid:
             by_city.setdefault(cid, []).append(est)
         elif sources:
@@ -57,6 +59,7 @@ def build(cities: dict, alias_index: dict):
         "revision": ws["revision"],
         "permalink": permalink,
         "rows": ws["rows"],
+        "allRows": all_rows,
     }
 
 
