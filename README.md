@@ -13,15 +13,38 @@ non-goals so we don't scope-creep into a general dashboard.
 
 ## Status
 
-Phase 1 MVP: slider + cards render from a hand-curated `public/data/timeline.json`
-(16 snapshot years, 100 AD-2025). Pre-1950 entries are single-city only —
-see the TODO in `scripts/build-data.js` and per-year `note` fields in the
-data for why, and what a real automated pipeline needs to do instead.
-Photos (Phase 2) and the rest of Phase 3 are not started.
+**Data pipeline done; UI being redesigned.** `public/data/` is generated from
+real sources by `pipeline/`, not written by hand:
+
+- **1360 BC to 1925:** Chandler (1987), as digitized by Reba et al. (2016). A
+  genuine top 5 for 24 benchmark years, with documented corrections.
+- **1950 to 2025:** UN World Urbanization Prospects 2018 (urban agglomerations),
+  plus the UN's 2025 Degree-of-Urbanisation ranking as an alternative from 1980.
+- **Per city:** era-appropriate names (Edo, Chang'an, Constantinople…),
+  region, coordinates, Wikipedia summary pinned to a revision, licensed
+  images with attribution, and full population history across all sources.
+- **Per city per year:** sourced blurb, polity, and period image
+  (`data/curated/blurbs/`).
+
+Every fact is attributable. See [`docs/SOURCES.md`](docs/SOURCES.md). Each
+build writes [`data/build-report.md`](data/build-report.md) with the rankings,
+corrections, automated checks, and where historians disagree.
 
 ## Getting started
 
 ```bash
 npm install
-npm run dev
+npm run dev          # app
+npm run data         # rebuild public/data/ from sources (needs uv; caches downloads in data/cache/)
 ```
+
+## Data layout
+
+| Path | What |
+|---|---|
+| `pipeline/` | Python build: fetch → rank → enrich → validate → write |
+| `data/curated/` | Hand-reviewed inputs: city registry, corrections, warning reviews, blurbs |
+| `data/sources.lock.json` | URL, retrieval date and SHA-256 of every raw source file |
+| `data/build-report.md` | Output of the last build, for review |
+| `public/data/timeline.json` | Snapshots: ranked cities, sources, notes, caveats, other historians' estimates |
+| `public/data/cities.json` | Per city: names by era, region, Wikipedia, images, population series |

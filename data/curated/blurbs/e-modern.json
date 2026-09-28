@@ -1,0 +1,830 @@
+{
+  "snapshots": {
+    "1960": {
+      "cities": {
+        "tokyo": {
+          "polity": "Japan",
+          "blurb": "Tokyo was spending heavily on infrastructure for the 1964 Summer Olympics: the Toei Subway opened its first line in 1960, and the Tōkaidō Shinkansen to Osaka, the world's first high-speed railway, opened in time for the Games.",
+          "sources": [
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Post-war_development"
+            },
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#1964_Summer_Olympics"
+            },
+            {
+              "title": "Tōkaidō Shinkansen - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tōkaidō_Shinkansen#History"
+            }
+          ],
+          "image": {
+            "file": "File:TokyoOlympics1964Opening.jpg",
+            "kind": "period",
+            "caption": "Opening ceremony of the Tokyo Summer Olympics, photographed 10 October 1964."
+          }
+        },
+        "new-york": {
+          "polity": "United States",
+          "blurb": "Urban renewal reached Lower Manhattan around 1960 with One Chase Manhattan Plaza, while Robert Moses's highways cut through neighbourhoods; the demolition of Pennsylvania Station led to the city's 1965 landmarks preservation law.",
+          "sources": [
+            {
+              "title": "History of New York City (1946–1977) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1946–1977)#Postwar:_Late_1940s_through_1950s"
+            }
+          ],
+          "image": {
+            "file": "File:NYP LOC4.jpg",
+            "kind": "period",
+            "caption": "Exterior of the old Pennsylvania Station on 31st Street, photographed 8 May 1962."
+          }
+        },
+        "osaka": {
+          "polity": "Japan",
+          "blurb": "Rebuilt factories and revived trade were making Osaka prosperous, and growth spilled into the suburbs; the Tōkaidō Shinkansen, begun in 1959, opened in 1964 and linked Shin-Ōsaka with Tokyo in four hours.",
+          "sources": [
+            {
+              "title": "Osaka - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Osaka#Meiji_to_Heisei_period"
+            },
+            {
+              "title": "Tōkaidō Shinkansen - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tōkaidō_Shinkansen#History"
+            }
+          ],
+          "image": {
+            "file": "File:Shin-Ōsaka Station.1964.jpg",
+            "kind": "period",
+            "caption": "Aerial photograph of the area around the new Shin-Ōsaka Station, May 1964."
+          }
+        },
+        "london": {
+          "polity": "United Kingdom",
+          "blurb": "Tower blocks were rising across London to replace war-damaged housing, and in 1965 the new Greater London Council took over a much larger area; by the mid-1960s Carnaby Street was the emblem of Swinging London.",
+          "sources": [
+            {
+              "title": "History of London - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_London#1945–2000"
+            }
+          ],
+          "image": {
+            "file": "File:Londons Carnaby Street, 1966.jpg",
+            "kind": "period",
+            "caption": "Young people on Carnaby Street, the heart of Swinging London, around 1966."
+          }
+        },
+        "paris": {
+          "polity": "France",
+          "blurb": "Under de Gaulle's new Fifth Republic, Paris saw bombings and deadly clashes over Algerian independence in 1961–62; the government built a market at Rungis to replace Les Halles and had soot cleaned from Notre-Dame.",
+          "sources": [
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Post-war_(1946–2000)"
+            },
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Paris_projects_of_the_French_presidents"
+            }
+          ],
+          "image": {
+            "file": "File:Paris - Les Halles 1960.jpg",
+            "kind": "period",
+            "caption": "Les Halles, the old central market of Paris, photographed 11 May 1960."
+          }
+        }
+      }
+    },
+    "1970": {
+      "cities": {
+        "tokyo": {
+          "polity": "Japan",
+          "blurb": "With the old 30-metre height limit lifted, skyscrapers arrived: the Kasumigaseki Building opened in 1968 and the Keio Plaza Hotel rose in west Shinjuku. Tama New Town opened in 1971, and the 1973 oil crisis brought inflation.",
+          "sources": [
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Late_Shōwa_development"
+            },
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Economy"
+            },
+            {
+              "title": "Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tokyo#Contemporary_(1946–present)"
+            }
+          ],
+          "image": {
+            "file": "File:842b Ginza, Tokyo, Japan 1971 (51421452983).jpg",
+            "kind": "period",
+            "caption": "Ginza, Tokyo, photographed in 1971."
+          }
+        },
+        "new-york": {
+          "polity": "United States",
+          "blurb": "The World Trade Center's Twin Towers opened in 1972, a rare high point as residents and industry left; in 1975 the city ran out of money and only narrowly avoided defaulting on its debts.",
+          "sources": [
+            {
+              "title": "History of New York City (1946–1977) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1946–1977)#1970s"
+            },
+            {
+              "title": "History of New York City (1946–1977) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1946–1977)#Fiscal_crisis_of_1975"
+            }
+          ],
+          "image": {
+            "file": "File:View of the World Trade Center under construction from Duane Street, Manhattan, 1970 b.jpg",
+            "kind": "period",
+            "caption": "The World Trade Center under construction, seen from Duane Street in Lower Manhattan, 1970."
+          }
+        },
+        "osaka": {
+          "polity": "Japan",
+          "blurb": "Expo '70, the first world's fair held in Asia, ran from March to September 1970 in the Senri Hills at Suita, with a master plan led by Kenzō Tange and Tarō Okamoto's Tower of the Sun.",
+          "sources": [
+            {
+              "title": "Expo '70 - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Expo_'70"
+            },
+            {
+              "title": "Expo '70 - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Expo_'70#Background"
+            }
+          ],
+          "image": {
+            "file": "File:Osaka Expo'70 Festival Plaza.jpg",
+            "kind": "period",
+            "caption": "The Festival Plaza at Expo '70, photographed 10 April 1970."
+          }
+        },
+        "mexico-city": {
+          "polity": "Mexico",
+          "blurb": "The 1968 Olympics, preceded by government troops' massacre of protesting students at Tlatelolco, were followed in 1969 by the first Metro line; through the 1970s smog and shanty towns grew faster than services.",
+          "sources": [
+            {
+              "title": "History of Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Mexico_City#Growth_of_the_city"
+            },
+            {
+              "title": "History of Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Mexico_City#The_city's_political_position"
+            }
+          ],
+          "image": {
+            "file": "File:Estudiantes sobre cammión quemado (A68).JPG",
+            "kind": "period",
+            "caption": "Students on a burned bus during the protests in Mexico City, July 1968."
+          }
+        },
+        "buenos-aires": {
+          "polity": "Argentina",
+          "blurb": "The city was torn by fighting between left-wing guerrillas and the right-wing Triple A; after the 1976 coup, the Dirty War's disappearances brought the Mothers of the Plaza de Mayo to march silently.",
+          "sources": [
+            {
+              "title": "Buenos Aires - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Buenos_Aires#19th_and_20th_centuries"
+            }
+          ],
+          "image": {
+            "file": "File:Colectivos en birigoyen a constitucion 1970s.jpg",
+            "kind": "period",
+            "caption": "Colectivo buses on Bernardo de Irigoyen street, heading for Constitución station, in the 1970s."
+          }
+        }
+      }
+    },
+    "1980": {
+      "cities": {
+        "tokyo": {
+          "polity": "Japan",
+          "blurb": "Japan's bubble economy sent Tokyo land prices soaring; developers replaced wooden houses with concrete high-rises in a loosely controlled boom that worsened traffic, until interest rates rose at the end of 1989.",
+          "sources": [
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Economy"
+            }
+          ],
+          "image": {
+            "file": "File:017 Shinjuku, Jan 82 (52349689045).jpg",
+            "kind": "period",
+            "caption": "Shinjuku, Tokyo, photographed in January 1982."
+          }
+        },
+        "osaka": {
+          "polity": "Japan",
+          "blurb": "To revive a region losing ground to Tokyo, work began in 1987 on Kansai International Airport, built on an artificial island in Osaka Bay because the old Itami Airport was hemmed in by suburbs.",
+          "sources": [
+            {
+              "title": "Kansai International Airport - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kansai_International_Airport#History"
+            },
+            {
+              "title": "Kansai International Airport - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kansai_International_Airport#Construction"
+            }
+          ],
+          "image": {
+            "file": "File:JA8150, Boeing 747-200 of Japan Airlines at Osaka International Airport, 1980's.jpg",
+            "kind": "period",
+            "caption": "A Japan Airlines Boeing 747 at Osaka International (Itami) Airport in the 1980s."
+          }
+        },
+        "new-york": {
+          "polity": "United States",
+          "blurb": "Mayor Ed Koch balanced the budget and ended the fiscal crisis by 1981, and a Wall Street boom fed property speculation, but the crack epidemic sent murders soaring and homelessness spread.",
+          "sources": [
+            {
+              "title": "History of New York City (1978–present) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1978–present)#Koch_and_Dinkins_(1978–1993)"
+            }
+          ],
+          "image": {
+            "file": "File:42nd St, NYC, Lyric Theatre, 1985.jpg",
+            "kind": "period",
+            "caption": "42nd Street in Manhattan, in disrepair in 1985 before its renovation."
+          }
+        },
+        "mexico-city": {
+          "polity": "Mexico",
+          "blurb": "On 19 September 1985 a magnitude 8.1 earthquake collapsed hundreds of buildings and killed thousands; many damaged tenements in the long-neglected historic centre were never rebuilt.",
+          "sources": [
+            {
+              "title": "History of Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Mexico_City#The_city's_political_position"
+            },
+            {
+              "title": "History of Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Mexico_City#Decline_and_revitalization_of_the_city_center"
+            }
+          ],
+          "image": {
+            "file": "File:1985 Mexico Earthquake - Nuevo Leon building 2.jpg",
+            "kind": "period",
+            "caption": "The partly collapsed Nuevo León building after the earthquake of 19 September 1985."
+          }
+        },
+        "sao-paulo": {
+          "polity": "Brazil",
+          "blurb": "As economic crisis eroded the military regime, the Diretas Já campaign for direct presidential elections held its first major rally on Praça da Sé in January 1984 and a vast final one in the Anhangabaú Valley that April.",
+          "sources": [
+            {
+              "title": "Diretas Já - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Diretas_Já#Economic_situation"
+            }
+          ],
+          "image": {
+            "file": "File:Diretas ja 2.JPG",
+            "kind": "period",
+            "caption": "Diretas Já rally in São Paulo, 16 April 1984."
+          }
+        }
+      }
+    },
+    "1990": {
+      "cities": {
+        "tokyo": {
+          "polity": "Japan",
+          "blurb": "The bubble burst in the early 1990s, starting the 'Lost Decades' of stagnation. The new Metropolitan Government Building opened in 1991, and in 1995 the Aum Shinrikyo cult released sarin on the subway.",
+          "sources": [
+            {
+              "title": "Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tokyo#1973–present"
+            },
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Early_Heisei_development"
+            },
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Aum_Shinrikyo"
+            }
+          ],
+          "image": {
+            "file": "File:【地下鉄サリン事件】除染を行う自衛隊員と警察官.jpg",
+            "kind": "period",
+            "caption": "Soldiers and police decontaminating after the Tokyo subway sarin attack, 20 March 1995."
+          }
+        },
+        "osaka": {
+          "polity": "Japan",
+          "blurb": "Kansai International Airport opened on its artificial island in September 1994; in January 1995 the Great Hanshin earthquake devastated nearby Kobe, while the new airport came through unscathed.",
+          "sources": [
+            {
+              "title": "Kansai International Airport - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kansai_International_Airport#Construction"
+            },
+            {
+              "title": "Great Hanshin earthquake - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Great_Hanshin_earthquake"
+            }
+          ],
+          "image": {
+            "file": "File:Hanshin Expressway Nada b059.jpg",
+            "kind": "period",
+            "caption": "Earthquake damage around Iwaya Intersection on National Route 43, Nada Ward, 17 January 1995."
+          }
+        },
+        "new-york": {
+          "polity": "United States",
+          "blurb": "Crime began a long decline under David Dinkins, the city's first black mayor, and kept falling under Rudolph Giuliani, credited with revitalizing Times Square as a Wall Street boom lifted the city.",
+          "sources": [
+            {
+              "title": "History of New York City (1978–present) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1978–present)#Koch_and_Dinkins_(1978–1993)"
+            },
+            {
+              "title": "History of New York City (1978–present) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1978–present)#Giuliani_(1994–2001)"
+            }
+          ],
+          "image": {
+            "file": "File:Times Square, N.Y.C. 1997 02.jpg",
+            "kind": "period",
+            "caption": "Times Square at night, July 1997."
+          }
+        },
+        "mexico-city": {
+          "polity": "Mexico",
+          "blurb": "Residents won the right to elect their own government in 1997, and Cuauhtémoc Cárdenas became the city's first elected mayor; by then Mexico City was infamous as one of the world's most polluted cities.",
+          "sources": [
+            {
+              "title": "History of Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Mexico_City#The_city's_political_position"
+            },
+            {
+              "title": "Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mexico_City#Pollution"
+            },
+            {
+              "title": "Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mexico_City"
+            }
+          ],
+          "image": {
+            "file": "File:Mexico City line A in 1990.jpg",
+            "kind": "period",
+            "caption": "A trolleybus on line A (Eje Central) at the Tasqueña terminus in southern Mexico City, 15 March 1990."
+          }
+        },
+        "sao-paulo": {
+          "polity": "Brazil",
+          "blurb": "In 1992 the Tietê Project began a costly, ultimately failed effort to clean Brazil's most polluted river, and from 1996 vehicle restrictions tried to curb winter smog; the Gay Pride Parade began in 1997.",
+          "sources": [
+            {
+              "title": "São Paulo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/São_Paulo#Environment"
+            },
+            {
+              "title": "São Paulo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/São_Paulo#Social_challenges"
+            },
+            {
+              "title": "São Paulo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/São_Paulo#Sexual_diversity"
+            }
+          ],
+          "image": {
+            "file": "File:PaulistaAvenue Sep1997 003.jpg",
+            "kind": "period",
+            "caption": "A bus stop on Paulista Avenue near the São Paulo Museum of Art, September 1997."
+          }
+        }
+      }
+    },
+    "2000": {
+      "cities": {
+        "tokyo": {
+          "polity": "Japan",
+          "blurb": "Governor Shintaro Ishihara, elected in 1999, attacked the city's debt with spending cuts and a hotel tax, while Roppongi Hills and the Midtown Tower, Tokyo's tallest building on completion in 2007, reshaped the skyline.",
+          "sources": [
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Governorship_of_Shintaro_Ishihara"
+            },
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Early_Heisei_development"
+            },
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Late_Heisei_development"
+            }
+          ],
+          "image": {
+            "file": "File:20031207 7 Desember Roppongi Hills Roppongi Tokyo Japan.jpg",
+            "kind": "period",
+            "caption": "Roppongi Hills Mori Tower, photographed 7 December 2003."
+          }
+        },
+        "osaka": {
+          "polity": "Japan",
+          "blurb": "Universal Studios Japan, the first Universal theme park outside the United States, opened in Osaka in March 2001; that July, Osaka's bid for the 2008 Olympics was eliminated in the first round.",
+          "sources": [
+            {
+              "title": "Universal Studios Japan - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Universal_Studios_Japan"
+            },
+            {
+              "title": "Osaka - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Osaka#Sports"
+            }
+          ],
+          "image": {
+            "file": "File:USJ 5years.JPG",
+            "kind": "period",
+            "caption": "Universal Studios Japan in July 2006, during its fifth-anniversary year."
+          }
+        },
+        "mexico-city": {
+          "polity": "Mexico",
+          "blurb": "From the early 2000s the government and a business group led by Carlos Slim bought and restored centuries-old buildings in the historic centre, replacing drainage, restoring façades and pedestrianizing streets.",
+          "sources": [
+            {
+              "title": "History of Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Mexico_City#Decline_and_revitalization_of_the_city_center"
+            }
+          ],
+          "image": {
+            "file": "File:AllendeStreetCentroDF.JPG",
+            "kind": "period",
+            "caption": "A pedestrianized stretch of Motolinía Street in the historic centre of Mexico City, September 2008."
+          }
+        },
+        "new-york": {
+          "polity": "United States",
+          "blurb": "On 11 September 2001 hijacked airliners destroyed the Twin Towers, spreading toxic debris across Lower Manhattan; under Mayor Michael Bloomberg, a wave of building projects then reshaped large parts of the city.",
+          "sources": [
+            {
+              "title": "History of New York City (1978–present) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1978–present)#September_11,_2001"
+            },
+            {
+              "title": "History of New York City (1978–present) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1978–present)#Bloomberg_(2002–2013)"
+            }
+          ],
+          "image": {
+            "file": "File:WTC smoking on 9-11.jpeg",
+            "kind": "period",
+            "caption": "Smoke rising from the World Trade Center towers in Lower Manhattan, 11 September 2001."
+          }
+        },
+        "sao-paulo": {
+          "polity": "Brazil",
+          "blurb": "The 2007 Clean City Law stripped billboards and giant advertising panels from the streets, and between 2000 and 2010 the city cut its homicide rate by 78 percent.",
+          "sources": [
+            {
+              "title": "São Paulo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/São_Paulo#Social_challenges"
+            },
+            {
+              "title": "São Paulo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/São_Paulo#Public_security"
+            }
+          ],
+          "image": {
+            "file": "File:Depois cidade limpa.JPG",
+            "kind": "period",
+            "caption": "Avenida Ibirapuera after the Clean City Law took effect, March 2008."
+          }
+        }
+      }
+    },
+    "2010": {
+      "cities": {
+        "tokyo": {
+          "polity": "Japan",
+          "blurb": "The March 2011 Tōhoku earthquake shook Tokyo, liquefying reclaimed land and bringing rolling blackouts; the 634-metre Tokyo Skytree, Japan's tallest structure, was completed that year.",
+          "sources": [
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#2011_Tōhoku_earthquake"
+            },
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Late_Heisei_development"
+            }
+          ],
+          "image": {
+            "file": "File:Tokyo Skytree 2014 Ⅲ.jpg",
+            "kind": "period",
+            "caption": "Tokyo Skytree, photographed 26 December 2014."
+          }
+        },
+        "delhi": {
+          "polity": "India",
+          "blurb": "Delhi hosted the 2010 Commonwealth Games, the largest sporting event ever held in India, and opened a new airport terminal; in 2013 the new Aam Aadmi Party ousted Congress from the city government.",
+          "sources": [
+            {
+              "title": "Delhi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Delhi#Sports"
+            },
+            {
+              "title": "Delhi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Delhi#Air"
+            },
+            {
+              "title": "Delhi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Delhi#Government_and_politics"
+            }
+          ],
+          "image": {
+            "file": "File:Jawaharlal Nehru Stadium CWG opening ceremony.jpg",
+            "kind": "period",
+            "caption": "Jawaharlal Nehru Stadium on the night of the Commonwealth Games opening ceremony, 3 October 2010."
+          }
+        },
+        "shanghai": {
+          "polity": "China",
+          "blurb": "Twenty years after Pudong was opened for development, it hosted the main venues of Expo 2010; in 2013 Shanghai launched mainland China's first free-trade zone, and the Shanghai Tower, China's tallest building, was completed in 2015.",
+          "sources": [
+            {
+              "title": "Pudong - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Pudong#History"
+            },
+            {
+              "title": "Shanghai - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Shanghai#Free-trade_zone"
+            },
+            {
+              "title": "Shanghai - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Shanghai#Cityscape"
+            }
+          ],
+          "image": {
+            "file": "File:Expo 2010 Shanghai flags and China Pavilion.jpg",
+            "kind": "period",
+            "caption": "The south entrance of Expo 2010 Shanghai, with the China Pavilion, 20 May 2010."
+          }
+        },
+        "mexico-city": {
+          "polity": "Mexico",
+          "blurb": "On 29 January 2016 the Federal District was renamed Ciudad de México, gaining state-like autonomy and boroughs headed by mayors; its own constitution was ratified in 2017.",
+          "sources": [
+            {
+              "title": "Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mexico_City#Reforms"
+            }
+          ],
+          "image": {
+            "file": "File:CDMX - Paseo de la Reforma.jpg",
+            "kind": "period",
+            "caption": "Paseo de la Reforma seen from Chapultepec Castle, 11 January 2014."
+          }
+        },
+        "sao-paulo": {
+          "polity": "Brazil",
+          "blurb": "The new Arena Corinthians in Itaquera hosted the opening match of the 2014 FIFA World Cup, and in 2015 a major drought led several cities in the state to ration water.",
+          "sources": [
+            {
+              "title": "Arena Corinthians - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Arena_Corinthians"
+            },
+            {
+              "title": "São Paulo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/São_Paulo#Hydrography"
+            }
+          ],
+          "image": {
+            "file": "File:Arena Corinthians Opening LED Ball.jpg",
+            "kind": "period",
+            "caption": "The 2014 FIFA World Cup opening ceremony at Arena Corinthians, 12 June 2014."
+          }
+        }
+      }
+    },
+    "2020": {
+      "note": "The 2020 and 2025 figures are projections published in the UN's 2018 revision of World Urbanization Prospects, which also projected that Delhi would overtake Tokyo as the most populous city around 2028.",
+      "noteSources": [
+        {
+          "title": "2018 Revision of World Urbanization Prospects - UN DESA",
+          "url": "https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html"
+        }
+      ],
+      "cities": {
+        "tokyo": {
+          "polity": "Japan",
+          "blurb": "The COVID-19 pandemic postponed the 2020 Olympics by a year; they finally opened in July 2021 with spectators banned, and were the most expensive Games held up to that time.",
+          "sources": [
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#COVID-19_pandemic_and_the_2020_Olympics"
+            }
+          ],
+          "image": {
+            "file": "File:Drones durante a abertura das Olimpíadas de Tóquio.jpg",
+            "kind": "period",
+            "caption": "Drones forming a globe over the Olympic Stadium at the opening of the Tokyo Olympics, 23 July 2021."
+          }
+        },
+        "delhi": {
+          "polity": "India",
+          "blurb": "In February 2020 protests over the Citizenship Amendment Act turned into Delhi's worst communal violence in decades in the city's northeast, and its air remained among the most polluted of any city on Earth.",
+          "sources": [
+            {
+              "title": "History of Delhi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Delhi#Post-Independence_(1947–present)"
+            },
+            {
+              "title": "Delhi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Delhi#Partition_and_post-independence"
+            },
+            {
+              "title": "Delhi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Delhi#Air_pollution"
+            }
+          ],
+          "image": {
+            "file": "File:Delhi Riot 2020.jpg",
+            "kind": "period",
+            "caption": "Burnt shops in Shiv Vihar, northeast Delhi, after the riots, 4 March 2020."
+          }
+        },
+        "shanghai": {
+          "polity": "China",
+          "blurb": "A large COVID-19 outbreak in 2022 led the government to lock down the entire city from 5 April to 1 June, causing widespread food shortages as supply chains broke down.",
+          "sources": [
+            {
+              "title": "Shanghai - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Shanghai#People's_Republic_era"
+            }
+          ],
+          "image": {
+            "file": "File:West Nanjing Road from 29 July, 2022.jpg",
+            "kind": "period",
+            "caption": "Quiet streets on West Nanjing Road after COVID-19 restrictions were lifted, 29 July 2022."
+          }
+        },
+        "sao-paulo": {
+          "polity": "Brazil",
+          "blurb": "Homelessness rose by almost a third in the two years to 2021, having doubled over twenty years, even as the city was rated Brazil's least lethal capital in the 2023 public security yearbook.",
+          "sources": [
+            {
+              "title": "São Paulo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/São_Paulo#Social_challenges"
+            },
+            {
+              "title": "São Paulo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/São_Paulo#Public_security"
+            }
+          ],
+          "image": {
+            "file": "File:Sao Paulo Brazil Skyline Aerial, December 2024.jpg",
+            "kind": "period",
+            "caption": "Drone view of the São Paulo skyline from above Parque da Aclimação, 2 December 2024."
+          }
+        },
+        "mexico-city": {
+          "polity": "Mexico",
+          "blurb": "Under head of government Claudia Sheinbaum, the city opened its Cablebús cable-car network in 2021 to serve hillside neighbourhoods, and a second airport, Felipe Ángeles, opened to the north in 2022.",
+          "sources": [
+            {
+              "title": "Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mexico_City#Sistema_de_Movilidad_Integrada"
+            },
+            {
+              "title": "Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mexico_City#Cablebús"
+            },
+            {
+              "title": "Mexico City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Mexico_City#Airports"
+            }
+          ],
+          "image": {
+            "file": "File:Inauguración Tlalpexco-Campos Revolución (60417cb7b69fc936233884).jpg",
+            "kind": "period",
+            "caption": "Inauguration of a station on Line 1 of the Cablebús in Cuautepec, 4 March 2021."
+          }
+        }
+      }
+    },
+    "2025": {
+      "note": "These are 2018 projections. The UN's 2025 revision measures every city with one uniform grid-based definition (Degree of Urbanisation), under which Jakarta ranks first, Dhaka second and Tokyo third.",
+      "noteSources": [
+        {
+          "title": "Latest urbanization data reveal world's most populous cities - UN DESA",
+          "url": "https://www.un.org/en/desa/latest-urbanization-data-reveal-world%E2%80%99s-most-populous-cities"
+        },
+        {
+          "title": "Indonesia's Jakarta now the world's largest city, Tokyo falls to third: UN - Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2025/11/26/indonesias-jakarta-now-the-worlds-largest-city-tokyo-falls-to-third-un"
+        },
+        {
+          "title": "World Urbanization Prospects - UN Population Division",
+          "url": "https://population.un.org/wup/"
+        }
+      ],
+      "cities": {
+        "tokyo": {
+          "polity": "Japan",
+          "blurb": "Governor Yuriko Koike, first elected in 2016, won a third term in 2024, and her government's Tokyo Green Biz Project, launched in 2023, aims to preserve and expand the city's greenery over the next century.",
+          "sources": [
+            {
+              "title": "Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tokyo#Local_government"
+            },
+            {
+              "title": "Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tokyo#Environmental_policies"
+            }
+          ],
+          "image": {
+            "file": "File:Tokyo Tower, Minato City.jpg",
+            "kind": "period",
+            "caption": "Tokyo at night with the illuminated Tokyo Tower, 3 December 2025."
+          }
+        },
+        "delhi": {
+          "polity": "India",
+          "blurb": "The BJP won an outright majority in the 2025 assembly elections, ending a decade of Aam Aadmi Party government, while the World Air Quality Report 2024 again named Delhi the world's most polluted capital.",
+          "sources": [
+            {
+              "title": "Delhi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Delhi#Government_and_politics"
+            },
+            {
+              "title": "Delhi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Delhi#Air_pollution"
+            }
+          ],
+          "image": {
+            "file": "File:Aerial view of Central Vista, New Delhi , India.jpg",
+            "kind": "period",
+            "caption": "Aerial view of the Central Vista in New Delhi, with Kartavya Path and India Gate, 6 August 2025."
+          }
+        },
+        "shanghai": {
+          "polity": "China",
+          "blurb": "Pudong, opened for development in 1990, produced about a third of Shanghai's economy by 2025, and its international airport had become the busiest in China.",
+          "sources": [
+            {
+              "title": "Pudong - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Pudong#History"
+            },
+            {
+              "title": "Pudong - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Pudong#Economy"
+            },
+            {
+              "title": "Pudong - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Pudong#Transportation"
+            }
+          ],
+          "image": {
+            "file": "File:Shanghai Pudong Airport 2024 (cropped).jpg",
+            "kind": "period",
+            "caption": "Aerial view of Shanghai Pudong International Airport, 3 October 2024."
+          }
+        },
+        "dhaka": {
+          "polity": "Bangladesh",
+          "blurb": "Student protests over government job quotas grew into the July Uprising of 2024; on 5 August, as protesters marched on Dhaka, Prime Minister Sheikh Hasina resigned. The city's first metro line had opened in 2022.",
+          "sources": [
+            {
+              "title": "July Uprising - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/July_Revolution_(Bangladesh)"
+            },
+            {
+              "title": "July Uprising - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/July_Revolution_(Bangladesh)#Resignation_of_Sheikh_Hasina"
+            },
+            {
+              "title": "Dhaka - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dhaka#Rail"
+            }
+          ],
+          "image": {
+            "file": "File:The victory celebration of Bangladeshi student's one point movement.jpg",
+            "kind": "period",
+            "caption": "Protesters celebrating at Shahbag, Dhaka, after Sheikh Hasina's resignation, 5 August 2024."
+          }
+        },
+        "cairo": {
+          "polity": "Egypt",
+          "blurb": "Ministries began moving to the New Administrative Capital east of New Cairo, inaugurated as the seat of government in 2024, and the Grand Egyptian Museum near the Giza pyramids officially opened on 1 November 2025.",
+          "sources": [
+            {
+              "title": "New Administrative Capital - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/New_Administrative_Capital"
+            },
+            {
+              "title": "Cairo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Cairo#Planned_new_capital"
+            },
+            {
+              "title": "Grand Egyptian Museum - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Grand_Egyptian_Museum"
+            }
+          ],
+          "image": {
+            "file": "File:View of Pyramids of Giza from Grand Egyptian Museum.jpg",
+            "kind": "period",
+            "caption": "The Giza pyramids seen from the Grand Egyptian Museum, 8 March 2024."
+          }
+        }
+      }
+    }
+  }
+}

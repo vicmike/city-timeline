@@ -1,0 +1,627 @@
+{
+  "snapshots": {
+    "1825": {
+      "cities": {
+        "beijing": {
+          "polity": "Qing dynasty",
+          "blurb": "Capital of the Qing emperors, whose Manchu banner garrisons guarded the gates of the Inner City. Opera troupes from Anhui, invited to court since 1790, were laying the foundations of what would become Peking Opera.",
+          "sources": [
+            {
+              "title": "History of Beijing - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Beijing#Qing_dynasty"
+            }
+          ],
+          "image": {
+            "file": "File:Plan of Peking in 1817.png",
+            "kind": "period",
+            "caption": "Plan of Peking within its walls as it was in 1817, published in 1842."
+          }
+        },
+        "london": {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "blurb": "In 1825 Marc Brunel began the Thames Tunnel between Rotherhithe and Wapping, dug with his new tunnelling shield to link the docks on both banks. It became the first tunnel successfully built under a navigable river.",
+          "sources": [
+            {
+              "title": "Thames Tunnel - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Thames_Tunnel"
+            },
+            {
+              "title": "Thames Tunnel - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Thames_Tunnel#Construction"
+            }
+          ],
+          "image": {
+            "file": "File:Thames Tunnel,1827, Museum of history and Technology.png",
+            "kind": "period",
+            "caption": "Print of Brunel's Thames Tunnel project, 1827."
+          }
+        },
+        "guangzhou": {
+          "polity": "Qing dynasty",
+          "blurb": "The only Chinese port open to most Western traders, who were confined to the Thirteen Factories along the Pearl River. Under this Canton System, exports of tea and porcelain made it one of the world's greatest ports.",
+          "sources": [
+            {
+              "title": "Thirteen Factories - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Thirteen_Factories"
+            },
+            {
+              "title": "Guangzhou - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Guangzhou#Imperial_China"
+            }
+          ],
+          "image": {
+            "file": "File:Foreign factories, Canton.jpg",
+            "kind": "period",
+            "caption": "The foreign factories on the Pearl River at Canton, painted between 1825 and 1835."
+          }
+        },
+        "paris": {
+          "polity": "Kingdom of France (Bourbon Restoration)",
+          "blurb": "Charles X succeeded his brother Louis XVIII in 1824, and the restored Bourbons were building neoclassical churches to replace those lost in the Revolution. The Canal Saint-Martin, bringing fresh water from the Ourcq, was completed in 1825.",
+          "sources": [
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Restoration_(1815–1830)"
+            },
+            {
+              "title": "Canal Saint-Martin - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Canal_Saint-Martin#History"
+            }
+          ],
+          "image": {
+            "file": "File:Bassin de la Villette 1820.jpg",
+            "kind": "period",
+            "caption": "The Barrière Saint-Martin and the basin of the Ourcq canal, coloured etching, about 1820."
+          }
+        },
+        "tokyo": {
+          "polity": "Tokugawa shogunate",
+          "blurb": "Seat of the Tokugawa shoguns, while the emperor remained in Kyoto. Its book trade was booming, with more than 800 booksellers by the 1830s, and artists such as Hokusai and Hiroshige were depicting its streets.",
+          "sources": [
+            {
+              "title": "Edo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Edo#Tokugawa_shogunate"
+            },
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Art_and_entertainment"
+            },
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Art_and_entertainment_2"
+            }
+          ],
+          "image": {
+            "file": "File:冨嶽三十六景 江戸日本橋-Nihonbashi in Edo (Edo Nihonbashi), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei) MET DP141003.jpg",
+            "kind": "period",
+            "caption": "Hokusai's woodblock print of Nihonbashi in Edo, from Thirty-six Views of Mount Fuji, about 1830-32."
+          }
+        }
+      }
+    },
+    "1850": {
+      "note": "Industrialisation was drawing huge numbers of rural migrants into cities, first in Europe. London's population had more than doubled since 1800, making it by far the world's largest city.",
+      "noteSources": [
+        {
+          "title": "Industrial Revolution - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Industrial_Revolution#Urbanization"
+        },
+        {
+          "title": "Industrial Revolution - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Industrial_Revolution#Water_and_sanitation"
+        }
+      ],
+      "cities": {
+        "london": {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "blurb": "King's Cross, the latest of the great railway termini, opened in 1850. The next year the Great Exhibition in Hyde Park's Crystal Palace drew six million visitors and displayed Britain at the height of its imperial dominance.",
+          "sources": [
+            {
+              "title": "History of London - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_London#19th_century"
+            },
+            {
+              "title": "Great Exhibition - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Great_Exhibition"
+            }
+          ],
+          "image": {
+            "file": "File:Crystal Palace from the northeast from Dickinson's Comprehensive Pictures of the Great Exhibition of 1851. 1854.jpg",
+            "kind": "period",
+            "caption": "The Crystal Palace in Hyde Park during the Great Exhibition of 1851, from Dickinson's Comprehensive Pictures (1854)."
+          }
+        },
+        "beijing": {
+          "polity": "Qing dynasty",
+          "blurb": "The 19-year-old Xianfeng Emperor took the throne in 1850, inheriting an empire in crisis. That December the Taiping Rebellion broke out in the south, and the Nian rebels' cavalry would soon threaten the capital itself.",
+          "sources": [
+            {
+              "title": "Xianfeng Emperor - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Xianfeng_Emperor#Early_reign"
+            }
+          ],
+          "image": {
+            "file": "File:Felice Beato (British, born Italy - Top of the Wall of Peking - Google Art Project.jpg",
+            "kind": "period",
+            "caption": "Felice Beato's photograph from the top of Peking's city wall, October 1860, among the earliest photographs of the city."
+          }
+        },
+        "paris": {
+          "polity": "French Second Republic",
+          "blurb": "Louis-Napoleon Bonaparte, elected president in 1848, ruled a crowded, unhealthy city where cholera had killed twenty thousand that year. He seized power in 1851, and his rebuilding of Paris with Haussmann began in 1853.",
+          "sources": [
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#The_Second_Republic_and_under_Napoleon_III_(1848–1870)"
+            }
+          ],
+          "image": {
+            "file": "File:Charles Marville, Rue Tirechape, de la rue de Rivoli, ca. 1853–70, edited.jpg",
+            "kind": "period",
+            "caption": "Charles Marville's photograph of the narrow Rue Tirechape in old central Paris, taken between about 1853 and 1870."
+          }
+        },
+        "guangzhou": {
+          "polity": "Qing dynasty",
+          "blurb": "The 1842 Treaty of Nanking ended the Canton System, and trade was shifting to new treaty ports. The foreign factories, burned in the First Opium War, had been rebuilt, while local viceroys resisted opening the walled city to foreigners.",
+          "sources": [
+            {
+              "title": "Thirteen Factories - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Thirteen_Factories#History"
+            },
+            {
+              "title": "Guangzhou - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Guangzhou#Imperial_China"
+            }
+          ],
+          "image": {
+            "file": "File:Canton c1850.jpg",
+            "kind": "period",
+            "caption": "Gouache of the hongs, the foreign factories on the Pearl River at Canton, about 1850."
+          }
+        },
+        "istanbul": {
+          "polity": "Ottoman Empire",
+          "blurb": "Capital of the Ottoman Empire in the era of the Tanzimat reforms, which brought new technology and bridges across the Golden Horn. Sultan Abdülmecid I was building the European-style Dolmabahçe Palace on the Bosphorus to replace medieval Topkapı.",
+          "sources": [
+            {
+              "title": "Istanbul - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Istanbul#Ottoman_Empire"
+            },
+            {
+              "title": "Dolmabahçe Palace - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dolmabahçe_Palace#History"
+            }
+          ],
+          "image": {
+            "file": "File:Robertson & Beato - Dolmabahçe Palace and Mosque - Google Art Project.jpg",
+            "kind": "period",
+            "caption": "Dolmabahçe Palace and Mosque on the Bosphorus, photographed by Robertson & Beato in the mid-19th century."
+          }
+        }
+      }
+    },
+    "1875": {
+      "cities": {
+        "london": {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "blurb": "Joseph Bazalgette's vast sewer network, begun after the Great Stink of 1858, was cleaning up the Thames. The Underground, open since 1863, and new metropolitan railways let middle-class Londoners commute from spreading suburbs.",
+          "sources": [
+            {
+              "title": "History of London - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_London#19th_century"
+            }
+          ],
+          "image": {
+            "file": "File:YCBA London a Pilgrimage 06 (cropped).jpg",
+            "kind": "period",
+            "caption": "Gustave Doré's engraving 'Over London - by Rail', from London: A Pilgrimage (1872)."
+          }
+        },
+        "paris": {
+          "polity": "French Third Republic",
+          "blurb": "Recovering from the 1871 Commune, whose fighters burned the Tuileries Palace and the Hôtel de Ville. The Palais Garnier opera house, begun under Napoleon III, was completed in 1875, and the Hôtel de Ville was being rebuilt.",
+          "sources": [
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#The_Siege_of_Paris_and_the_Commune_(1870–1871)"
+            },
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Belle_Époque_(1871–1914)"
+            },
+            {
+              "title": "Palais Garnier - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Palais_Garnier"
+            }
+          ],
+          "image": {
+            "file": "File:Inauguration of the Paris Opera in 1875 by Detaille - Collections of the Château of Versailles (cropped).jpg",
+            "kind": "period",
+            "caption": "Édouard Detaille's gouache of the inauguration of the Paris Opera on 5 January 1875, painted in 1878."
+          }
+        },
+        "new-york": {
+          "polity": "United States",
+          "blurb": "Its harbour handled most American exports, and Boss Tweed had been convicted in 1873 of defrauding the city. Across the East River, the Brooklyn Bridge's towers were rising to link Manhattan with the separate city of Brooklyn.",
+          "sources": [
+            {
+              "title": "History of New York City (1855–1897) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1855–1897)#Tammany_Hall"
+            },
+            {
+              "title": "History of New York City (1855–1897) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1855–1897)#Economy"
+            },
+            {
+              "title": "Brooklyn Bridge - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Brooklyn_Bridge#Towers"
+            }
+          ],
+          "image": {
+            "file": "File:Brooklyn Bridge tower in construction, from Robert N. Dennis collection of stereoscopic views.jpg",
+            "kind": "period",
+            "caption": "Stereoscopic view of a Brooklyn Bridge tower under construction; the towers were built between 1872 and 1876."
+          }
+        },
+        "berlin": {
+          "polity": "German Empire",
+          "blurb": "Capital of the new German Empire since 1871, with its bureaucracy and military expanding fast. Sanitation was among the worst in Europe, and a modern sewer system was built in the late 1870s.",
+          "sources": [
+            {
+              "title": "History of Berlin - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Berlin#Imperial_capital"
+            },
+            {
+              "title": "History of Berlin - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Berlin#Economic_growth"
+            }
+          ],
+          "image": {
+            "file": "File:Kaisergalerie, Berlin 1875.jpg",
+            "kind": "period",
+            "caption": "The Kaisergalerie shopping arcade on Friedrichstraße, opened in 1873, photographed around 1875."
+          }
+        },
+        "vienna": {
+          "polity": "Austria-Hungary",
+          "blurb": "The Ringstraße, a grand boulevard lined with palaces, had replaced the old city walls. The 1873 World's Fair in the Prater marked Franz Joseph's 25 years as emperor, but a cholera outbreak and a stock-market crash kept visitors away.",
+          "sources": [
+            {
+              "title": "Ringstraße - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ringstraße#History"
+            },
+            {
+              "title": "1873 Vienna World's Fair - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/1873_Vienna_World%27s_Fair#History"
+            }
+          ],
+          "image": {
+            "file": "File:Rotunde Weltausstellung 1873.jpg",
+            "kind": "period",
+            "caption": "Main entrance of the Rotunde, the centrepiece of the 1873 Vienna World's Fair, photographed in 1873."
+          }
+        }
+      }
+    },
+    "1900": {
+      "cities": {
+        "london": {
+          "polity": "United Kingdom of Great Britain and Ireland",
+          "blurb": "At the height of its influence as capital of one of history's largest empires. The London County Council, created in 1888, governed the capital, and in 1900 its county was divided into 28 metropolitan boroughs.",
+          "sources": [
+            {
+              "title": "History of London - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_London#19th_century"
+            },
+            {
+              "title": "History of London - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_London#1900_to_1939"
+            }
+          ],
+          "image": {
+            "file": "File:Cheapside photochrom.jpg",
+            "kind": "period",
+            "caption": "Photochrom print of busy Cheapside in the City of London, made between 1890 and 1900."
+          }
+        },
+        "new-york": {
+          "polity": "United States",
+          "blurb": "Consolidated in 1898 from Manhattan, Brooklyn, the Bronx, Queens and Staten Island. Its first subway line, opened in 1904, would help bind the five boroughs together, while early skyscrapers rose in Manhattan.",
+          "sources": [
+            {
+              "title": "New York City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/New_York_City#Late_19th_and_early_20th_century"
+            },
+            {
+              "title": "History of New York City (1898–1945) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1898–1945)#Progressive_Era:_1890s–1920s"
+            }
+          ],
+          "image": {
+            "file": "File:Columbus Circle Subway construction.jpeg",
+            "kind": "period",
+            "caption": "Columbus Circle dug up for construction of the New York City Subway, March 1900."
+          }
+        },
+        "paris": {
+          "polity": "French Third Republic",
+          "blurb": "The Exposition Universelle drew fifty million visitors and popularised Art Nouveau worldwide, and the first Métro line opened in time for it. The Grand Palais and Petit Palais were built for the fair.",
+          "sources": [
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#The_Paris_Universal_Expositions_(1855–1900)"
+            },
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Transport"
+            }
+          ],
+          "image": {
+            "file": "File:Grand entrance, Exposition Universal, 1900, Paris, France.jpg",
+            "kind": "period",
+            "caption": "The monumental main entrance of the 1900 Exposition Universelle, photographed in 1900."
+          }
+        },
+        "berlin": {
+          "polity": "German Empire",
+          "blurb": "An industrial city whose electrical-machinery industry had boomed since the 1880s. Work on the U-Bahn had begun in 1896, and tenement blocks were filling Kreuzberg, Prenzlauer Berg, Friedrichshain and Wedding.",
+          "sources": [
+            {
+              "title": "History of Berlin - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Berlin#Economic_growth"
+            },
+            {
+              "title": "History of Berlin - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Berlin#Imperial_capital"
+            }
+          ],
+          "image": {
+            "file": "File:Berlin - Potsdamer Platz - um 1900.jpg",
+            "kind": "period",
+            "caption": "Potsdamer Platz, flanked by the Grand Hotel Belle Vue and the Palast Hotel, around 1900."
+          }
+        },
+        "chicago": {
+          "polity": "United States",
+          "blurb": "In 1900 the new Sanitary and Ship Canal reversed the Chicago River to carry sewage away from Lake Michigan. The nation's railroad hub had hosted the 1893 World's Columbian Exposition, and most residents were immigrants or their children.",
+          "sources": [
+            {
+              "title": "Chicago Sanitary and Ship Canal - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chicago_Sanitary_and_Ship_Canal"
+            },
+            {
+              "title": "Chicago - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chicago#1875–1899:_Railroads,_annexation,_health,_stature"
+            },
+            {
+              "title": "Chicago - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chicago#1900–1924:_Industrial_growth,_prohibition"
+            }
+          ],
+          "image": {
+            "file": "File:Flickr - …trialsanderrors - State Street north from Madison Street, Chicago, Illinois, 1900.jpg",
+            "kind": "period",
+            "caption": "State Street looking north from Madison Street, photochrom print copyrighted 1900."
+          }
+        }
+      }
+    },
+    "1925": {
+      "note": "In the interwar years cars, electric lighting and radio became common in the richest countries, and the Roaring Twenties preceded the Great Depression. In the early 1920s New York overtook London as the world's most populous urban area.",
+      "noteSources": [
+        {
+          "title": "Interwar period - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Interwar_period"
+        },
+        {
+          "title": "New York City - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/New_York_City#Late_19th_and_early_20th_century"
+        }
+      ],
+      "cities": {
+        "new-york": {
+          "polity": "United States",
+          "blurb": "Harlem, the political capital of Black America, was the heart of the Harlem Renaissance, home to writers such as Langston Hughes and Zora Neale Hurston. Skyscrapers were transforming the skyline as housing spread across Queens and outer Brooklyn.",
+          "sources": [
+            {
+              "title": "History of New York City (1898–1945) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1898–1945)#Harlem_Renaissance"
+            },
+            {
+              "title": "History of New York City (1898–1945) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1898–1945)#Jazz_Age"
+            }
+          ],
+          "image": {
+            "file": "File:Guests at breakfast party for Langston Hughes hosted by Regina Anderson and Ethel Ray at 580 St. Nicholas Avenue, Harlem, May 1925.jpg",
+            "kind": "period",
+            "caption": "Guests at a breakfast party for Langston Hughes at 580 St. Nicholas Avenue, Harlem, May 1925."
+          }
+        },
+        "london": {
+          "polity": "United Kingdom",
+          "blurb": "The British Empire Exhibition at Wembley, open in 1924 and 1925, aimed to strengthen imperial bonds and trade. Suburbs of semi-detached houses were spreading beyond the County of London into Middlesex, Essex, Hertfordshire, Kent and Surrey.",
+          "sources": [
+            {
+              "title": "British Empire Exhibition - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/British_Empire_Exhibition"
+            },
+            {
+              "title": "History of London - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_London#1900_to_1939"
+            }
+          ],
+          "image": {
+            "file": "File:Postcard British Empire Exhibition 1924 25.jpg",
+            "kind": "period",
+            "caption": "Postcard of Wembley Stadium at the British Empire Exhibition, 1924."
+          }
+        },
+        "tokyo": {
+          "polity": "Empire of Japan",
+          "blurb": "Rebuilding after the 1923 Great Kantō earthquake and the fires that followed. Concrete buildings had survived best, spurring a shift to earthquake-proof construction, and the first underground railway outside Europe and the Americas would open in 1927.",
+          "sources": [
+            {
+              "title": "Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tokyo#1868–1941"
+            }
+          ],
+          "image": {
+            "file": "File:Groundbreaking ceremony of Tokyo Underground Railway 1.jpg",
+            "kind": "period",
+            "caption": "Groundbreaking ceremony for the Tokyo Underground Railway's Ueno-Asakusa line, today's Ginza Line, 27 September 1925."
+          }
+        },
+        "paris": {
+          "polity": "French Third Republic",
+          "blurb": "In les années folles, artists and writers from around the world gathered in Montparnasse cafés, and the 1925 International Exhibition of Modern Decorative and Industrial Arts gave Art Deco its name. The old fortifications were being torn down.",
+          "sources": [
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Arts"
+            },
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Between_the_Wars_(1919–1939)"
+            },
+            {
+              "title": "International Exhibition of Modern Decorative and Industrial Arts - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/International_Exhibition_of_Modern_Decorative_and_Industrial_Arts"
+            }
+          ],
+          "image": {
+            "file": "File:Paris-FR-75-Expo 1925 Arts décoratifs-vue esplanade des Invalides.jpg",
+            "kind": "period",
+            "caption": "The 1925 International Exhibition of Modern Decorative and Industrial Arts on the Esplanade des Invalides, July 1925."
+          }
+        },
+        "berlin": {
+          "polity": "Weimar Republic",
+          "blurb": "Enlarged by the 1920 Greater Berlin Act and stabilised after the 1923 hyperinflation, it was continental Europe's largest industrial city. The Golden Twenties brought booming nightlife, the new S-Bahn and Tempelhof airport.",
+          "sources": [
+            {
+              "title": "History of Berlin - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Berlin#Weimar_Republic_(1918–1933)"
+            }
+          ],
+          "image": {
+            "file": "File:Potsdamer Platz, Berlin (Max Missmann, 1925).png",
+            "kind": "period",
+            "caption": "Max Missmann's photograph of traffic on Potsdamer Platz, 1925."
+          }
+        }
+      }
+    },
+    "1950": {
+      "note": "From 1950, sizes come from the UN's World Urbanization Prospects, which counts urban agglomerations: a city plus its surrounding built-up area, regardless of administrative boundaries. Earlier years use historians' estimates, so part of the jump reflects this change.",
+      "noteSources": [
+        {
+          "title": "World Urbanization Prospects - United Nations",
+          "url": "https://population.un.org/wup/"
+        },
+        {
+          "title": "Glossary of demographic terms - World Urbanization Prospects",
+          "url": "https://population.un.org/wup/glossary-demographic-terms"
+        }
+      ],
+      "cities": {
+        "new-york": {
+          "polity": "United States",
+          "blurb": "With many great cities in ruins after the war, New York took on new global prominence. The United Nations headquarters was rising beside the East River, and abstract expressionism was making the city the centre of the art world.",
+          "sources": [
+            {
+              "title": "History of New York City (1946–1977) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_New_York_City_(1946–1977)#Postwar:_Late_1940s_through_1950s"
+            },
+            {
+              "title": "Headquarters of the United Nations - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Headquarters_of_the_United_Nations"
+            }
+          ],
+          "image": {
+            "file": "File:Manhattan en het gebouw van de Verenigde Naties gezien vanaf de andere kant van de East River. RP-F-F02353.jpg",
+            "kind": "period",
+            "caption": "Manhattan and the new United Nations headquarters seen from across the East River, February 1950."
+          }
+        },
+        "tokyo": {
+          "polity": "Occupied Japan",
+          "blurb": "Still under American occupation, with General MacArthur's headquarters in Marunouchi. Governed since 1943 as the Tokyo Metropolis, the bomb-damaged city would use profits from the Korean War, which began in 1950, for rebuilding.",
+          "sources": [
+            {
+              "title": "History of Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Tokyo#Occupation_of_Japan"
+            },
+            {
+              "title": "Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tokyo#1942–1945"
+            },
+            {
+              "title": "Tokyo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tokyo"
+            }
+          ],
+          "image": {
+            "file": "File:Aerial view of downtown Tokyo, Ginza district, in 1950.jpg",
+            "kind": "period",
+            "caption": "US Navy aerial photograph of the Ginza district, with the Imperial Palace grounds behind, late 1949 or early 1950."
+          }
+        },
+        "london": {
+          "polity": "United Kingdom",
+          "blurb": "Rebuilding was slow after so much housing was destroyed in the war, and the authorities were turning to high-rise flats to ease the shortage. The 1951 Festival of Britain on the South Bank would mark a new mood of optimism.",
+          "sources": [
+            {
+              "title": "History of London - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_London#1945–2000"
+            },
+            {
+              "title": "Festival of Britain - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Festival_of_Britain"
+            }
+          ],
+          "image": {
+            "file": "File:Festival of Britain Exhibition, 1951 (geograph 4571066).jpg",
+            "kind": "period",
+            "caption": "The Festival of Britain on the South Bank in July 1951, with the Dome of Discovery and the Skylon."
+          }
+        },
+        "osaka": {
+          "polity": "Occupied Japan",
+          "blurb": "The UN figure covers the wider Keihanshin region, including Kyoto and Kobe. American B-29 raids in 1945 had devastated large parts of Osaka, and the rebuilding of its factories and trade was under way.",
+          "sources": [
+            {
+              "title": "Osaka - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Osaka#Meiji_to_Heisei_period"
+            },
+            {
+              "title": "Osaka - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Osaka#Keihanshin_region"
+            }
+          ],
+          "image": {
+            "file": "File:Street In Osaka Japan (5660956263).jpg",
+            "kind": "period",
+            "caption": "Busy street near Osaka's central station, 26 April 1950."
+          }
+        },
+        "paris": {
+          "polity": "French Fourth Republic",
+          "blurb": "Bread rationing had ended only in 1948, and most apartments lacked their own bathroom. In 1950 the government began building HLM low-rent housing on the city's edges, while strikes and Communist-led protests kept politics turbulent.",
+          "sources": [
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Post-war_(1946–2000)"
+            }
+          ],
+          "image": {
+            "file": "File:Bus in Paris 1950.jpg",
+            "kind": "period",
+            "caption": "A Renault TN platform bus on route 168 at the Porte de Clignancourt, 1950."
+          }
+        }
+      }
+    }
+  }
+}

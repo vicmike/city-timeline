@@ -1,0 +1,543 @@
+{
+  "snapshots": {
+    "622": {
+      "note": "Ctesiphon and Constantinople were locked in the last and most devastating Roman–Persian war; Heraclius's counter-attacks began in 622, and in the 630s Arab armies invaded both exhausted empires.",
+      "noteSources": [
+        {
+          "title": "Byzantine–Sasanian War of 602–628 - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628"
+        }
+      ],
+      "cities": {
+        "ctesiphon": {
+          "polity": "Sasanian Empire",
+          "blurb": "Capital of Khosrow II's Sasanian Empire, a sprawling metropolis of several districts known in Arabic as al-Mada'in. In 627 the Byzantine emperor Heraclius would surround the city before the Persians accepted his peace terms.",
+          "sources": [
+            {
+              "title": "Ctesiphon - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ctesiphon#Sasanian_period"
+            }
+          ],
+          "image": {
+            "file": "File:Taq Kasra - 1934.jpg",
+            "kind": "site",
+            "caption": "The Taq Kasra arch, once part of the Sasanian royal palace at Ctesiphon, photographed in 1934."
+          }
+        },
+        "xian": {
+          "polity": "Tang dynasty",
+          "blurb": "Only four years earlier Li Yuan had proclaimed the Tang dynasty here, renaming the Sui capital Daxing, laid out from 582 on a grid of walled wards, as Chang'an.",
+          "sources": [
+            {
+              "title": "Chang'an - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chang%27an#Sui_and_Tang_period"
+            }
+          ],
+          "image": {
+            "file": "File:2023-10-07 Model of Chang'an City of the Tang Dynasty 唐代長安城模型.jpg",
+            "kind": "reconstruction",
+            "caption": "Modern scale model of Tang-dynasty Chang'an, photographed in 2023."
+          }
+        },
+        "istanbul": {
+          "polity": "Byzantine Empire",
+          "blurb": "Heraclius's capital was under pressure: Persian conquests had cut its Egyptian grain supply, ending free bread in 618, and Avars threatened from the Balkans. In 626 it would withstand a joint Sasanian–Avar siege.",
+          "sources": [
+            {
+              "title": "Constantinople - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Constantinople#Survival,_565%E2%80%93717:_Constantinople_during_the_Byzantine_Dark_Ages"
+            }
+          ],
+          "image": {
+            "file": "File:Theodosian Walls of Constantinople, Istanbul (24053561188).jpg",
+            "kind": "site",
+            "caption": "Surviving stretch of the Theodosian land walls of Constantinople, photographed in 2017."
+          }
+        },
+        "luoyang": {
+          "polity": "Tang dynasty",
+          "blurb": "Rebuilt from 604 by Sui Emperor Yang on a plan inspired by his father's Chang'an. In June 621 the warlord Wang Shichong surrendered it to the Tang prince Li Shimin after a long siege.",
+          "sources": [
+            {
+              "title": "Luoyang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Luoyang#Sui_and_Tang_dynasties"
+            },
+            {
+              "title": "Battle of Hulao - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Battle_of_Hulao#Aftermath_and_impact"
+            }
+          ],
+          "image": {
+            "file": "File:20251018 Site of Dingding Gate 01.jpg",
+            "kind": "site",
+            "caption": "Excavated site of Dingding Gate of Sui–Tang Luoyang, photographed in 2025."
+          }
+        },
+        "kannauj": {
+          "polity": "Kingdom of Kannauj (Vardhana dynasty)",
+          "blurb": "Imperial capital of Harsha, who united much of northern India after 606. The Chinese pilgrim Xuanzang, visiting during his reign, described a large, prosperous city with many Buddhist monasteries.",
+          "sources": [
+            {
+              "title": "Harsha - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Harsha"
+            },
+            {
+              "title": "Kannauj - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kannauj#Early_history"
+            }
+          ],
+          "image": {
+            "file": "File:Harshavardhana Circa AD 606-647.jpg",
+            "kind": "period",
+            "caption": "Silver drachm of Harshavardhana, struck during his reign (606–647)."
+          }
+        }
+      }
+    },
+    "800": {
+      "note": "Tang Chang'an, Abbasid Baghdad and Byzantine Constantinople, three imperial capitals, were among the largest cities in the world.",
+      "noteSources": [
+        {
+          "title": "Chang'an - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chang%27an#Sui_and_Tang_period"
+        }
+      ],
+      "cities": {
+        "baghdad": {
+          "polity": "Abbasid Caliphate",
+          "blurb": "Founded in 762 by Caliph al-Mansur around his walled Round City, the Abbasid capital had within a generation become a hub of learning and commerce on the Tigris trade routes.",
+          "sources": [
+            {
+              "title": "Baghdad - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Baghdad#Foundation"
+            },
+            {
+              "title": "Baghdad - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Baghdad#Center_of_learning_(8th%E2%80%939th_centuries)"
+            }
+          ],
+          "image": {
+            "file": "File:Round City in the Time of Mansur (Le Strange).png",
+            "kind": "reconstruction",
+            "caption": "Guy Le Strange's plan of al-Mansur's Round City of Baghdad, published in 1900."
+          }
+        },
+        "xian": {
+          "polity": "Tang dynasty",
+          "blurb": "The Tang capital was recovering after rebels in 756 and Tibetans in 763 occupied it. Sogdian, Indian and Arab residents lived here, and the city had Zoroastrian temples and a Church of the East church.",
+          "sources": [
+            {
+              "title": "Chang'an - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chang%27an#Sui_and_Tang_period"
+            },
+            {
+              "title": "Chang'an - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chang%27an#Peoples_and_ethnicities"
+            },
+            {
+              "title": "Chang'an - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Chang%27an#Religious_institutions"
+            }
+          ],
+          "image": {
+            "file": "File:Reconstruction Model of Hanyuan Hall of Daming Palace.jpg",
+            "kind": "reconstruction",
+            "caption": "Computer reconstruction of Hanyuan Hall in the Tang Daming Palace at Chang'an, made in 2016."
+          }
+        },
+        "luoyang": {
+          "polity": "Tang dynasty",
+          "blurb": "The Tang 'Eastern Capital' (Dongdu), damaged in the An Lushan Rebellion. Early 9th-century epitaphs record Christian Sogdian women and their Han Chinese husbands living here.",
+          "sources": [
+            {
+              "title": "Luoyang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Luoyang#Sui_and_Tang_dynasties"
+            }
+          ],
+          "image": {
+            "file": "File:Longmen-Grotten-Fengxian Si-02-2012-gje.jpg",
+            "kind": "site",
+            "caption": "Fengxian Temple at the Longmen Grottoes south of Luoyang, where most caves date from the Northern Wei and Tang; photographed in 2012."
+          }
+        },
+        "istanbul": {
+          "polity": "Byzantine Empire",
+          "blurb": "Empress Irene ruled alone from here after blinding her son in 797, an empress reigning in her own right. On Christmas Day 800, Charlemagne's coronation as emperor in Rome challenged her claim.",
+          "sources": [
+            {
+              "title": "Irene of Athens - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Irene_of_Athens#Relations_with_the_Carolingian_Empire"
+            }
+          ],
+          "image": {
+            "file": "File:Gold solidus, Byzantine, Irene, 797-802.jpg",
+            "kind": "period",
+            "caption": "Gold solidus of Empress Irene, struck at Constantinople during her sole reign (797–802)."
+          }
+        },
+        "kyoto": {
+          "polity": "Japan (Heian period)",
+          "blurb": "Emperor Kanmu entered his new capital in 794, a grid city modelled on Tang Chang'an. Construction was still under way; the palace-building office closed only in 805.",
+          "sources": [
+            {
+              "title": "Heian-kyō - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Heian-ky%C5%8D#History"
+            }
+          ],
+          "image": {
+            "file": "File:Heiankyo overall model.jpg",
+            "kind": "reconstruction",
+            "caption": "Modern scale model of the planned capital Heian-kyō, photographed in 2018."
+          }
+        }
+      }
+    },
+    "1000": {
+      "cities": {
+        "cordoba": {
+          "polity": "Caliphate of Córdoba",
+          "blurb": "The Umayyad capital was ruled in practice by the chamberlain Almanzor, with Caliph Hisham II a figurehead. Within a decade civil war broke out, and Berber troops sacked the city in 1013.",
+          "sources": [
+            {
+              "title": "Umayyad state of Córdoba - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Umayyad_state_of_C%C3%B3rdoba#Reforms_under_Almanzor"
+            },
+            {
+              "title": "Córdoba, Spain - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/C%C3%B3rdoba,_Spain#Umayyad_rule"
+            }
+          ],
+          "image": {
+            "file": "File:Cordoba Mezquita Mihrab.jpg",
+            "kind": "site",
+            "caption": "Maqsura and mihrab of the Great Mosque of Córdoba, added in al-Hakam II's expansion from 962; photographed in 2011."
+          }
+        },
+        "kaifeng": {
+          "polity": "Song dynasty",
+          "blurb": "The Northern Song had made this canal city their Eastern Capital (Dongjing) in 960. An outer city added in 955 enclosed a growing commercial centre where four major canals met.",
+          "sources": [
+            {
+              "title": "Kaifeng - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kaifeng#Song_dynasty_to_Mongol_eras"
+            }
+          ],
+          "image": {
+            "file": "File:Kaifeng Po Pagoda.jpg",
+            "kind": "site",
+            "caption": "Po Pagoda in Kaifeng, a Song-dynasty pagoda dating from 974, now partly destroyed; photographed in 2018."
+          }
+        },
+        "istanbul": {
+          "polity": "Byzantine Empire",
+          "blurb": "Basil II ruled from here, guarded since 980 by the Varangian Guard, warriors sent by Prince Vladimir of Kiev. The city's trades were organised into guilds supervised by the Eparch.",
+          "sources": [
+            {
+              "title": "Constantinople - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Constantinople#717%E2%80%931025:_Constantinople_during_the_Macedonian_Renaissance"
+            }
+          ],
+          "image": {
+            "file": "File:Menologion of Basil 053 page.jpg",
+            "kind": "period",
+            "caption": "Nativity page from the Menologion of Basil II, an illuminated manuscript compiled at Constantinople around 1000."
+          }
+        },
+        "angkor": {
+          "polity": "Khmer Empire",
+          "blurb": "The Khmer capital Yasodharapura, built by Yasovarman around the Phnom Bakheng temple and a great reservoir. Around 1002 Suryavarman I seized power, fighting a nine-year succession war.",
+          "sources": [
+            {
+              "title": "Angkor - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Angkor#Seat_of_the_Khmer_Empire"
+            },
+            {
+              "title": "Suryavarman I - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Suryavarman_I"
+            }
+          ],
+          "image": {
+            "file": "File:Phnom Bakheng.jpg",
+            "kind": "site",
+            "caption": "Phnom Bakheng, the late 9th-century temple-mountain at the centre of Yasovarman's city; photographed in 2008."
+          }
+        },
+        "kyoto": {
+          "polity": "Japan (Heian period)",
+          "blurb": "The Heian capital's life had shifted to its northern and eastern districts as the western Right Capital declined. Its great southern gate, Rajōmon, had collapsed in a storm in 980 and was never rebuilt.",
+          "sources": [
+            {
+              "title": "Heian-kyō - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Heian-ky%C5%8D#History"
+            }
+          ],
+          "image": {
+            "file": "File:Miniature Model of Rajomon.jpg",
+            "kind": "reconstruction",
+            "caption": "Modern miniature model of Rajōmon, Heian-kyō's southern gate, at the Museum of Kyoto."
+          }
+        }
+      }
+    },
+    "1100": {
+      "cities": {
+        "kaifeng": {
+          "polity": "Song dynasty",
+          "blurb": "The Northern Song capital at its peak had night markets, theatres, the Iron Pagoda of 1049 and Su Song's water-driven astronomical clock tower. Jurchen invaders would take the city in 1127.",
+          "sources": [
+            {
+              "title": "Kaifeng - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kaifeng#Song_dynasty_to_Mongol_eras"
+            }
+          ],
+          "image": {
+            "file": "File:Qingming shanghe tu 03.jpg",
+            "kind": "period",
+            "caption": "Detail of Along the River During the Qingming Festival, the Northern Song painter Zhang Zeduan's (1085–1145) scroll of the capital."
+          }
+        },
+        "istanbul": {
+          "polity": "Byzantine Empire",
+          "blurb": "Under Alexios I Komnenos the empire was recovering. The Pechenegs had reached the walls in 1090–91 and been destroyed, and in 1096 the First Crusade assembled here before marching on Jerusalem.",
+          "sources": [
+            {
+              "title": "Constantinople - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Constantinople#1081%E2%80%931185:_Constantinople_under_the_Komneni"
+            }
+          ],
+          "image": {
+            "file": "File:Byzantine Constantinople-en.png",
+            "kind": "reconstruction",
+            "caption": "Modern topographical map of Constantinople in the Byzantine period, drawn in 2008."
+          }
+        },
+        "marrakesh": {
+          "polity": "Almoravid dynasty",
+          "blurb": "Founded around 1070 as the Almoravid capital, the young city ruled an emirate stretching from Senegal to central Spain. Its fortified palace and the square before its gates became the core of later Marrakesh.",
+          "sources": [
+            {
+              "title": "Marrakesh - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Marrakesh#History"
+            },
+            {
+              "title": "Marrakesh - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Marrakesh#Imperial_capital"
+            }
+          ],
+          "image": {
+            "file": "File:Almoravid Qubba DSCF5646.jpg",
+            "kind": "site",
+            "caption": "The Almoravid Qubba, a rare surviving Almoravid building erected in the early 12th century; photographed in 2023."
+          }
+        },
+        "baghdad": {
+          "polity": "Seljuk Empire",
+          "blurb": "Since Tughril Beg took the city in 1055, Seljuk sultans ruled in the name of the Abbasid caliphs. Their vizier Nizam al-Mulk had founded the Nizamiyya college here.",
+          "sources": [
+            {
+              "title": "Baghdad - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Baghdad#Stagnation_and_invasions_(10th%E2%80%9316th_centuries)"
+            },
+            {
+              "title": "Baghdad - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Baghdad#Center_of_learning_(8th%E2%80%939th_centuries)"
+            }
+          ]
+        },
+        "basavakalyan": {
+          "polity": "Western Chalukya Empire",
+          "blurb": "Royal capital of the Western Chalukyas since about 1042. King Vikramaditya VI, who beat the Cholas at Vengi in 1093, kept the poet Bilhana and the jurist Vijnaneshwara, author of the Mitakshara, at court.",
+          "sources": [
+            {
+              "title": "Basavakalyan - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Basavakalyan#Western_Chalukyas"
+            },
+            {
+              "title": "Western Chalukya Empire - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Western_Chalukya_Empire#History"
+            },
+            {
+              "title": "Western Chalukya Empire - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Western_Chalukya_Empire#Literature"
+            }
+          ]
+        },
+        "cairo": {
+          "polity": "Fatimid Caliphate",
+          "blurb": "The Fatimid palace-city was opening up after vizier Badr al-Gamali let wealthy families from Fustat move in. Between 1087 and 1092 he rebuilt its walls in stone with the gates Bab al-Futuh, Bab al-Nasr and Bab Zuweila.",
+          "sources": [
+            {
+              "title": "Cairo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Cairo#Foundation_and_expansion_of_Cairo_under_the_Fatimids"
+            }
+          ],
+          "image": {
+            "file": "File:Bab al-Futuh 2019-11-02f.jpg",
+            "kind": "site",
+            "caption": "Bab al-Futuh, one of the stone gates built by Badr al-Gamali between 1087 and 1092; photographed in 2019."
+          }
+        }
+      }
+    },
+    "1200": {
+      "cities": {
+        "hangzhou": {
+          "polity": "Song dynasty (Southern Song)",
+          "blurb": "As Lin'an, capital of the Southern Song since 1132, after the Jurchens took Kaifeng. Crowded with northern refugees, it spread far beyond its old ramparts, and in 1208 a four-day fire burned tens of thousands of houses.",
+          "sources": [
+            {
+              "title": "Hangzhou - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Hangzhou#Song_dynasty"
+            }
+          ],
+          "image": {
+            "file": "File:Leifeng Pagoda in the Southern Song Dynasty by Li Song.jpg",
+            "kind": "period",
+            "caption": "Leifeng Pagoda by West Lake, detail of a West Lake painting by the Southern Song artist Li Song (13th century)."
+          }
+        },
+        "cairo": {
+          "polity": "Ayyubid dynasty",
+          "blurb": "Saladin's Citadel, begun in 1176, and a new wall linking Cairo with Fustat were being completed by his Ayyubid successors. The former Fatimid palace-city was opening to ordinary Egyptians and foreign merchants.",
+          "sources": [
+            {
+              "title": "Cairo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Cairo#Foundation_and_expansion_of_Cairo_under_the_Fatimids"
+            }
+          ],
+          "image": {
+            "file": "File:The massive walls of the Cairo Citadel (14815621603).jpg",
+            "kind": "site",
+            "caption": "Walls of Saladin's Citadel of Cairo, begun in 1176; photographed in 2012."
+          }
+        },
+        "fez": {
+          "polity": "Almohad Caliphate",
+          "blurb": "After fierce resistance, the Almohads took Fez in 1145 and tore down its walls. The new ramparts ordered by Ya'qub al-Mansur were completed in 1204 and still mark the perimeter of Fes el-Bali.",
+          "sources": [
+            {
+              "title": "Fez, Morocco - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Fez,_Morocco#Almoravids,_Almohads_and_Marinids"
+            }
+          ],
+          "image": {
+            "file": "File:Bab mahrouk.jpg",
+            "kind": "site",
+            "caption": "Bab Mahrouk, the western gate of Fes el-Bali, built in 1204; photographed in 2014."
+          }
+        },
+        "bagan": {
+          "polity": "Pagan Kingdom",
+          "blurb": "Capital of the Pagan Kingdom at its zenith under King Narapatisithu, who built the Sulamani Temple in 1183. The half-century to 1200 was the peak of monument building on the Bagan plain.",
+          "sources": [
+            {
+              "title": "Pagan Kingdom - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Pagan_Kingdom#Zenith"
+            },
+            {
+              "title": "Sulamani Temple - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Sulamani_Temple"
+            },
+            {
+              "title": "Bagan - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Bagan#9th_to_13th_centuries"
+            }
+          ],
+          "image": {
+            "file": "File:Bagan, Myanmar, Sulamani Temple.jpg",
+            "kind": "site",
+            "caption": "Sulamani Temple, built by King Narapatisithu in 1183; photographed in 2008."
+          }
+        },
+        "kamakura": {
+          "polity": "Kamakura shogunate (Japan)",
+          "blurb": "Seat of the warrior government Minamoto no Yoritomo set up here in 1180. After he died in 1199, his teenage son Yoriie succeeded under the regency of Hōjō Tokimasa, and real power began passing to the Hōjō.",
+          "sources": [
+            {
+              "title": "Kamakura - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kamakura#Kamakura_period"
+            }
+          ]
+        }
+      }
+    },
+    "1300": {
+      "cities": {
+        "hangzhou": {
+          "polity": "Yuan dynasty",
+          "blurb": "The former Song capital was taken, but spared, by Kublai Khan's armies in 1276, and remained an important southern commercial and administrative centre. Marco Polo supposedly visited and called it greater than any city in the world.",
+          "sources": [
+            {
+              "title": "Hangzhou - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Hangzhou#Yuan_dynasty"
+            }
+          ]
+        },
+        "beijing": {
+          "polity": "Yuan dynasty",
+          "blurb": "Kublai Khan's planned capital, laid out from 1264 around Jade Island following the Confucian Rites of Zhou and completed only in 1293. Buddhists, Muslims, Christians, Taoists and Confucians all had houses of worship here.",
+          "sources": [
+            {
+              "title": "Dadu (Beijing) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dadu_(Beijing)#History"
+            }
+          ],
+          "image": {
+            "file": "File:Zhongdu Dadu Map.jpg",
+            "kind": "reconstruction",
+            "caption": "Modern map showing the extent of Yuan Dadu and the earlier Jin capital Zhongdu, drawn in 2015."
+          }
+        },
+        "cairo": {
+          "polity": "Mamluk Sultanate",
+          "blurb": "The Mamluks, who had repelled the Mongols and ended the Crusader states, were filling the old palace district with religious complexes. Under Sultan al-Nasir Muhammad, Cairo was approaching its peak of wealth.",
+          "sources": [
+            {
+              "title": "Cairo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Cairo#Further_expansion_and_decline_under_the_Ayyubids_and_Mamluks"
+            }
+          ],
+          "image": {
+            "file": "File:Qalawun complex 02.jpg",
+            "kind": "site",
+            "caption": "The Qalawun complex, built by Sultan Qalawun in 1284–1285, photographed in 2024."
+          }
+        },
+        "paris": {
+          "polity": "Kingdom of France",
+          "blurb": "Philip IV was rebuilding the royal residence on the Île de la Cité as a palace. On the Left Bank, the Latin Quarter's university was Western Europe's leading school of Catholic theology.",
+          "sources": [
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Royal_palace_and_the_Louvre"
+            },
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#University"
+            }
+          ],
+          "image": {
+            "file": "File:Vie de Saint Denis - BNF Fr2092 37v.jpg",
+            "kind": "period",
+            "caption": "Bridges of Paris with wheat mills, a miniature from the Life of St Denis made around 1317."
+          }
+        },
+        "kamakura": {
+          "polity": "Kamakura shogunate (Japan)",
+          "blurb": "Seat of the Hōjō regency, which gave the city great temples such as Kenchō-ji and Engaku-ji. It was recovering from a severe earthquake in 1293; the regency would fall at the Siege of Kamakura in 1333.",
+          "sources": [
+            {
+              "title": "Kamakura - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kamakura#Kamakura_period"
+            }
+          ],
+          "image": {
+            "file": "File:The Great Buddha of Kōtoku-in (Kamakura Daibutsu).jpg",
+            "kind": "site",
+            "caption": "The bronze Great Buddha of Kōtoku-in, dating from around 1252; photographed in 2021."
+          }
+        }
+      }
+    }
+  }
+}

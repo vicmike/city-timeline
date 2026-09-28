@@ -1,0 +1,672 @@
+{
+  "snapshots": {
+    "-1360": {
+      "note": "Letters found at Amarna record Amenhotep III of Egypt corresponding with the kings of Babylon, Hatti, Assyria and Mitanni, who typically asked him for gold.",
+      "noteSources": [
+        {
+          "title": "Amenhotep III - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Amenhotep_III#International_relations"
+        }
+      ],
+      "cities": {
+        "thebes": {
+          "polity": "New Kingdom of Egypt (Eighteenth Dynasty)",
+          "blurb": "Egypt's capital at the height of the 18th Dynasty. Amenhotep III built on an unprecedented scale here: the Luxor temple, the Avenue of Sphinxes to Karnak, and on the west bank his vast mortuary temple and the Malkata palace-city.",
+          "sources": [
+            {
+              "title": "Thebes, Egypt - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Thebes,_Egypt#New_Kingdom_and_the_height_of_Thebes"
+            },
+            {
+              "title": "Amenhotep III - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Amenhotep_III#Monuments_and_legacy"
+            }
+          ],
+          "image": {
+            "file": "File:Colossi of Memnon R01.jpg",
+            "kind": "site",
+            "caption": "The southern Colossus of Memnon, one of two giant statues of Amenhotep III at the gateway of his mortuary temple at Thebes; photo 2011."
+          }
+        },
+        "hattusa": {
+          "polity": "Hittite Empire",
+          "blurb": "Hittite capital, with temples in its inner city and a royal acropolis on the Büyükkale ridge. Soon after this date Suppiluliuma I (c. 1344–1322 BC) ringed the inner and outer city with over 6 km of walls.",
+          "sources": [
+            {
+              "title": "Hattusa - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Hattusa#History"
+            }
+          ],
+          "image": {
+            "file": "File:Lion Gate, Hattusa 01.jpg",
+            "kind": "site",
+            "caption": "The Lion Gate in the walls of Hattusa, near Boğazkale, Turkey; photo 2014."
+          }
+        },
+        "dur-kurigalzu": {
+          "polity": "Babylonia under the Kassite dynasty",
+          "blurb": "A new royal city founded early in the 14th century BC by the Kassite king Kurigalzu I, who ruled Babylonia from here. It had a ziggurat to Enlil and appeared on toponym lists in Amenhotep III's Egyptian temple.",
+          "sources": [
+            {
+              "title": "Dur-Kurigalzu - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Dur-Kurigalzu#Late_Bronze_Age"
+            },
+            {
+              "title": "Kassite dynasty - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kassite_dynasty"
+            }
+          ],
+          "image": {
+            "file": "File:1. The remains of the Kassite ziggurat at Aqar-Quf (Dur-Kurigalzu), western Baghdad, Iraq.jpg",
+            "kind": "site",
+            "caption": "Remains of Kurigalzu's ziggurat at Aqar Quf (Dur-Kurigalzu), west of Baghdad; photo 2021."
+          }
+        },
+        "ao": {
+          "polity": "Shang dynasty",
+          "blurb": "A walled Bronze Age city of the Erligang culture, probably one of the Shang capitals, though which one is uncertain. Rammed-earth walls about 20 m thick at the base enclosed palaces, and bronze-casting workshops lay in the outer city.",
+          "sources": [
+            {
+              "title": "Zhengzhou Shang City - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Zhengzhou_Shang_City#Layout"
+            }
+          ],
+          "image": {
+            "file": "File:Shang Dynasty City Wall, Zhengzhou 01.jpg",
+            "kind": "site",
+            "caption": "Surviving stretch of the Shang-dynasty rammed-earth city wall in Zhengzhou; photo 2007."
+          }
+        },
+        "memphis": {
+          "polity": "New Kingdom of Egypt (Eighteenth Dynasty)",
+          "blurb": "No longer the royal capital, but prosperous: its port, Peru-nefer, was Egypt's gateway to Byblos and the Levant. Amenhotep III built a temple here, 'Nebmaatra united with Ptah', and the first Apis bull burials at Saqqara date from his reign.",
+          "sources": [
+            {
+              "title": "Memphis, Egypt - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Memphis,_Egypt#New_Kingdom"
+            },
+            {
+              "title": "Memphis, Egypt - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Memphis,_Egypt#Temple_of_Apis"
+            }
+          ],
+          "image": {
+            "file": "File:Sphinx of Memphis 2010 5.jpg",
+            "kind": "site",
+            "caption": "The alabaster Sphinx of Memphis, carved under the 18th Dynasty (probably Amenhotep II or Thutmose IV), in the open-air museum at Mit Rahina; photo 2010."
+          }
+        }
+      }
+    },
+    "-650": {
+      "note": "Assyria shaped much of this list: Ashurbanipal ruled from Nineveh, his army was besieging his rebel brother in Babylon, and Sais's Psamtik I had come to power in Egypt after Assyria drove out the Kushite kings.",
+      "noteSources": [
+        {
+          "title": "Ashurbanipal - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ashurbanipal#Fall_of_Shamash-shum-ukin"
+        },
+        {
+          "title": "Twenty-sixth Dynasty of Egypt - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Twenty-sixth_Dynasty_of_Egypt#Pharaohs_of_the_26th_Dynasty"
+        }
+      ],
+      "cities": {
+        "nineveh": {
+          "polity": "Neo-Assyrian Empire",
+          "blurb": "Capital of Ashurbanipal, who built its North Palace and gathered a great library of cuneiform tablets here. Sennacherib had laid out new streets, squares and his 'palace without a rival'. Nineveh was sacked in 612 BC.",
+          "sources": [
+            {
+              "title": "Nineveh - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Nineveh#Sennacherib's_development_of_Nineveh"
+            },
+            {
+              "title": "Nineveh - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Nineveh#After_Ashurbanipal"
+            },
+            {
+              "title": "Ashurbanipal - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ashurbanipal#Library_of_Ashurbanipal"
+            },
+            {
+              "title": "Ashurbanipal - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ashurbanipal#Rediscoveries_and_assessments"
+            }
+          ],
+          "image": {
+            "file": "File:Lion Hunt of Ashurbanipal - king riding killing lion.jpg",
+            "kind": "period",
+            "caption": "Relief from the North Palace at Nineveh showing Ashurbanipal on horseback spearing a lion, carved c. 645–635 BC; British Museum."
+          }
+        },
+        "luoyang": {
+          "polity": "Eastern Zhou",
+          "blurb": "Royal seat of the Eastern Zhou, whose court had moved here from Haojing around 770 BC. By now the Zhou kings held little real power over the rival states of the Spring and Autumn period.",
+          "sources": [
+            {
+              "title": "Luoyang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Luoyang#Classical_era"
+            },
+            {
+              "title": "Eastern Zhou - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Eastern_Zhou"
+            }
+          ],
+          "image": {
+            "file": "File:Eastern Zhou Royal Chariot Pit, Luoyang 06.jpg",
+            "kind": "site",
+            "caption": "Excavated Eastern Zhou chariot burial displayed in situ at the Eastern Zhou Royal Chariot Pit museum, Luoyang; photo 2011."
+          }
+        },
+        "babylon": {
+          "polity": "Babylonia under Shamash-shum-ukin, in revolt against the Neo-Assyrian Empire",
+          "blurb": "Under siege. Shamash-shum-ukin, the Assyrian prince ruling Babylonia, rebelled against his brother Ashurbanipal in 652 BC. By 650 Assyrian forces were besieging Babylon, which suffered famine and disease before falling in 648.",
+          "sources": [
+            {
+              "title": "Ashurbanipal - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ashurbanipal#Fall_of_Shamash-shum-ukin"
+            },
+            {
+              "title": "Babylon - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Babylon#Assyrian_period"
+            }
+          ]
+        },
+        "miletus": {
+          "polity": "Miletus (Ionian Greek city-state)",
+          "blurb": "A wealthy Ionian port that, from the seventh century BC, was planting colonies along the Black Sea, such as Sinope and Olbia. It was said to have founded more colonies than any other Greek city.",
+          "sources": [
+            {
+              "title": "Miletus - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Miletus#Colonies"
+            }
+          ]
+        },
+        "sais": {
+          "polity": "Twenty-sixth Dynasty of Egypt",
+          "blurb": "Seat of the new Saite dynasty. Psamtik I, who had fled to Nineveh and returned, was recognised as sole king and unified Egypt with Carian and Greek mercenaries sent by Gyges of Lydia.",
+          "sources": [
+            {
+              "title": "Twenty-sixth Dynasty of Egypt - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Twenty-sixth_Dynasty_of_Egypt#History"
+            },
+            {
+              "title": "Twenty-sixth Dynasty of Egypt - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Twenty-sixth_Dynasty_of_Egypt#Pharaohs_of_the_26th_Dynasty"
+            },
+            {
+              "title": "Sais, Egypt - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Sais,_Egypt"
+            }
+          ],
+          "image": {
+            "file": "File:LOWTH(1855) - 1.006 RUINS OF SAIS IN THE DELTA.jpg",
+            "kind": "site",
+            "caption": "The ruins of Sais in the Nile Delta, from an illustrated travel book by Lowth published in 1855."
+          }
+        }
+      }
+    },
+    "-430": {
+      "note": "Athens and Sparta had been at war since 431 BC. Syracuse, also on this list, would later be the target of Athens's disastrous Sicilian Expedition.",
+      "noteSources": [
+        {
+          "title": "History of Athens - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_Athens#Peloponnesian_War"
+        }
+      ],
+      "cities": {
+        "babylon": {
+          "polity": "Achaemenid Empire",
+          "blurb": "Capital of the Persian satrapy of Babylonia and an administrative capital of the Achaemenid Empire, where Babylonian astronomy and mathematics revived. Herodotus described its moat and its huge walls cemented with bitumen.",
+          "sources": [
+            {
+              "title": "Babylon - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Babylon#Persian_conquest"
+            }
+          ],
+          "image": {
+            "file": "File:Pergamon museum Ishtar Gate.jpg",
+            "kind": "reconstruction",
+            "caption": "Nebuchadnezzar's Ishtar Gate of Babylon, rebuilt from excavated glazed bricks in the Pergamon Museum, Berlin; photo 2019."
+          }
+        },
+        "athens": {
+          "polity": "Athens (city-state, head of the Delian League)",
+          "blurb": "Pericles had used Delian League tribute to build the Parthenon. Now, in the second year of the war with Sparta, plague spread among refugees crowded inside the Long Walls, killing many, among them soldiers and expert seamen.",
+          "sources": [
+            {
+              "title": "History of Athens - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Athens#Golden_Age"
+            },
+            {
+              "title": "Plague of Athens - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Plague_of_Athens#Background"
+            }
+          ],
+          "image": {
+            "file": "File:Parthenon from south.jpg",
+            "kind": "site",
+            "caption": "The Parthenon on the Acropolis of Athens seen from the south; photo 2005."
+          }
+        },
+        "syracuse": {
+          "polity": "Syracuse (Greek city-state)",
+          "blurb": "A Corinthian colony founded on the island of Ortygia in 733 BC. Syracuse had fought Akragas and the Sicel leader Ducetius, and its expansion threatened Athenian interests, which would later draw a great Athenian expedition against it.",
+          "sources": [
+            {
+              "title": "Syracuse, Sicily - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Syracuse,_Sicily#Ancient_Syracuse"
+            }
+          ],
+          "image": {
+            "file": "File:Temple of Apollo, 565 BC, Syracuse, 121675.jpg",
+            "kind": "site",
+            "caption": "Remains of the Doric Temple of Apollo on Ortygia, built around 565 BC; photo 2012."
+          }
+        },
+        "luoyang": {
+          "polity": "Eastern Zhou",
+          "blurb": "Still the Zhou royal capital, which had moved in 510 BC from Wangcheng to nearby Chengzhou. The Warring States period had just begun, and real power lay with the rival states.",
+          "sources": [
+            {
+              "title": "Luoyang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Luoyang#Classical_era"
+            },
+            {
+              "title": "Eastern Zhou - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Eastern_Zhou"
+            }
+          ],
+          "image": {
+            "file": "File:Eastern Zhou Royal Chariot Pit, Luoyang 07.jpg",
+            "kind": "site",
+            "caption": "Eastern Zhou chariot and horse burial excavated in Luoyang, displayed at the Eastern Zhou Royal Chariot Pit museum; photo 2011."
+          }
+        },
+        "pataliputra": {
+          "polity": "Magadha",
+          "blurb": "Magadha's new capital on the Ganges. King Ajatashatru had fortified the village of Pataligrama, and his son Udayin founded the city where the Son meets the Ganges, moving the capital here from Rajgriha.",
+          "sources": [
+            {
+              "title": "Pataliputra - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Pataliputra#History"
+            }
+          ]
+        },
+        "memphis": {
+          "polity": "Achaemenid Empire (satrapy of Egypt)",
+          "blurb": "Capital of Persian-ruled Egypt since Cambyses took it in 525 BC. A permanent Persian garrison held the city near the palace of Apries, and Herodotus visited and described its monuments in this century.",
+          "sources": [
+            {
+              "title": "Memphis, Egypt - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Memphis,_Egypt#Late_Period"
+            },
+            {
+              "title": "Memphis, Egypt - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Memphis,_Egypt#Sources_from_antiquity"
+            }
+          ],
+          "image": {
+            "file": "File:Relief from the Palace of Apries in Memphis MET DT257081.jpg",
+            "kind": "period",
+            "caption": "Carved wall relief from the palace of Apries at Memphis, made 589–570 BC; Metropolitan Museum of Art."
+          }
+        }
+      }
+    },
+    "-200": {
+      "note": "Two new orders had just emerged: Rome ended the Second Punic War victorious over Carthage in 201 BC, and in 202 BC Liu Bang founded the Han dynasty and made Chang'an its capital.",
+      "noteSources": [
+        {
+          "title": "Second Punic War - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Second_Punic_War"
+        },
+        {
+          "title": "Han dynasty - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Han_dynasty#Western_Han_(202_BC_–_9_AD)"
+        }
+      ],
+      "cities": {
+        "xian": {
+          "polity": "Han dynasty",
+          "blurb": "A brand-new capital. Liu Bang settled his court here in 202 BC, building Changle Palace across the river from the ruined Qin capital, and two years later the vast Weiyang Palace. Work on the city walls started in 194 BC.",
+          "sources": [
+            {
+              "title": "Xi'an - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Xi%27an#Imperial_era"
+            },
+            {
+              "title": "Han dynasty - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Han_dynasty#Western_Han_(202_BC_–_9_AD)"
+            }
+          ],
+          "image": {
+            "file": "File:Historic Site of Weiyang Palace 01 2013-09.JPG",
+            "kind": "site",
+            "caption": "Rammed-earth platform of the front hall of Weiyang Palace at the Han Chang'an city site, Xi'an; photo 2013."
+          }
+        },
+        "pataliputra": {
+          "polity": "Maurya Empire",
+          "blurb": "Capital of the Maurya Empire in its last decades. The Greek envoy Megasthenes had described a long city beside the Ganges, ringed by a deep moat and a timber wall with 570 towers and 64 gates.",
+          "sources": [
+            {
+              "title": "Pataliputra - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Pataliputra#Capital_of_the_Maurya_Empire"
+            }
+          ],
+          "image": {
+            "file": "File:Mauryan ruins of pillared hall at Kumrahar site of Pataliputra ASIEC 1912-13.jpg",
+            "kind": "site",
+            "caption": "Excavated remains of a Mauryan pillared hall at Kumhrar, Pataliputra, photographed for the Archaeological Survey of India in 1912–13."
+          }
+        },
+        "alexandria": {
+          "polity": "Ptolemaic Kingdom",
+          "blurb": "Capital of Ptolemaic Egypt, known for its Pharos lighthouse and its Great Library. Around 200 BC Aristophanes of Byzantium became the Library's fourth head, after Eratosthenes, who had calculated the Earth's circumference.",
+          "sources": [
+            {
+              "title": "Alexandria - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Alexandria#Ancient_era"
+            },
+            {
+              "title": "Library of Alexandria - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria#Peak_of_literary_criticism"
+            },
+            {
+              "title": "Library of Alexandria - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria#Later_scholarship_and_expansion"
+            }
+          ],
+          "image": {
+            "file": "File:Lighthouse - Thiersch.png",
+            "kind": "reconstruction",
+            "caption": "Reconstruction drawing of the Pharos lighthouse of Alexandria by the archaeologist Hermann Thiersch, 1909."
+          }
+        },
+        "seleucia": {
+          "polity": "Seleucid Empire",
+          "blurb": "Founded around 305 BC by Seleucus I as his first capital, largely peopled from Babylon. The court later moved to Antioch, but Seleucia, on the Tigris and a Euphrates canal, remained one of the great Hellenistic cities.",
+          "sources": [
+            {
+              "title": "Seleucia - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Seleucia#Seleucid_Empire"
+            }
+          ]
+        },
+        "rome": {
+          "polity": "Roman Republic",
+          "blurb": "Just victorious over Carthage, Rome was for the first time the capital of an overseas empire. From the 2nd century BC its population surged as Italian farmers, pushed off the land by slave-run estates, moved to the city.",
+          "sources": [
+            {
+              "title": "History of Rome - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Rome#Roman_Republic"
+            }
+          ],
+          "image": {
+            "file": "File:Servian Wall.JPG",
+            "kind": "site",
+            "caption": "Surviving section of the Servian Wall, Rome's early 4th-century BC city wall, beside Termini station; photo 2005."
+          }
+        },
+        "carthage": {
+          "polity": "Carthage (Punic Republic)",
+          "blurb": "Defeated at Zama in 202 BC, Carthage accepted Roman peace terms that stripped its overseas territories and imposed a heavy indemnity. A grid-planned residential quarter on the Byrsa hill dates from about this time.",
+          "sources": [
+            {
+              "title": "Second Punic War - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Second_Punic_War"
+            },
+            {
+              "title": "Carthage - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Carthage#Layout"
+            }
+          ],
+          "image": {
+            "file": "File:Punic Ports (Ports Puniques) of Carthage, Tunisia January 2024 - 1.jpg",
+            "kind": "site",
+            "caption": "The site of Carthage's Punic ports, the city's two artificial inner harbours; photo 2024."
+          }
+        }
+      }
+    },
+    "361": {
+      "note": "The two largest cities were rival capitals: Rome's war with Shapur II's Sasanian Empire had flared again in 359, and Constantius II went east in 360 after losing border fortresses.",
+      "noteSources": [
+        {
+          "title": "Constantius II - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Constantius_II"
+        },
+        {
+          "title": "Sasanian Empire - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sasanian_Empire#First_Golden_Era_(309–379)"
+        }
+      ],
+      "cities": {
+        "istanbul": {
+          "polity": "Roman Empire",
+          "blurb": "Constantine's city, proclaimed the new capital of the Roman Empire in 330. His son Constantius II, who took the eastern provinces including Constantinople, died in November 361 on the brink of civil war with his cousin Julian.",
+          "sources": [
+            {
+              "title": "History of Istanbul - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Istanbul#Late_Roman_period_and_the_Eastern_Roman_(Byzantine)_Empire"
+            },
+            {
+              "title": "Constantius II - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Constantius_II"
+            }
+          ],
+          "image": {
+            "file": "File:Column of Constantine.jpg",
+            "kind": "site",
+            "caption": "The Column of Constantine, completed around 328 for the city's dedication and still standing in Istanbul's Çemberlitaş district; photo 2018."
+          }
+        },
+        "ctesiphon": {
+          "polity": "Sasanian Empire",
+          "blurb": "Capital of Shapur II, who renewed war on Rome in 359 and retook Singara and Amida. In 363 the emperor Julian would defeat Shapur's forces outside Ctesiphon but fail to take the city.",
+          "sources": [
+            {
+              "title": "Sasanian Empire - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Sasanian_Empire#First_Golden_Era_(309–379)"
+            },
+            {
+              "title": "Ctesiphon - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ctesiphon"
+            }
+          ],
+          "image": {
+            "file": "File:Tagkasra.jpg",
+            "kind": "site",
+            "caption": "The Taq Kasra, the great arched hall of Ctesiphon's royal palace, drawn in 1824; its construction date, somewhere between the 3rd and 6th centuries, is disputed."
+          }
+        },
+        "antioch": {
+          "polity": "Roman Empire",
+          "blurb": "Seat of the count of the East and a mixed pagan and Christian city, whose leading church was Constantine's Great Church, begun in 327. The next year Julian, on campaign against Persia, would clash bitterly with its citizens.",
+          "sources": [
+            {
+              "title": "Antioch - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Antioch"
+            },
+            {
+              "title": "Antioch - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Antioch#Christianity"
+            },
+            {
+              "title": "Antioch - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Antioch#Age_of_Julian_and_Valens"
+            }
+          ],
+          "image": {
+            "file": "File:Megalopsychia mosaic border Great Church.jpg",
+            "kind": "period",
+            "caption": "Detail from the border of the late 5th-century Megalopsychia mosaic from Daphne, thought to show Antioch's imperial palace and Great Church."
+          }
+        },
+        "rome": {
+          "polity": "Roman Empire",
+          "blurb": "Still formally a capital, but emperors now ruled from elsewhere. Rome kept its prestige: Constantine had given the Lateran Palace to the Pope and built Old St Peter's, while its senators remained a stronghold of paganism.",
+          "sources": [
+            {
+              "title": "History of Rome - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Rome#Crisis_of_the_third_century"
+            },
+            {
+              "title": "History of Rome - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Rome#Christianisation"
+            },
+            {
+              "title": "History of Rome - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Rome#Germanic_invasions_and_collapse_of_the_Western_Empire"
+            }
+          ],
+          "image": {
+            "file": "File:Arch of Constantine (Rome) ,lateral view.jpg",
+            "kind": "site",
+            "caption": "The Arch of Constantine, erected to celebrate his victory over Maxentius; photo 2014."
+          }
+        },
+        "pataliputra": {
+          "polity": "Gupta Empire",
+          "blurb": "Re-emerging as an important city under the Gupta dynasty, whose reputed capital it was, though historians debate this. The reigning king, Samudragupta, is praised on the Allahabad Pillar for wide conquests and as a poet and musician.",
+          "sources": [
+            {
+              "title": "Gupta Empire - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Gupta_Empire#Urban_centres"
+            },
+            {
+              "title": "Gupta Empire - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Gupta_Empire#Origin"
+            },
+            {
+              "title": "Gupta Empire - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Gupta_Empire#Samudragupta"
+            }
+          ]
+        },
+        "nanjing": {
+          "polity": "Eastern Jin",
+          "blurb": "Capital of the Eastern Jin since 317, when Sima Rui made it his seat after northern China fell. Its palaces were rebuilt in 330–332, setting the city's layout, though it still had only bamboo stockades, not brick walls.",
+          "sources": [
+            {
+              "title": "Nanjing - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Nanjing#Six_Dynasties_period"
+            }
+          ],
+          "image": {
+            "file": "File:20240604 Site of Jiankang in the Oriental Metropolitan Museum.jpg",
+            "kind": "site",
+            "caption": "Excavated remains of Six Dynasties Jiankang displayed in the Oriental Metropolitan Museum, Nanjing; photo 2024."
+          }
+        }
+      }
+    },
+    "500": {
+      "note": "The last Western Roman emperor had been deposed in 476, leaving Constantinople as the surviving Roman capital. China was split between the Northern Wei, ruling from Luoyang, and southern dynasties at Jiankang.",
+      "noteSources": [
+        {
+          "title": "History of Istanbul - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_Istanbul#Late_Roman_period_and_the_Eastern_Roman_(Byzantine)_Empire"
+        },
+        {
+          "title": "Southern Qi - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Southern_Qi"
+        }
+      ],
+      "cities": {
+        "istanbul": {
+          "polity": "Byzantine Empire (Eastern Roman Empire)",
+          "blurb": "Capital of the Eastern Roman Empire, which flourished while the western half collapsed. The double line of the Theodosian Walls, built this century, now protected it, and for most of the Byzantine period it was Europe's largest city.",
+          "sources": [
+            {
+              "title": "History of Istanbul - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Istanbul#Late_Roman_period_and_the_Eastern_Roman_(Byzantine)_Empire"
+            },
+            {
+              "title": "Walls of Constantinople - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Walls_of_Constantinople"
+            }
+          ],
+          "image": {
+            "file": "File:Theodosian Walls of Constantinople, Istanbul (24053561188).jpg",
+            "kind": "site",
+            "caption": "A surviving stretch of the 5th-century Theodosian Walls of Constantinople, Istanbul; photo 2017."
+          }
+        },
+        "ctesiphon": {
+          "polity": "Sasanian Empire",
+          "blurb": "Kavad I had just regained his throne, returning to the capital in 498 with a Hephthalite army after nobles deposed him for backing Mazdak's egalitarian sect. Veh-Ardashir, the western district, was seat of the Nestorian patriarch.",
+          "sources": [
+            {
+              "title": "Sasanian Empire - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Sasanian_Empire#Intermediate_Era_(379–498)"
+            },
+            {
+              "title": "Ctesiphon - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Ctesiphon#Sasanian_period"
+            }
+          ],
+          "image": {
+            "file": "File:Ctesiphon, Iraq, 1932.jpg",
+            "kind": "site",
+            "caption": "The ruined Taq Kasra palace arch at Ctesiphon, photographed in 1932; the arch dates from sometime between the 3rd and 6th centuries."
+          }
+        },
+        "luoyang": {
+          "polity": "Northern Wei",
+          "blurb": "Emperor Xiaowen of Northern Wei moved his capital here in 493 as part of his sinicization campaign. Work began on the Buddhist Longmen Grottoes, and the Yongning Temple pagoda, China's tallest, was built in the city.",
+          "sources": [
+            {
+              "title": "Luoyang - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Luoyang#Northern_Wei"
+            }
+          ],
+          "image": {
+            "file": "File:27381-Luoyang, Longmen Grottoes.jpg",
+            "kind": "site",
+            "caption": "Cliffside Buddhist caves of the Longmen Grottoes near Luoyang, begun under the Northern Wei; photo 2019."
+          }
+        },
+        "nanjing": {
+          "polity": "Southern Qi",
+          "blurb": "Capital of the Southern Qi. The city gained brick walls around 480 and hosted literary circles such as the Eight Friends of Jingling. Rebellions against Emperor Xiao Baojuan would soon bring Xiao Yan's Liang dynasty to power.",
+          "sources": [
+            {
+              "title": "Nanjing - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Nanjing#Six_Dynasties_period"
+            },
+            {
+              "title": "Southern Qi - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Southern_Qi"
+            }
+          ],
+          "image": {
+            "file": "File:Jiankang plan dynasties du Sud.svg",
+            "kind": "reconstruction",
+            "caption": "Schematic plan of Jiankang under the Southern Dynasties, drawn in 2016 from period texts and modern studies."
+          }
+        },
+        "antioch": {
+          "polity": "Byzantine Empire (Eastern Roman Empire)",
+          "blurb": "A great Eastern Roman city, still centred on Constantine's Great Church. In 490 or 491 riots led by the Green circus faction turned on its Jews. Earthquakes in 526 and 528 would soon devastate it.",
+          "sources": [
+            {
+              "title": "Antioch - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Antioch#Theodosius_and_after"
+            },
+            {
+              "title": "Antioch - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Antioch#Christianity"
+            }
+          ],
+          "image": {
+            "file": "File:The Megalopsychia Hunt of Antioch mosaic, late 5th century AD, found in the village of Yakto near Daphne, Hatay Archaeology Museum, Antakya, Turke - 50735694481.jpg",
+            "kind": "period",
+            "caption": "The Megalopsychia Hunt mosaic, made in the late 5th century and found at Yakto near Daphne, whose border is thought to show buildings of Antioch; Hatay Archaeology Museum."
+          }
+        }
+      }
+    }
+  }
+}

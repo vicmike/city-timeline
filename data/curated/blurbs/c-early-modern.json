@@ -1,0 +1,589 @@
+{
+  "snapshots": {
+    "1400": {
+      "cities": {
+        "nanjing": {
+          "polity": "Ming dynasty",
+          "blurb": "Ming capital since 1368, Nanjing was ringed by a Capital City wall more than 30 km long. In 1400 the Jianwen Emperor ruled here while at war with his uncle Zhu Di, who would seize the city in 1402.",
+          "sources": [
+            {
+              "title": "Nanjing - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Nanjing#Early_Ming"
+            },
+            {
+              "title": "History of Beijing - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Beijing#Ming_dynasty"
+            }
+          ],
+          "image": {
+            "file": "File:Nanjing-Zhonghua-Gate-3071.jpg",
+            "kind": "site",
+            "caption": "The Zhonghua Gate complex on the southern side of the Nanjing city wall, photographed in 2008."
+          }
+        },
+        "vijayanagara": {
+          "polity": "Vijayanagara Empire",
+          "blurb": "On the banks of the Tungabhadra River, Vijayanagara was capital of an empire that Harihara II (r. 1377–1404) had consolidated beyond the Krishna River, bringing South India under its control.",
+          "sources": [
+            {
+              "title": "Vijayanagara - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Vijayanagara"
+            },
+            {
+              "title": "Vijayanagara Empire - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire#Early_years"
+            }
+          ],
+          "image": {
+            "file": "File:Ruins of Vijianuggur, the market in front of Virupaksha temple also called Hampi bazaar, Hampi, Vijayanagara, 1868 photo.jpg",
+            "kind": "site",
+            "caption": "The ruined bazaar street in front of the Virupaksha temple at Hampi, photographed by Edmund David Lyon in 1868."
+          }
+        },
+        "cairo": {
+          "polity": "Mamluk Sultanate",
+          "blurb": "Capital of the Mamluk Sultanate, now ruled by the Burji Mamluks, Cairo was still reeling from repeated plague and political instability since 1348. The era had nonetheless produced the Madrasa-Mosque of Sultan Hasan, the largest Mamluk-era religious monument.",
+          "sources": [
+            {
+              "title": "Cairo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Cairo#Further_expansion_and_decline_under_the_Ayyubids_and_Mamluks"
+            }
+          ],
+          "image": {
+            "file": "File:Mosque of Sultan Hasan, Cairo.jpg",
+            "kind": "site",
+            "caption": "The Madrasa-Mosque of Sultan Hasan, the largest Mamluk-era religious monument in Cairo, photographed in 2012."
+          }
+        },
+        "paris": {
+          "polity": "Kingdom of France",
+          "blurb": "Paris lay inside the new wall Charles V had built between 1356 and 1383, guarded by his Bastille fortress. But plague kept returning and the Hundred Years' War dragged on; the English would take the city in 1420.",
+          "sources": [
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Royal_palace_and_the_Louvre"
+            },
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Plague_and_war"
+            }
+          ],
+          "image": {
+            "file": "File:Les Très Riches Heures du duc de Berry octobre.jpg",
+            "kind": "period",
+            "caption": "October page of the Très Riches Heures du duc de Berry, painted between 1412 and 1416, with the Louvre fortress behind the Seine."
+          }
+        },
+        "hangzhou": {
+          "polity": "Ming dynasty",
+          "blurb": "The former Southern Song capital, at the southern end of the Grand Canal, was slowly regaining its prosperity under the Ming. Its West Lake, neglected under the Mongols and partly turned into farmland, still awaited restoration.",
+          "sources": [
+            {
+              "title": "Hangzhou - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Hangzhou"
+            },
+            {
+              "title": "West Lake - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/West_Lake#Mongol_rule_and_fall_of_tourism"
+            }
+          ],
+          "image": {
+            "file": "File:Su Causeway, West Lake.jpg",
+            "kind": "site",
+            "caption": "The Su Causeway across West Lake, built from dredged silt in 1089, photographed in 2011."
+          }
+        }
+      }
+    },
+    "1500": {
+      "cities": {
+        "beijing": {
+          "polity": "Ming dynasty",
+          "blurb": "Ming capital since 1421, Beijing centred on the Forbidden City, built 1406–1420. Imperial granaries near the Grand Canal's terminus fed its people, who had switched to coal once the surrounding forests were cut down.",
+          "sources": [
+            {
+              "title": "History of Beijing - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Beijing#Ming_dynasty"
+            }
+          ],
+          "image": {
+            "file": "File:Verbotene-Stadt1500.jpg",
+            "kind": "period",
+            "caption": "Detail of the Beijing Palace City Scroll, painted in the mid-Ming dynasty (c. 15th century), showing the Forbidden City."
+          }
+        },
+        "vijayanagara": {
+          "polity": "Vijayanagara Empire",
+          "blurb": "By 1500 Vijayanagara was probably India's richest city, drawing traders from Persia and Portugal. Power lay with the regent Tuluva Narasa Nayaka, who defended the empire against the Gajapati king and the Bahmani Sultan.",
+          "sources": [
+            {
+              "title": "Vijayanagara - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Vijayanagara"
+            },
+            {
+              "title": "Vijayanagara Empire - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Vijayanagara_Empire#Early_years"
+            }
+          ],
+          "image": {
+            "file": "File:Hampi Vitthala Temple 3465.jpg",
+            "kind": "site",
+            "caption": "The Vitthala temple complex in the ruins of Vijayanagara at Hampi, photographed in 2019."
+          }
+        },
+        "cairo": {
+          "polity": "Mamluk Sultanate",
+          "blurb": "Sultan Qaytbay (r. 1468–1496) had built or restored numerous monuments in Cairo, but after him the crisis of Mamluk power deepened, and a new sea route around Africa soon let spice traders bypass the city.",
+          "sources": [
+            {
+              "title": "Cairo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Cairo#Further_expansion_and_decline_under_the_Ayyubids_and_Mamluks"
+            }
+          ],
+          "image": {
+            "file": "File:Qaytbay complex.jpg",
+            "kind": "site",
+            "caption": "Sultan Qaytbay's mosque and mausoleum complex in Cairo's Northern Cemetery, photographed in 2012."
+          }
+        },
+        "hangzhou": {
+          "polity": "Ming dynasty",
+          "blurb": "Hangzhou's harbour was slowly silting up, and the city acted as a feeder to the larger Suzhou market along the Grand Canal. In 1508 governor Yang Mengying would dredge West Lake, repairing its causeways and adding a new one.",
+          "sources": [
+            {
+              "title": "Hangzhou - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Hangzhou#Modern_history"
+            },
+            {
+              "title": "Grand Canal (China) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Grand_Canal_(China)#Ming_dynasty_restoration"
+            },
+            {
+              "title": "West Lake - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/West_Lake#Revitalisation_in_Late_Imperial_China"
+            }
+          ],
+          "image": {
+            "file": "File:Ming Dynasty Hangzhou City Map.jpg",
+            "kind": "period",
+            "caption": "Map of Hangzhou's prefectural seat under the Ming dynasty, originally made in 1547."
+          }
+        },
+        "tabriz": {
+          "polity": "Aq Qoyunlu",
+          "blurb": "Capital of the Aq Qoyunlu since 1469, Tabriz kept monuments of its earlier Qara Qoyunlu rulers, including the Blue Mosque. In 1501 Ismail I would enter the city and proclaim it capital of his new Safavid state.",
+          "sources": [
+            {
+              "title": "Tabriz - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tabriz#Middle_Ages"
+            },
+            {
+              "title": "Tabriz - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tabriz#Early_modern_period"
+            }
+          ],
+          "image": {
+            "file": "File:-Blue Mosque of TABRIZ, 1465.- MET DP202986.jpg",
+            "kind": "site",
+            "caption": "The Blue Mosque of Tabriz, built in 1465, photographed in the mid-19th century."
+          }
+        }
+      }
+    },
+    "1600": {
+      "note": "Tokugawa Ieyasu's victory at the Battle of Sekigahara in October 1600 made him Japan's paramount warlord; in 1603 he founded the Tokugawa shogunate at Edo.",
+      "noteSources": [
+        {
+          "title": "Edo - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Edo#Tokugawa_shogunate"
+        }
+      ],
+      "cities": {
+        "beijing": {
+          "polity": "Ming dynasty",
+          "blurb": "Beijing now had an Outer City wall, added in 1553 after a Mongol raid. In 1601 the Jesuit Matteo Ricci became an adviser to the Wanli Emperor and the first Westerner admitted to the Forbidden City.",
+          "sources": [
+            {
+              "title": "History of Beijing - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Beijing#Ming_dynasty"
+            }
+          ],
+          "image": {
+            "file": "File:Departure Herald-Ming Dynasty.jpg",
+            "kind": "period",
+            "caption": "Departure Herald, a Ming handscroll from the Jiajing reign (1522–1566) showing the emperor's procession leaving Beijing for the imperial tombs."
+          }
+        },
+        "istanbul": {
+          "polity": "Ottoman Empire",
+          "blurb": "In Eminönü, Constantinople's busiest commercial quarter, Safiye Sultan, mother of Mehmed III, began a vast mosque in 1597. The Janissaries resented its cost, and work stopped in 1603, leaving it unfinished for decades.",
+          "sources": [
+            {
+              "title": "New Mosque (Istanbul) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/New_Mosque_(Istanbul)#Valide_Sultan_Mosque"
+            }
+          ],
+          "image": {
+            "file": "File:Ca. 1600 bird's eye view map of Constantinople.jpg",
+            "kind": "period",
+            "caption": "Bird's-eye view map of Constantinople made around 1600."
+          }
+        },
+        "agra": {
+          "polity": "Mughal Empire",
+          "blurb": "In 1599 Akbar moved the Mughal capital back to Agra from Lahore, returning to the red sandstone fort he had rebuilt in 1565–1573. The English traveller Ralph Fitch had called Agra much greater than London.",
+          "sources": [
+            {
+              "title": "Akbar - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Akbar#Capitals"
+            },
+            {
+              "title": "Agra Fort - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Agra_Fort#Mughal_conquest_and_Akbar's_rebuilding"
+            },
+            {
+              "title": "Agra - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Agra#Mughal_era"
+            }
+          ],
+          "image": {
+            "file": "File:Bau der Festung von Agra (rechte Hälfte).jpg",
+            "kind": "period",
+            "caption": "Building the fort at Agra in 1565, an illustration from the Akbarnama painted around 1590 (Victoria and Albert Museum)."
+          }
+        },
+        "osaka": {
+          "polity": "Toyotomi regime (Japan)",
+          "blurb": "Toyotomi Hideyoshi completed Osaka Castle, with its gold-leafed main tower, in 1597 and died the next year, leaving it to his son Hideyori. After Sekigahara in 1600 Tokugawa Ieyasu held power; he would besiege the castle in 1614–15.",
+          "sources": [
+            {
+              "title": "Osaka Castle - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Osaka_Castle#History"
+            },
+            {
+              "title": "Tokugawa Ieyasu - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu"
+            }
+          ],
+          "image": {
+            "file": "File:The Siege of Osaka Castle.jpg",
+            "kind": "period",
+            "caption": "Folding screen of the 1615 summer siege of Osaka Castle, painted in the 17th century for Kuroda Nagamasa."
+          }
+        },
+        "kyoto": {
+          "polity": "Toyotomi regime (Japan)",
+          "blurb": "Home of the imperial court, Kyoto had been remade by Toyotomi Hideyoshi, who added north–south streets, gathered temples along Teramachi and ringed the city with earthen odoi walls. In 1601 Tokugawa Ieyasu ordered Nijō Castle built here.",
+          "sources": [
+            {
+              "title": "Kyoto - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Kyoto#Feudal_period"
+            },
+            {
+              "title": "Nijō Castle - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Nijō_Castle#History"
+            }
+          ],
+          "image": {
+            "file": "File:Rakuchu rakugai zu byobu (Fukuoka City Museum).jpg",
+            "kind": "period",
+            "caption": "Scenes in and around the Capital, a pair of folding screens of Kyoto attributed to Kano Takanobu, Momoyama period (1568–1600)."
+          }
+        }
+      }
+    },
+    "1700": {
+      "cities": {
+        "istanbul": {
+          "polity": "Ottoman Empire",
+          "blurb": "Constantinople was absorbing the Treaty of Karlowitz of 1699, which ceded large territories to the Habsburgs and Venice. Anger at Sultan Mustafa II's absence in Edirne would fuel the 1703 revolt that deposed him.",
+          "sources": [
+            {
+              "title": "Edirne event - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Edirne_event#Causes"
+            },
+            {
+              "title": "Edirne event - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Edirne_event#Revolt"
+            }
+          ],
+          "image": {
+            "file": "File:Procession through the Hippodrome, Constantinople (Aubry de La Mottraye's \"Travels throughout Europe, Asia and into Part of Africa...,\" London, 1724, vol. I, plate 15) MET DP824505.jpg",
+            "kind": "period",
+            "caption": "A procession through the Hippodrome of Constantinople, a print from Aubry de La Mottraye's Travels, published 1723–24."
+          }
+        },
+        "tokyo": {
+          "polity": "Tokugawa shogunate",
+          "blurb": "Rebuilt after the Great Fire of Meireki in 1657 with firebreaks and wider streets, the shogun's city had spread east of the Sumida River. It was the prosperous Genroku era, when the arts and architecture flourished.",
+          "sources": [
+            {
+              "title": "Edo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Edo#Fires"
+            },
+            {
+              "title": "Genroku - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Genroku"
+            }
+          ],
+          "image": {
+            "file": "File:Hishikawa Moronobu, Autumn at Asakusa; Viewing Cherry blossoms at Ueno Park, Edo period, Freer Gallery of Art.jpg",
+            "kind": "period",
+            "caption": "Autumn at Asakusa and cherry-blossom viewing at Ueno in Edo, a pair of Edo-period folding screens by Hishikawa Moronobu (Freer Gallery of Art)."
+          }
+        },
+        "beijing": {
+          "polity": "Qing dynasty",
+          "blurb": "Qing capital since 1644, Beijing quartered Manchu, Mongol and Han banner troops by the Inner City gates. Northwest of the walls the Kangxi Emperor had built the Changchun Garden in 1684, and would soon begin the Yuanmingyuan.",
+          "sources": [
+            {
+              "title": "History of Beijing - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Beijing#Qing_dynasty"
+            },
+            {
+              "title": "Yuanmingyuan - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Yuanmingyuan#History"
+            }
+          ],
+          "image": {
+            "file": "File:Kangxi-Verbotene-Stadt1.jpg",
+            "kind": "period",
+            "caption": "Detail of the Kangxi Emperor's Southern Inspection Tour scroll (1690s), showing the court awaiting his return to the Forbidden City in 1689."
+          }
+        },
+        "london": {
+          "polity": "Kingdom of England",
+          "blurb": "Rebuilt in brick and stone after the Great Fire of 1666, London held the first service in Wren's new St Paul's Cathedral in 1697. By 1700 it handled 80% of England's imports, re-exporting silk, sugar, tea and tobacco.",
+          "sources": [
+            {
+              "title": "History of London - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_London#Great_Fire_of_London_(1666)"
+            },
+            {
+              "title": "History of London - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_London#18th_century"
+            }
+          ],
+          "image": {
+            "file": "File:City of London Ogilby and Morgan's Map of 1677.jpg",
+            "kind": "period",
+            "caption": "Ogilby and Morgan's map of the City of London as rebuilt after the Great Fire, published 1677 (reduced copy)."
+          }
+        },
+        "paris": {
+          "polity": "Kingdom of France",
+          "blurb": "Louis XIV had moved the court to Versailles in 1671, yet Paris kept growing: the old walls were demolished to make way for boulevards, and the Place Vendôme was laid out in 1698. Around 1700 London overtook it in size.",
+          "sources": [
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#17th_century"
+            },
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Expansion"
+            }
+          ],
+          "image": {
+            "file": "File:Nicolas de Fer, Huitieme plan de Paris divisé en ses vingts quartiers, 1705.jpg",
+            "kind": "period",
+            "caption": "Nicolas de Fer's map of Paris divided into its twenty quarters, published in 1705."
+          }
+        }
+      }
+    },
+    "1750": {
+      "cities": {
+        "beijing": {
+          "polity": "Qing dynasty",
+          "blurb": "In 1750 the Qianlong Emperor began a palace by the Western Lake for his mother's 60th birthday, the future Summer Palace. At the Yuanmingyuan, the Jesuit Giuseppe Castiglione was designing European-style palaces, begun in 1747.",
+          "sources": [
+            {
+              "title": "History of Beijing - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Beijing#Qing_dynasty"
+            },
+            {
+              "title": "Summer Palace - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Summer_Palace#Qing_dynasty"
+            },
+            {
+              "title": "Yuanmingyuan - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Yuanmingyuan#History"
+            }
+          ],
+          "image": {
+            "file": "File:Beautiful Scene of the Square Pot.jpg",
+            "kind": "period",
+            "caption": "One of the Forty Scenes of the Yuanmingyuan, an album painted for the Qianlong Emperor by his court painters in 1744."
+          }
+        },
+        "tokyo": {
+          "polity": "Tokugawa shogunate",
+          "blurb": "Tokugawa Yoshimune's Kyōhō Reforms had reshaped fire-prone Edo: from 1720 townspeople manned 48 iroha fire brigades, and tiled roofs became compulsory. After Yoshimune's death in 1751 the fireproofing drive faltered.",
+          "sources": [
+            {
+              "title": "Fires in Edo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Fires_in_Edo#Machibikeshi"
+            },
+            {
+              "title": "Fires in Edo - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Fires_in_Edo#Fire-resistant_and_fireproof_structures"
+            }
+          ],
+          "image": {
+            "file": "File:Large Perspective Picture of Evening Cool by Ryogoku Bridge by Okumura Masanobu.JPG",
+            "kind": "period",
+            "caption": "Evening Cool by Ryōgoku Bridge in Edo, a perspective woodblock print by Okumura Masanobu, about 1748."
+          }
+        },
+        "london": {
+          "polity": "Kingdom of Great Britain",
+          "blurb": "In 1750 Westminster Bridge opened, the first rival to London Bridge as a Thames crossing, and the Bow Street Runners began as a professional police force. New West End districts such as Mayfair pushed the city beyond its old limits.",
+          "sources": [
+            {
+              "title": "History of London - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_London#18th_century"
+            }
+          ],
+          "image": {
+            "file": "File:Canaletto - Westminster Bridge, with the Lord Mayor's Procession on the Thames - Google Art Project.jpg",
+            "kind": "period",
+            "caption": "Canaletto's Westminster Bridge, with the Lord Mayor's Procession on the Thames, painted in 1747."
+          }
+        },
+        "istanbul": {
+          "polity": "Ottoman Empire",
+          "blurb": "Mahmud I, enthroned by the 1730 revolt that ended the Tulip Period, was building the Nuruosmaniye Mosque by the Grand Bazaar: the first sultan's mosque in over a century and the first in the new Ottoman Baroque style.",
+          "sources": [
+            {
+              "title": "Patrona Halil revolt - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Patrona_Halil_revolt"
+            },
+            {
+              "title": "Nuruosmaniye Mosque - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Nuruosmaniye_Mosque#Historical_background"
+            }
+          ],
+          "image": {
+            "file": "File:Nuruosmaniye Camii.jpg",
+            "kind": "site",
+            "caption": "The Nuruosmaniye Mosque, built 1748–1755, photographed in 2018."
+          }
+        },
+        "paris": {
+          "polity": "Kingdom of France",
+          "blurb": "Paris was the hub of the Enlightenment: Diderot and d'Alembert's Encyclopédie began appearing in 1751, and writers met in cafés such as the Procope. Yet Voltaire complained in 1749 that the city centre was dark, cramped and hideous.",
+          "sources": [
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Age_of_Enlightenment"
+            },
+            {
+              "title": "History of Paris - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Paris#Social_problems_and_taxation"
+            }
+          ],
+          "image": {
+            "file": "File:Turgot map of Paris, general map - Norman B. Leventhal Map Center.jpg",
+            "kind": "period",
+            "caption": "Overview sheet of the Turgot map of Paris, published in 1739 and showing the city as surveyed in 1734–1736."
+          }
+        }
+      }
+    },
+    "1800": {
+      "cities": {
+        "beijing": {
+          "polity": "Qing dynasty",
+          "blurb": "The Jiaqing Emperor ruled alone after his father Qianlong died in 1799. Beijing had turned away Britain's Macartney embassy, and Anhui opera troupes invited to court in 1790 were starting the blend that became Peking Opera.",
+          "sources": [
+            {
+              "title": "Qianlong Emperor - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Qianlong_Emperor"
+            },
+            {
+              "title": "History of Beijing - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/History_of_Beijing#Qing_dynasty"
+            }
+          ],
+          "image": {
+            "file": "File:徐扬京师生春诗意图轴.png",
+            "kind": "period",
+            "caption": "Xu Yang's painting of Beijing in spring, Poetic Spring in the Capital, dated 1767."
+          }
+        },
+        "london": {
+          "polity": "Kingdom of Great Britain",
+          "blurb": "On 12 July 1800 Prime Minister William Pitt helped lay the foundation stone of the West India Docks, London's first commercial wet docks, walled against the theft and delays that plagued the riverside wharves.",
+          "sources": [
+            {
+              "title": "West India Docks - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/West_India_Docks#19th_century"
+            }
+          ],
+          "image": {
+            "file": "File:The West India Docks, as they appeared in March 1802 RMG PU1443.jpg",
+            "kind": "period",
+            "caption": "The newly completed West India Docks as they appeared in March 1802, a print from the Gentleman's Magazine, October 1802."
+          }
+        },
+        "guangzhou": {
+          "polity": "Qing dynasty",
+          "blurb": "Since 1757 Canton had been the sole legal port for most Western trade with China. European and American traders lived in the Thirteen Factories on the Pearl River, dealing only through the licensed Cohong merchants.",
+          "sources": [
+            {
+              "title": "Canton System - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Canton_System"
+            },
+            {
+              "title": "Thirteen Factories - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Thirteen_Factories"
+            }
+          ],
+          "image": {
+            "file": "File:William Daniell - The European Factories at Canton in China - B1978.43.219 - Yale Center for British Art.jpg",
+            "kind": "period",
+            "caption": "William Daniell's painting of the European factories on the waterfront at Canton, 1805."
+          }
+        },
+        "tokyo": {
+          "polity": "Tokugawa shogunate",
+          "blurb": "Edo was emerging from the Kansei Reforms of 1787–93, launched after famine and the Edo riots of 1787. Matsudaira Sadanobu cut city spending, stockpiled rice and in 1790 enforced Neo-Confucian orthodoxy, banning certain publications.",
+          "sources": [
+            {
+              "title": "Emperor Kōkaku - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Emperor_Kōkaku#Kansei_Reforms"
+            },
+            {
+              "title": "Tanuma Okitsugu - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Tanuma_Okitsugu"
+            }
+          ],
+          "image": {
+            "file": "File:Famous-Places-of-Edo-1803-Kuwagata-Shoshin.jpg",
+            "kind": "period",
+            "caption": "Famous Places of Edo (Edo meisho no e), a pictorial view of the city by Kuwagata Shoshin, first edition 1803."
+          }
+        },
+        "istanbul": {
+          "polity": "Ottoman Empire",
+          "blurb": "In 1800 Sultan Selim III built wooden barracks at Üsküdar, on the Asian shore, for the soldiers of his Nizam-ı Cedid, or New Order army. Rebel Janissaries opposed to his reforms burned them in 1806.",
+          "sources": [
+            {
+              "title": "Selimiye Barracks - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Selimiye_Barracks"
+            },
+            {
+              "title": "Selimiye Barracks - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Selimiye_Barracks#Construction"
+            }
+          ],
+          "image": {
+            "file": "File:Vue général de Constantinople, prise du chemin de Buyuk Déré - Melling Antoine Ignace - 1819.jpg",
+            "kind": "period",
+            "caption": "General view of Constantinople from the road to Büyükdere, an engraving after Antoine Ignace Melling, published in 1819."
+          }
+        }
+      }
+    }
+  }
+}

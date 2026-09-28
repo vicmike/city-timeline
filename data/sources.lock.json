@@ -1,0 +1,26 @@
+{
+  "chandler": {
+    "url": "https://ndownloader.figshare.com/files/5407640",
+    "retrieved": "2026-09-27",
+    "sha256": "5b8df64e46988b216988eef18b46ebc2cba57ecc1adc8a5c2e1e6d5b78068031",
+    "bytes": 1416656
+  },
+  "wup2018_zip": {
+    "url": "https://population.un.org/wup/assets/Download/Archive/WUP2018-Excel-files.zip",
+    "retrieved": "2026-09-27",
+    "sha256": "80eb71bbabb46cb2e1599b51b16133bf28b0a99a541d72de20a1248ec6170a75",
+    "bytes": 5367110
+  },
+  "wup2025_f18": {
+    "url": "https://population.un.org/wup/assets/Download/Cities/WUP2025-F18-DEGURBA-100_Largest_Cities.xlsx",
+    "retrieved": "2026-09-27",
+    "sha256": "5d772f3a65d579b0f358c39a1f5c91a13b8759c138925a5935393d255b85105d",
+    "bytes": 238480
+  },
+  "wiki_largest": {
+    "url": "https://en.wikipedia.org/w/index.php?title=List_of_largest_cities_throughout_history&action=raw",
+    "retrieved": "2026-09-27",
+    "sha256": "5bb9cc9b5ffde39b2c2de3c78323518bd2950654f8898c6e1ca1b1bf84449324",
+    "bytes": 32704
+  }
+}

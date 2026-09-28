@@ -1,0 +1,7 @@
+key,year,action,value,reason
+Gelibolu|Turkey,1000,drop,,"Exact copy of Constantinople's 300,000 for this year on a Gallipoli row (geocoding duplicate in the digitized set); Gallipoli was a small town. Constantinople's own row keeps the value."
+Gelibolu|Turkey,1200,drop,,"Exact copy of Constantinople's 150,000 for this year; same geocoding duplicate as 1000."
+Philadelphia|United States of America,1914,set,1760000,"Digitized as 17,600,000 (an extra digit): 1900 = 1,418,000 and 1925 = 2,085,000 in the same series."
+Rome|Italy,-200,set,150000,"Missing from the digitized set for 200 BC. Chandler (1987) gives Rome 150,000-160,000 at 200 BC, as cited on Wikipedia 'Historical urban community sizes' (Table 2). Lower bound used."
+Istanbul|Turkey,361,set,300000,"Missing from the digitized set for AD 361. Chandler (1987) names Constantinople the largest city in 361 at 300,000, per Wikipedia 'List of largest cities throughout history' (Chandler column)."
+Algiers|Algiers,1925,set,222000,"Digitized as 2,220,000 (an extra digit): neighbours are 140,000 (1900) and 430,000 (1950) in the same series. Not in any top 5; affects only Algiers' trajectory."
