@@ -13,7 +13,7 @@ non-goals so we don't scope-creep into a general dashboard.
 
 ## Status
 
-**Data pipeline done; UI being redesigned.** `public/data/` is generated from
+**Data pipeline and UI in place.** `public/data/` is generated from
 real sources by `pipeline/`, not written by hand:
 
 - **1360 BC to 1925:** Chandler (1987), as digitized by Reba et al. (2016). A
@@ -25,6 +25,13 @@ real sources by `pipeline/`, not written by hand:
   images with attribution, and full population history across all sources.
 - **Per city per year:** sourced blurb, polity, and period image
   (`data/curated/blurbs/`).
+
+The app (Vite + vanilla JS, no framework) has a scrubber with era bands and
+autoplay, a locator map that re-frames on each year's top cities, ranked cards
+with period images and numbered source links, caveats and other historians'
+estimates, a toggle between the UN's two city definitions (1980+), and a
+per-city sheet with a population chart combining all three sources. Deep
+links: `/#1700`.
 
 Every fact is attributable. See [`docs/SOURCES.md`](docs/SOURCES.md). Each
 build writes [`data/build-report.md`](data/build-report.md) with the rankings,

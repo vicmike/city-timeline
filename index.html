@@ -4,34 +4,41 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>City Timeline</title>
-  <link rel="stylesheet" href="/src/style.css" />
+  <meta name="description" content="The world's largest cities, from 1360 BC to today, with every figure sourced." />
 </head>
 <body>
-  <main>
-    <header>
-      <h1>City Timeline</h1>
-      <p class="subtitle">The world's largest cities, from antiquity to today.</p>
+  <div class="app">
+    <header class="masthead">
+      <div class="brand">
+        <h1>City Timeline</h1>
+        <p>The world's largest cities, 1360 BC to today</p>
+      </div>
+      <div class="masthead-actions">
+        <button class="ghost" id="sources-btn" type="button">Sources</button>
+        <button class="ghost icon" id="theme-btn" type="button" aria-label="Toggle dark mode"></button>
+      </div>
     </header>
 
-    <section class="slider-panel">
-      <div class="year-display" id="year-display"></div>
-      <input type="range" id="year-slider" min="0" max="0" step="1" value="0" />
-      <div class="slider-ticks" id="slider-ticks"></div>
-    </section>
+    <section class="scrubber" id="scrubber" aria-label="Timeline"></section>
 
-    <section class="note" id="year-note"></section>
+    <main class="stage">
+      <section class="context" id="context" aria-live="polite"></section>
+      <section class="ranking">
+        <div class="ranking-head" id="ranking-head"></div>
+        <ol class="cards" id="cards"></ol>
+      </section>
+    </main>
 
-    <section class="cards" id="cards"></section>
-
-    <footer>
-      <p>
-        Pre-modern figures are historians' best estimates, not censuses —
-        sources vary widely and are cited per city. See
-        <a href="docs/SPEC.md">docs/SPEC.md</a> for data provenance and
-        open TODOs.
-      </p>
+    <footer class="colophon">
+      Population figures: Chandler (1987) via Reba, Reitsma &amp; Seto (2016), CC BY 4.0; UN World Urbanization
+      Prospects 2018 &amp; 2025, CC BY 3.0 IGO. Text: Wikipedia, CC BY-SA 4.0. Images: Wikimedia Commons,
+      individual licences credited on each image. <button class="link" id="sources-btn-2" type="button">Full sources</button>
     </footer>
-  </main>
+  </div>
+
+  <dialog class="sheet" id="detail" aria-label="City detail"></dialog>
+  <dialog class="sheet" id="sources" aria-label="Sources"></dialog>
+
   <script type="module" src="/src/main.js"></script>
 </body>
 </html>

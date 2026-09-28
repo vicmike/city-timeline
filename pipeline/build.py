@@ -45,6 +45,14 @@ SOURCES = {
         "definition": "'City' under the Degree of Urbanisation: a contiguous high-density (1,500+/km²) "
                       "area of 50,000+ people on a 1 km² grid, applied identically in every country.",
     },
+    "otherHistorians": {
+        "label": "Other historians' #1 (Morris, Modelski)",
+        "citation": "Ian Morris, Social Development (2010); George Modelski, World Cities: -3000 to 2000 "
+                    "(Faros2000, 2003). Each historian's largest city per year, as tabulated on Wikipedia's "
+                    "'List of largest cities throughout history'.",
+        "url": "https://en.wikipedia.org/wiki/List_of_largest_cities_throughout_history",
+        "license": "CC BY-SA 4.0 (Wikipedia table)",
+    },
     "wikipedia": {
         "label": "Wikipedia",
         "citation": "English Wikipedia article summaries; images from Wikimedia Commons (individual "
