@@ -98,6 +98,41 @@ def run(ch: pd.DataFrame, snapshots, leaders, cities, alias_index, city_out, enr
     return warnings
 
 
+DISAGREE_FACTOR = 2
+
+
+def disagreements(snapshots, est) -> list[tuple[str, str]]:
+    """Informational: where cited historians differ by more than 2x for a
+    ranked city. The UI shows the range on the card, so these need no review."""
+    out = []
+    for s in snapshots:
+        for e in s["cities"]:
+            sp = e.get("spread")
+            if sp and sp["max"] > DISAGREE_FACTOR * sp["min"]:
+                vals = ", ".join(sorted({f"{x['low']:,}" + (f"–{x['high']:,}" if x['high'] != x['low'] else "")
+                                         + f" ({'/'.join(g.split(':')[-1] for g in x['groups'])})"
+                                         for x in e.get("estimates", []) if x["sources"]}))
+                out.append(("disagreement", f"{s['label']}: {e['id']} shown at {e['population']:,}; "
+                                            f"cited estimates {vals}"))
+    # Two copies of Chandler (1987): the Reba et al. digitization we rank with, and
+    # the figures Wikipedia cites to Chandler. Where both exist they should agree.
+    for s in snapshots:
+        if s["source"] != "chandler":
+            continue
+        for e in s["cities"]:
+            for x in e.get("estimates", []):
+                if x["groups"] == ["chandler-1987"] and not (x["low"] <= e["population"] <= x["high"]):
+                    out.append(("chandler-mismatch", f"{s['label']}: {e['id']} digitized Chandler "
+                                f"{e['population']:,} vs Wikipedia's Chandler {x['low']:,}"
+                                + (f"–{x['high']:,}" if x["high"] != x["low"] else "")))
+    unmatched = sorted(est["unmatched"].items(), key=lambda kv: -kv[1]["max"])
+    for link, u in unmatched:
+        if u["max"] >= 300_000:
+            out.append(("unmatched", f"{u['name']} ({u['location']}): cited estimates up to {u['max']:,} "
+                                     f"but no entry in data/curated/cities.json"))
+    return out
+
+
 def load_reviews(path: Path) -> list[dict]:
     import csv
     with open(path, newline="") as fh:
@@ -132,7 +167,10 @@ def write_report(path: Path, snapshots, cities, corrections, warnings, errors, b
             "gap": "Possible gaps in the digitized data",
             "spike": "Spikes (possible transcription errors)",
             "duplicate": "Possible geocoding duplicates",
-            "image": "Images"}
+            "image": "Images",
+            "chandler-mismatch": "Digitized Chandler vs Wikipedia's Chandler (transcription check)",
+            "disagreement": "Historians disagree by more than 2x (shown as a range on the card)",
+            "unmatched": "Large cities in the multi-historian tables not in our registry"}
     unreviewed = []
     for cat, title in cats.items():
         items = [(m, review_for(m, cat, reviews)) for c, m in warnings if c == cat]
@@ -141,6 +179,8 @@ def write_report(path: Path, snapshots, cities, corrections, warnings, errors, b
             for m, r in items:
                 if r:
                     L.append(f"- {m}\n  - **Reviewed ({r['verdict']}):** {r['note']}")
+                elif cat in ("disagreement", "unmatched", "chandler-mismatch"):
+                    L.append(f"- {m}")  # informational
                 else:
                     L.append(f"- {m}\n  - **UNREVIEWED** - add a row to data/curated/reviewed.csv")
                     unreviewed.append(m)

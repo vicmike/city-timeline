@@ -28,6 +28,11 @@ SOURCES = {
         "url": f"{UN_BASE}/Cities/WUP2025-F18-DEGURBA-100_Largest_Cities.xlsx",
         "path": CACHE / "un" / "F18.xlsx",
     },
+    # Wikipedia multi-historian city-size tables (Morris, Modelski, Chandler, de Vries, ...).
+    "wiki_community_sizes": {
+        "url": "https://en.wikipedia.org/w/index.php?title=Historical_urban_community_sizes&action=raw",
+        "path": CACHE / "wikipedia" / "Historical_urban_community_sizes.wikitext",
+    },
     # Wikipedia per-year leaders by Chandler / Morris / Modelski, for cross-checks.
     "wiki_largest": {
         "url": "https://en.wikipedia.org/w/index.php?title=List_of_largest_cities_throughout_history&action=raw",

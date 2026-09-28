@@ -146,6 +146,7 @@ function renderCards(entries, { estimate, snap }) {
               e.correction ? `<span class="adjusted" title="${escapeHtml(e.correction)}">adjusted</span>` : ""}</div>
           </div>
           ${unLabel ? `<p class="fine">UN figure covers the ${escapeHtml(unLabel)}.</p>` : ""}
+          ${estimatesLine(e)}
           ${blurb ? `<p class="blurb">${escapeHtml(blurb)} ${
             e.blurb ? cite(e.sources)
                     : cite([{ title: `${c.wikipedia.title} - Wikipedia`, url: c.wikipedia.permalink }])}</p>` : ""}
@@ -173,6 +174,38 @@ function renderCards(entries, { estimate, snap }) {
     bar.animate([{ transform: "scaleX(0.92)", opacity: 0.6 }, { transform: "none", opacity: 1 }],
       { duration: 420, easing: "ease-out" });
   });
+}
+
+/** Other historians' figures for this city-year, each linked to its citation. */
+function estimatesLine(e) {
+  const cited = (e.estimates ?? []).filter((x) => x.sources.length);
+  if (!cited.length) return "";
+  const byLabel = new Map();
+  for (const x of cited) {
+    const label = [...new Set(x.sources.map((s) => timeline.citations[s].label))].join(" & ");
+    const v = x.low === x.high ? compactPop(x.low) : `${compactPop(x.low)}–${compactPop(x.high)}`;
+    if (!byLabel.has(label + v)) byLabel.set(label + v, { label, v, sources: x.sources });
+  }
+  const sp = e.spread;
+  const wide = sp && sp.max > 2 * sp.min;
+  return `
+    <div class="estimates${wide ? " wide" : ""}">
+      ${sp ? `<span class="range-tag">${wide ? "Historians disagree" : "Other estimates"}: ${compactPop(sp.min)}–${compactPop(sp.max)}</span>` : ""}
+      ${[...byLabel.values()].map((o) => `<span class="est">${escapeHtml(o.label)} <b>${o.v}</b>${
+        o.sources.map((s) => citeLink(s)).join("")}</span>`).join("")}
+    </div>`;
+}
+
+function citeLink(id) {
+  const c = timeline.citations[id];
+  const title = [c.author, c.year && `(${c.year})`, c.title, c.page && `p. ${c.page}`].filter(Boolean).join(" ");
+  return `<a class="cite" href="${c.viaUrl}" target="_blank" rel="noopener"
+             title="${escapeHtml(`${title} — as tabulated in ${c.via}`)}">†</a>`;
+}
+
+function compactPop(n) {
+  if (n >= 1e6) return `${+(n / 1e6).toFixed(2)}M`;
+  return `${Math.round(n / 1000)}k`;
 }
 
 function openCity(id) {

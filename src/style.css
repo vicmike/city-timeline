@@ -33,6 +33,8 @@
 }
 
 @media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .s-morris { --k: #9085e9; }
+  :root:not([data-theme="light"]) .s-modelski { --k: #199e70; }
   :root:not([data-theme="light"]) {
     color-scheme: dark;
     --bg: #12110f;
@@ -59,6 +61,8 @@
     --region-latin-america: #9085e9;
   }
 }
+:root[data-theme="dark"] .s-morris { --k: #9085e9; }
+:root[data-theme="dark"] .s-modelski { --k: #199e70; }
 :root[data-theme="dark"] {
   color-scheme: dark;
   --bg: #12110f;
@@ -295,6 +299,15 @@ code { font-size: 0.9em; }
   margin-left: 6px; font-size: 10.5px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em;
   color: var(--caveat-ink); background: var(--caveat-bg); border-radius: 4px; padding: 1px 5px; cursor: help;
 }
+.estimates {
+  display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline;
+  font-size: 12.5px; color: var(--ink-2); margin: -2px 0 10px;
+}
+.estimates .range-tag {
+  font-size: 10.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted);
+}
+.estimates.wide .range-tag { color: var(--caveat-ink); background: var(--caveat-bg); padding: 1px 6px; border-radius: 4px; }
+.estimates .est b { font-weight: 650; font-variant-numeric: tabular-nums; }
 .blurb { margin: 0; color: var(--ink-2); font-size: 14px; line-height: 1.55; }
 .cite {
   display: inline-block; min-width: 16px; height: 16px; padding: 0 4px; margin-left: 2px;
@@ -363,6 +376,12 @@ dialog::backdrop { background: rgba(18, 16, 12, 0.4); backdrop-filter: blur(2px)
 .s-wup2018 { --k: var(--accent); }
 .s-wup2025 { --k: #2a78d6; }
 .traj .s-wup2025 path { stroke-dasharray: 5 4; }
+.s-morris { --k: #4a3aa7; }
+.s-modelski { --k: #1baf7a; }
+.s-other { --k: var(--muted); }
+.traj .est path { stroke-width: 1.5; opacity: 0.85; }
+.traj .est circle { fill: var(--surface); stroke: var(--k); stroke-width: 2; }
+.traj .est .whisker { stroke: var(--k); stroke-width: 2; opacity: 0.5; }
 .tip {
   position: absolute; transform: translate(-50%, -100%); pointer-events: none;
   background: var(--ink); color: var(--bg); padding: 6px 9px; border-radius: 8px; font-size: 12px; white-space: nowrap;

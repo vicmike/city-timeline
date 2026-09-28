@@ -12,7 +12,7 @@ import json
 import sys
 from datetime import date
 
-from . import chandler, enrich, un, validate, wikilist
+from . import chandler, enrich, estimates, un, validate, wikilist
 from .config import (CURATED, HISTORICAL_YEARS, MAX_WITH_TIES, MIN_RECORDED_CITIES,
                      MODERN_YEARS, OUT, REPORT, TOP_N)
 
@@ -52,6 +52,15 @@ SOURCES = {
                     "'List of largest cities throughout history'.",
         "url": "https://en.wikipedia.org/wiki/List_of_largest_cities_throughout_history",
         "license": "CC BY-SA 4.0 (Wikipedia table)",
+    },
+    "hucs": {
+        "label": "Other historians' estimates",
+        "citation": "Per-city estimates from Morris, Modelski, Chandler, de Vries, Chandler & Fox and other "
+                    "scholars, as tabulated (each value with its own citation) in Wikipedia's 'Historical urban "
+                    "community sizes'. We rely on Wikipedia's transcription; values it gives without a citation "
+                    "are shown as uncited and never used for ranking.",
+        "url": "https://en.wikipedia.org/wiki/Historical_urban_community_sizes",
+        "license": "CC BY-SA 4.0 (Wikipedia table); figures belong to the cited works",
     },
     "wikipedia": {
         "label": "Wikipedia",
@@ -187,11 +196,22 @@ def main() -> int:
         for n in [c["wikipedia"], *[e["name"] for e in c["names"]], *c.get("aliases", [])]:
             alias_index[n.lower()] = cid
 
+    print("parsing multi-historian estimates ...")
+    est = estimates.build(cities, alias_index)
+
     for snap in snapshots:
         year = snap["year"]
         for entry in snap["cities"] + snap.get("alternates", {}).get("wup2025", []):
             if entry["id"]:
                 entry["name"] = era_name(cities[entry["id"]], year)
+        for entry in snap["cities"]:
+            # Every other historian's figure for this city in this year, with citations.
+            others = [e for e in est["byCity"].get(entry["id"], []) if e["year"] == year]
+            if others:
+                entry["estimates"] = others
+            sp = estimates.spread(entry["population"], others)
+            if sp:
+                entry["spread"] = sp
         year_blurbs = blurbs.get("snapshots", {}).get(str(year), {})
         if year_blurbs.get("note"):
             snap["note"] = year_blurbs["note"]
@@ -243,6 +263,8 @@ def main() -> int:
         pts = w25[w25.code.isin(c.get("wup2025", [])) & (w25.year <= 2025)].groupby("year").population.sum()
         if len(pts):
             series["wup2025"] = [[int(y), int(p)] for y, p in pts.items()]
+        if est["byCity"].get(cid):
+            series["estimates"] = est["byCity"][cid]
         city_out[cid] = {
             "id": cid, "name": c["names"][-1]["name"], "country": c["country"],
             "region": c["region"], "names": c["names"], "series": series,
@@ -283,6 +305,7 @@ def main() -> int:
     # --- validation -----------------------------------------------------------------
     warnings = validate.run(ch, snapshots, leaders, cities, alias_index, city_out,
                             enriched=not args.no_enrich)
+    warnings += validate.disagreements(snapshots, est)
 
     # Reviewed warnings marked "caveat" are shown to readers on that snapshot.
     reviews = validate.load_reviews(CURATED / "reviewed.csv")
@@ -298,6 +321,7 @@ def main() -> int:
         "generated": date.today().isoformat(),
         "sources": SOURCES,
         "regions": registry["regions"],
+        "citations": est["citations"],
         "snapshots": snapshots,
     }
     if not args.no_enrich:  # a partial build must never overwrite the published data

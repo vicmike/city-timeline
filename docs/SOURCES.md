@@ -9,7 +9,8 @@ links:
 | A population figure | `source` on the snapshot in `public/data/timeline.json` (a key in the table below), plus `correction` if we changed the raw value |
 | A blurb or polity ("Abbasid Caliphate") | `sources` on that city entry: list of `{title, url}` |
 | A year note | `noteSources` on the snapshot |
-| "Other historians say…" | `otherEstimates` on the snapshot, from source `wiki-largest` below |
+| "Other historians say…" (the year's #1) | `otherEstimates` on the snapshot, from source `wiki-largest` below |
+| Other estimates for a city in a year ("Morris 800k †") | `estimates` on that city entry; each value lists citation ids, resolved in `timeline.json` → `citations` |
 | A caveat | `caveats` on the snapshot; reasoning in `data/curated/reviewed.csv` |
 | City description / extract | `wikipedia.permalink` in `public/data/cities.json` (exact article revision) |
 | A photo | `images[]` in `public/data/cities.json`: file page, artist, licence |
@@ -51,9 +52,27 @@ check, every correction, and where the historians disagree.
   - Tertius Chandler (1987), as above.
 - **Used for:** (1) the `otherEstimates` shown when Morris or Modelski name a different #1 city from Chandler; (2) an automatic check that our digitized Chandler #1 matches Chandler's #1 as Wikipedia transcribes it.
 
-### `wiki-community-sizes`: Wikipedia, "Historical urban community sizes"
-- https://en.wikipedia.org/wiki/Historical_urban_community_sizes
-- **Used for:** evidence for specific corrections, such as Rome in 200 BC. Each correction cites the table it relies on.
+### `hucs`: Wikipedia, "Historical urban community sizes"
+- https://en.wikipedia.org/wiki/Historical_urban_community_sizes (the build records the exact revision used and links every value to that permalink)
+- Tables giving city sizes from 3700 BC to 2000, many historians side by side, **each value with its own citation**: Morris, Modelski, Chandler (1987), Chandler & Fox (1974), de Vries (1984), the citypops dataset (etext.org), and dozens of one-off scholarly works (Wickham, Scheidel, Wilson and others).
+- **Used for:**
+  - Every estimate we show beside the main figure on a card ("Historians disagree: 150k–800k").
+  - The extra historians' lines and points in each city's population chart.
+  - Evidence for specific corrections, such as Rome in 200 BC.
+  - Two automatic checks (below).
+- **How it's handled:** `pipeline/wikisizes.py` parses every table. A value keeps the citation(s) attached to it in the wikitext. Ranges are split only where each end has its own citation; otherwise the range stays with all its citations together. Values Wikipedia gives with no citation are kept as "uncited" and are never plotted, used in ranges, or used in checks.
+- **Caveat:** we rely on Wikipedia's transcription of these works. We have not checked each figure against the original book.
+
+## How facts are checked
+
+Attribution (where a number came from) is not the same as verification (whether the number is right). Before 1950 there are no censuses, so "right" means "what the historians estimate", and they often disagree. What the build does:
+
+1. **Faithful copying:** raw files are pinned by checksum; automatic checks catch transcription spikes, geocoding duplicates, and gaps; every fix is a cited row in `chandler_corrections.csv`.
+2. **Chandler against Chandler:** our ranking uses the Reba et al. digitization. Where Wikipedia also cites a Chandler figure for the same city and year, the two are compared. Mismatches are listed in the build report as transcription questions to settle against the book.
+3. **Chandler against other historians:** every ranked city-year is compared with all the cited estimates for it. Where they differ by more than 2×, the card says "Historians disagree" and shows the range and each source. Rome in AD 361 is an example: Chandler 150k, Morris 800k.
+4. **The #1 city** is checked against Wikipedia's list of largest cities by year (Morris, Modelski, Chandler).
+
+Not yet done: the rankings themselves still use Chandler alone before 1950, and the 100 BC–AD 300 snapshots are missing. Both are planned.
 
 ## Descriptive text and images
 

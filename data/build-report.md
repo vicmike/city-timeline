@@ -88,6 +88,60 @@ From `data/curated/chandler_corrections.csv`.
 - 1825: Kyoto|Japan and Osaka|Japan both 350,000 and < 250 km apart
   - **Reviewed (no-action):** Two distinct cities that Chandler estimates at the same size in 1825; neither is in that year's top 5.
 
+## Digitized Chandler vs Wikipedia's Chandler (transcription check) (5)
+
+- 1360 BC: hattusa digitized Chandler 45,000 vs Wikipedia's Chandler 40,000
+- AD 361: pataliputra digitized Chandler 150,000 vs Wikipedia's Chandler 250,000
+- 1000: kyoto digitized Chandler 175,000 vs Wikipedia's Chandler 300,000
+- 1750: tokyo digitized Chandler 694,000 vs Wikipedia's Chandler 509,000
+- 1825: tokyo digitized Chandler 732,000 vs Wikipedia's Chandler 530,000
+
+## Historians disagree by more than 2x (shown as a range on the card) (16)
+
+- 430 BC: athens shown at 155,000; cited estimates 40,000 (morris)
+- 430 BC: syracuse shown at 125,000; cited estimates 24,000–40,000 (glenn-storey-2006)
+- 200 BC: xian shown at 400,000; cited estimates 100,000–400,000 (chandler-1987/modelski/morris)
+- 200 BC: pataliputra shown at 350,000; cited estimates 1,000,000 (schlingloff-2013), 350,000–400,000 (chandler-1987)
+- AD 361: rome shown at 150,000; cited estimates 800,000 (morris)
+- AD 500: luoyang shown at 200,000; cited estimates 200,000 (citypops), 500,000 (modelski)
+- AD 500: nanjing shown at 150,000; cited estimates 150,000 (citypops), 500,000 (modelski)
+- AD 622: ctesiphon shown at 500,000; cited estimates 200,000 (chandler-fox-1974), 500,000 (citypops)
+- AD 622: istanbul shown at 400,000; cited estimates 150,000 (citypops)
+- AD 800: baghdad shown at 700,000; cited estimates 175,000 (citypops/morris)
+- AD 800: istanbul shown at 250,000; cited estimates 40,000–50,000 (morris)
+- 1000: cordoba shown at 450,000; cited estimates 110,000 (morris/buringh-2010)
+- 1000: kaifeng shown at 400,000; cited estimates 1,000,000 (morris), 400,000 (chandler-1987/modelski)
+- 1100: kaifeng shown at 442,000; cited estimates 1,000,000 (morris), 442,000 (citypops)
+- 1200: hangzhou shown at 255,000; cited estimates 1,000,000 (morris), 255,000 (citypops)
+- 1400: cairo shown at 360,000; cited estimates 125,000–360,000 (citypops/morris)
+
+## Large cities in the multi-historian tables not in our registry (24)
+
+- Philadelphia (): cited estimates up to 791,000 but no entry in data/curated/cities.json
+- Liverpool (): cited estimates up to 650,000 but no entry in data/curated/cities.json
+- Glasgow (): cited estimates up to 635,000 but no entry in data/curated/cities.json
+- Manchester (): cited estimates up to 590,000 but no entry in data/curated/cities.json
+- Suzhou (China): cited estimates up to 550,000 but no entry in data/curated/cities.json
+- Birmingham (): cited estimates up to 480,000 but no entry in data/curated/cities.json
+- Boston (): cited estimates up to 450,000 but no entry in data/curated/cities.json
+- Madrid (): cited estimates up to 407,000 but no entry in data/curated/cities.json
+- Tenochtitlan (): cited estimates up to 400,000 but no entry in data/curated/cities.json
+- Madras (): cited estimates up to 400,000 but no entry in data/curated/cities.json
+- Linzi (China): cited estimates up to 350,000 but no entry in data/curated/cities.json
+- Esfahān (): cited estimates up to 350,000 but no entry in data/curated/cities.json
+- Hyderabad (): cited estimates up to 350,000 but no entry in data/curated/cities.json
+- Lahore (): cited estimates up to 350,000 but no entry in data/curated/cities.json
+- Hamburg (): cited estimates up to 348,000 but no entry in data/curated/cities.json
+- St. Louis (): cited estimates up to 338,000 but no entry in data/curated/cities.json
+- Lyon (France): cited estimates up to 331,000 but no entry in data/curated/cities.json
+- Brussels (): cited estimates up to 327,000 but no entry in data/curated/cities.json
+- Budapest (): cited estimates up to 325,000 but no entry in data/curated/cities.json
+- Xiadu (China): cited estimates up to 320,000 but no entry in data/curated/cities.json
+- Marseille (France): cited estimates up to 316,000 but no entry in data/curated/cities.json
+- Warsaw (): cited estimates up to 311,000 but no entry in data/curated/cities.json
+- Dublin (): cited estimates up to 310,000 but no entry in data/curated/cities.json
+- Xianyang (China): cited estimates up to 300,000 but no entry in data/curated/cities.json
+
 ## Where historians disagree on the #1 city
 
 - 200 BC: Chandler → Chang'an; Morris (2010): Alexandria (300,000); Modelski (2003): Alexandria (600,000)

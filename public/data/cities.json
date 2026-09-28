@@ -385,6 +385,88 @@
      2025,
      2478337
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1550,
+     "low": 250000,
+     "high": 250000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 500000,
+     "high": 500000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 660000,
+     "high": 660000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 60000,
+     "high": 60000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 108000,
+     "high": 108000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 1872,
+     "high": 1872,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 149008,
+     "high": 149008,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -903,6 +985,252 @@
      2025,
      7266957
     ]
+   ],
+   "estimates": [
+    {
+     "year": -300,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -200,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987",
+      "morris"
+     ]
+    },
+    {
+     "year": -200,
+     "low": 600000,
+     "high": 600000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -100,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:sfn:Wilson 2011#p186"
+     ],
+     "groups": [
+      "other:wilson-2011"
+     ]
+    },
+    {
+     "year": 200,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:sfn:Wilson 2011#p186"
+     ],
+     "groups": [
+      "other:wilson-2011"
+     ]
+    },
+    {
+     "year": 361,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 361,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 622,
+     "low": 94000,
+     "high": 94000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 622,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 700,
+     "low": 216000,
+     "high": 216000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 60000,
+     "high": 100000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 60000,
+     "high": 100000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 1693,
+     "high": 1693,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 15000,
+     "high": 15000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 1777,
+     "high": 1777,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 6000,
+     "high": 6000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 1798,
+     "high": 1798,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 4000,
+     "high": 4000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 1828,
+     "high": 1828,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 12528,
+     "high": 12528,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 138000,
+     "high": 138000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 212000,
+     "high": 212000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p329"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -997,6 +1325,151 @@
      1404,
      40000
     ]
+   ],
+   "estimates": [
+    {
+     "year": 775,
+     "low": 80000,
+     "high": 80000,
+     "sources": [
+      "hucs:Klassen"
+     ],
+     "groups": [
+      "other:sarah-klassen-2021"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Klassen"
+     ],
+     "groups": [
+      "other:sarah-klassen-2021"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 90000,
+     "high": 90000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Klassen"
+     ],
+     "groups": [
+      "other:sarah-klassen-2021"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Klassen"
+     ],
+     "groups": [
+      "other:sarah-klassen-2021"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 550000,
+     "high": 550000,
+     "sources": [
+      "hucs:Klassen"
+     ],
+     "groups": [
+      "other:sarah-klassen-2021"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 140000,
+     "high": 140000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 600000,
+     "high": 600000,
+     "sources": [
+      "hucs:Klassen"
+     ],
+     "groups": [
+      "other:sarah-klassen-2021"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 650000,
+     "high": 650000,
+     "sources": [
+      "hucs:Klassen"
+     ],
+     "groups": [
+      "other:sarah-klassen-2021"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 650000,
+     "high": 650000,
+     "sources": [
+      "hucs:Klassen"
+     ],
+     "groups": [
+      "other:sarah-klassen-2021"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -1091,6 +1564,103 @@
      1856,
      21396
     ]
+   ],
+   "estimates": [
+    {
+     "year": -200,
+     "low": 120000,
+     "high": 120000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": -100,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:sfn:Wilson 2011#p190"
+     ],
+     "groups": [
+      "other:wilson-2011"
+     ]
+    },
+    {
+     "year": 200,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:sfn:Wilson 2011#p190"
+     ],
+     "groups": [
+      "other:wilson-2011"
+     ]
+    },
+    {
+     "year": 361,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 40000,
+     "high": 40000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 40000,
+     "high": 40000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -1267,6 +1837,169 @@
      1975,
      3300000
     ]
+   ],
+   "estimates": [
+    {
+     "year": -1360,
+     "low": 10000,
+     "high": 10000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": -1200,
+     "low": 10000,
+     "high": 15000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": -1000,
+     "low": 2500,
+     "high": 5000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -900,
+     "low": 2500,
+     "high": 5000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -800,
+     "low": 2500,
+     "high": 5000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -700,
+     "low": 10000,
+     "high": 10000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -500,
+     "low": 20000,
+     "high": 20000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -430,
+     "low": 40000,
+     "high": 40000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -400,
+     "low": 25000,
+     "high": 25000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -300,
+     "low": 25000,
+     "high": 25000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -200,
+     "low": 10000,
+     "high": 10000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -100,
+     "low": 10000,
+     "high": 10000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 90000,
+     "high": 90000,
+     "sources": [
+      "hucs:sfn:Wilson 2011#p191"
+     ],
+     "groups": [
+      "other:wilson-2011"
+     ]
+    },
+    {
+     "year": 200,
+     "low": 90000,
+     "high": 90000,
+     "sources": [
+      "hucs:sfn:Wilson 2011#p191"
+     ],
+     "groups": [
+      "other:wilson-2011"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 110000,
+     "high": 110000,
+     "sources": [
+      "hucs:anon:27bc6c1e"
+     ],
+     "groups": [
+      "other:gibbon-2002"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -1325,6 +2058,107 @@
      -430,
      200000
     ]
+   ],
+   "estimates": [
+    {
+     "year": -1800,
+     "low": 65000,
+     "high": 65000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -1200,
+     "low": 80000,
+     "high": 80000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -1000,
+     "low": 45000,
+     "high": 100000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -800,
+     "low": 47000,
+     "high": 47000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -650,
+     "low": 60000,
+     "high": 60000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -600,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -500,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -430,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": -400,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -1387,6 +2221,52 @@
      1250,
      180000
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1100,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 180000,
+     "high": 180000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 180000,
+     "high": 180000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -1905,6 +2785,130 @@
      2025,
      6390735
     ]
+   ],
+   "estimates": [
+    {
+     "year": 800,
+     "low": 175000,
+     "high": 175000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops",
+      "morris"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 579000,
+     "high": 579000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 1019000,
+     "high": 1019000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 2070000,
+     "high": 2070000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 3145000,
+     "high": 3145000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 4092000,
+     "high": 4092000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 5200000,
+     "high": 5200000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -2525,6 +3529,251 @@
      2025,
      17013303
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1200,
+     "low": 130000,
+     "high": 130000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 140000,
+     "high": 140000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 401000,
+     "high": 401000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 600000,
+     "high": 600000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 672000,
+     "high": 672000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 690000,
+     "high": 690000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 706000,
+     "high": 706000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 706000,
+     "high": 706000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 470000,
+     "high": 470000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 650000,
+     "high": 650000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 900000,
+     "high": 900000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 1100000,
+     "high": 1100000,
+     "sources": [
+      "hucs:Modelski",
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987",
+      "modelski"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 1350000,
+     "high": 1350000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 1648000,
+     "high": 1648000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 1310000,
+     "high": 1310000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 1671365,
+     "high": 1671365,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 3900441,
+     "high": 3900441,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 4426045,
+     "high": 4426045,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 5366372,
+     "high": 5366372,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 6787737,
+     "high": 6787737,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 10285091,
+     "high": 10285091,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -2959,6 +4208,173 @@
      2005,
      3312299
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1200,
+     "low": 2400,
+     "high": 2400,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 1200,
+     "high": 2000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 4000,
+     "high": 7000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 25000,
+     "high": 25000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p350"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 12000,
+     "high": 12000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p350"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 55000,
+     "high": 55000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p350"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 113289,
+     "high": 113289,
+     "sources": [
+      "hucs:populstat"
+     ],
+     "groups": [
+      "other:ceb3ab"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 172132,
+     "high": 172132,
+     "sources": [
+      "hucs:populstat"
+     ],
+     "groups": [
+      "other:ceb3ab"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 220277,
+     "high": 220277,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 446000,
+     "high": 446000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 1045000,
+     "high": 1045000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p329"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 3338000,
+     "high": 3338000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 3260000,
+     "high": 3260000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 3206000,
+     "high": 3206000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 3056000,
+     "high": 3056000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 3422000,
+     "high": 3422000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 3384000,
+     "high": 3384000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -3355,6 +4771,62 @@
      2025,
      14017736
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1950,
+     "low": 5166140,
+     "high": 5166140,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 6761837,
+     "high": 6761837,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 8416170,
+     "high": 8416170,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 9919781,
+     "high": 9919781,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 11147566,
+     "high": 11147566,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 12503871,
+     "high": 12503871,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -3897,6 +5369,313 @@
      2025,
      25566102
     ]
+   ],
+   "estimates": [
+    {
+     "year": 800,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 135000,
+     "high": 135000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 175000,
+     "high": 175000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops",
+      "morris"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 350000,
+     "high": 350000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 125000,
+     "high": 360000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops",
+      "morris"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 380000,
+     "high": 380000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987",
+      "morris"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 360000,
+     "high": 360000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 275000,
+     "high": 275000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 350000,
+     "high": 350000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p196"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 350000,
+     "high": 350000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p196"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p196"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 210960,
+     "high": 210960,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 257783,
+     "high": 257783,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 267160,
+     "high": 267160,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 345028,
+     "high": 345028,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 2493514,
+     "high": 2493514,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 3680160,
+     "high": 3680160,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 5584507,
+     "high": 5584507,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 7348778,
+     "high": 7348778,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 9892143,
+     "high": 9892143,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 13625565,
+     "high": 13625565,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -3967,6 +5746,65 @@
      622,
      50000
     ]
+   ],
+   "estimates": [
+    {
+     "year": -200,
+     "low": 150000,
+     "high": 200000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:sfn:Wilson 2011#p184"
+     ],
+     "groups": [
+      "other:wilson-2011"
+     ]
+    },
+    {
+     "year": 200,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:sfn:Wilson 2011#p184"
+     ],
+     "groups": [
+      "other:wilson-2011"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Chandler",
+      "hucs:Etext"
+     ],
+     "groups": [
+      "chandler-1987",
+      "citypops"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -4377,6 +6215,100 @@
      2010,
      3615170
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1825,
+     "low": 100,
+     "high": 100,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 1830,
+     "high": 1830,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 29963,
+     "high": 29963,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 405000,
+     "high": 405000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p329"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 4999000,
+     "high": 4999000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 6183000,
+     "high": 6183000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 7106000,
+     "high": 7106000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 7216000,
+     "high": 7216000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 7374000,
+     "high": 7374000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 8315000,
+     "high": 8315000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -4829,6 +6761,116 @@
      2025,
      346280
     ]
+   ],
+   "estimates": [
+    {
+     "year": 775,
+     "low": 135000,
+     "high": 135000,
+     "sources": [
+      "hucs:auto"
+     ],
+     "groups": [
+      "other:tellier-2009"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 160000,
+     "high": 160000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 110000,
+     "high": 110000,
+     "sources": [
+      "hucs:sfn:Buringh 2010#p73"
+     ],
+     "groups": [
+      "other:buringh-2010"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 175000,
+     "high": 175000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 110000,
+     "high": 110000,
+     "sources": [
+      "hucs:sfn:Buringh 2010#p73",
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris",
+      "other:buringh-2010"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 1103,
+     "high": 1103,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 60000,
+     "high": 60000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 60000,
+     "high": 60000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p98"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 60000,
+     "high": 60000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p98"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 40000,
+     "high": 40000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p98"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -4887,6 +6929,52 @@
      622,
      500000
     ]
+   ],
+   "estimates": [
+    {
+     "year": 361,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 622,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p305"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 622,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -5283,6 +7371,247 @@
      2025,
      30222405
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1100,
+     "low": 10000,
+     "high": 10000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 60000,
+     "high": 60000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 80000,
+     "high": 80000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Etext",
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974",
+      "citypops"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 80000,
+     "high": 80000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 160000,
+     "high": 160000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 160000,
+     "high": 160000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 156000,
+     "high": 156000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p247"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 1872,
+     "high": 1872,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 154417,
+     "high": 154417,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 1369369,
+     "high": 1369369,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 2282962,
+     "high": 2282962,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 3530693,
+     "high": 3530693,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 5587014,
+     "high": 5587014,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 9384209,
+     "high": 9384209,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 15691899,
+     "high": 15691899,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -5679,6 +8008,164 @@
      2025,
      36585479
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1600,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 135000,
+     "high": 135000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 110000,
+     "high": 110000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 1830,
+     "high": 1830,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 66989,
+     "high": 66989,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 60617,
+     "high": 60617,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 1869,
+     "high": 1869,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 51536,
+     "high": 51536,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 335760,
+     "high": 335760,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 507920,
+     "high": 507920,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 1373718,
+     "high": 1373718,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 3265663,
+     "high": 3265663,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 6620697,
+     "high": 6620697,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 10284947,
+     "high": 10284947,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -5887,6 +8374,41 @@
      1947,
      200000
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1400,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 130000,
+     "high": 130000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -6429,6 +8951,206 @@
      2025,
      27563372
     ]
+   ],
+   "estimates": [
+    {
+     "year": 700,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 140000,
+     "high": 140000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 175000,
+     "high": 175000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 160000,
+     "high": 160000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 170000,
+     "high": 170000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 180000,
+     "high": 180000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 800000,
+     "high": 800000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 900000,
+     "high": 900000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 875000,
+     "high": 875000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 944000,
+     "high": 944000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -6963,6 +9685,279 @@
      2025,
      7500208
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1000,
+     "low": 80000,
+     "high": 80000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 90000,
+     "high": 90000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 145000,
+     "high": 145000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 800000,
+     "high": 800000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 255000,
+     "high": 255000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 320000,
+     "high": 320000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 432000,
+     "high": 432000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 800000,
+     "high": 800000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 432000,
+     "high": 432000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 235000,
+     "high": 235000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 260000,
+     "high": 260000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 260000,
+     "high": 260000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 270000,
+     "high": 270000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 281000,
+     "high": 281000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 303000,
+     "high": 303000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 340000,
+     "high": 340000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 387000,
+     "high": 387000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 410000,
+     "high": 410000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 700000,
+     "high": 700000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 1864,
+     "high": 1864,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 50000,
+     "high": 50000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -7017,6 +10012,30 @@
      -1200,
      48000
     ]
+   ],
+   "estimates": [
+    {
+     "year": -1360,
+     "low": 40000,
+     "high": 40000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": -1200,
+     "low": 40000,
+     "high": 40000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -7611,6 +10630,441 @@
      2025,
      15014763
     ]
+   ],
+   "estimates": [
+    {
+     "year": 200,
+     "low": 15000,
+     "high": 15000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 300,
+     "low": 20000,
+     "high": 20000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 361,
+     "low": 150000,
+     "high": 150000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 400,
+     "low": 200000,
+     "high": 200000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:Chandler",
+      "hucs:anon:8bb3a909"
+     ],
+     "groups": [
+      "chandler-1987",
+      "other:c389d0"
+     ]
+    },
+    {
+     "year": 600,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 622,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 700,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 775,
+     "low": 40000,
+     "high": 50000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 40000,
+     "high": 50000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p175"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p175"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 80000,
+     "high": 80000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p175"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 75000,
+     "high": 75000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 40000,
+     "high": 50000,
+     "sources": [
+      "hucs:google199"
+     ],
+     "groups": [
+      "other:karl-kaser-2011"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 660000,
+     "high": 660000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 680000,
+     "high": 680000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 400000,
+     "high": 700000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops",
+      "morris"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 700000,
+     "high": 700000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 600000,
+     "high": 700000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops",
+      "morris"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 625000,
+     "high": 625000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 570000,
+     "high": 570000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 675000,
+     "high": 675000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 785000,
+     "high": 785000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 1874,
+     "high": 1874,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 827750,
+     "high": 827750,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 967497,
+     "high": 967497,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 1453353,
+     "high": 1453353,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 2772095,
+     "high": 2772095,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 4397037,
+     "high": 4397037,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 6552160,
+     "high": 6552160,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 8743868,
+     "high": 8743868,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -8007,6 +11461,62 @@
      2025,
      41913860
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1950,
+     "low": 1452000,
+     "high": 1452000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 2678740,
+     "high": 2678740,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 3915406,
+     "high": 3915406,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 5984256,
+     "high": 5984256,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 8174756,
+     "high": 8174756,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 8389759,
+     "high": 8389759,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -8479,6 +11989,76 @@
      2025,
      1467461
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1000,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Modelski",
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987",
+      "modelski"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 442000,
+     "high": 442000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -8627,6 +12207,90 @@
      1848,
      16486
     ]
+   ],
+   "estimates": [
+    {
+     "year": 622,
+     "low": 230000,
+     "high": 230000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 700,
+     "low": 250000,
+     "high": 250000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 775,
+     "low": 250000,
+     "high": 250000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 230000,
+     "high": 230000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 72000,
+     "high": 72000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 80000,
+     "high": 80000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 92000,
+     "high": 92000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -9027,6 +12691,100 @@
      2025,
      22549738
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1750,
+     "low": 200000,
+     "high": 200000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 1822,
+     "high": 1822,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 230000,
+     "high": 230000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 680000,
+     "high": 680000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p329"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 4604143,
+     "high": 4604143,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 5910210,
+     "high": 5910210,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 7329372,
+     "high": 7329372,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 9100166,
+     "high": 9100166,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 10974177,
+     "high": 10974177,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 13097153,
+     "high": 13097153,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -9177,6 +12935,164 @@
      1914,
      517000
     ]
+   ],
+   "estimates": [
+    {
+     "year": 775,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p297"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 100000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "citypops",
+      "modelski"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Modelski",
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987",
+      "modelski"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 175000,
+     "high": 175000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 350000,
+     "high": 350000,
+     "sources": [
+      "hucs:ponsonby"
+     ],
+     "groups": [
+      "other:ponsonby-fane-1956"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 350000,
+     "high": 350000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p321",
+      "hucs:Etext"
+     ],
+     "groups": [
+      "chandler-fox-1974",
+      "citypops"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 362000,
+     "high": 362000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p328"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 377000,
+     "high": 377000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p323"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 350000,
+     "high": 350000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p327"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 323000,
+     "high": 323000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p328"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 1873,
+     "high": 1873,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 238663,
+     "high": 238663,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -9703,6 +13619,270 @@
      2025,
      10416420
     ]
+   ],
+   "estimates": [
+    {
+     "year": 100,
+     "low": 30000,
+     "high": 30000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 200,
+     "low": 45000,
+     "high": 60000,
+     "sources": [
+      "hucs:demographia"
+     ],
+     "groups": [
+      "other:1874d3"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 10000,
+     "high": 12000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 20000,
+     "high": 25000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 10000,
+     "high": 20000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 20000,
+     "high": 30000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 80000,
+     "high": 100000,
+     "sources": [
+      "hucs:google159"
+     ],
+     "groups": [
+      "other:paul-oldfield-2019"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 25000,
+     "high": 50000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 45000,
+     "high": 45000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 75000,
+     "high": 75000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 40000,
+     "high": 40000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p348"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 80000,
+     "high": 80000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p348"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p348"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p348"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 575000,
+     "high": 575000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p348"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 675000,
+     "high": 675000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p348"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 865000,
+     "high": 865000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p348"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 1335000,
+     "high": 1335000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 2320000,
+     "high": 2320000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 4241000,
+     "high": 4241000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 8361000,
+     "high": 8361000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 8196000,
+     "high": 8196000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 7509000,
+     "high": 7509000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 6751000,
+     "high": 6751000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 6794000,
+     "high": 6794000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 7273000,
+     "high": 7273000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -10127,6 +14307,353 @@
      2025,
      2725559
     ]
+   ],
+   "estimates": [
+    {
+     "year": -1000,
+     "low": 35000,
+     "high": 100000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops",
+      "morris"
+     ]
+    },
+    {
+     "year": -900,
+     "low": 40000,
+     "high": 40000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -800,
+     "low": 45000,
+     "high": 45000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -800,
+     "low": 50000,
+     "high": 50000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -700,
+     "low": 55000,
+     "high": 55000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -700,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -650,
+     "low": 70000,
+     "high": 70000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -650,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -600,
+     "low": 65000,
+     "high": 65000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -600,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -500,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -430,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -400,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -400,
+     "low": 240000,
+     "high": 240000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -300,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -300,
+     "low": 240000,
+     "high": 240000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -200,
+     "low": 60000,
+     "high": 60000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 420000,
+     "high": 420000,
+     "sources": [
+      "hucs:Modelski",
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops",
+      "modelski"
+     ]
+    },
+    {
+     "year": 300,
+     "low": 140000,
+     "high": 140000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 300,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 400,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 600,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 622,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 700,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -10595,6 +15122,52 @@
      2025,
      1085328
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1100,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -10661,6 +15234,141 @@
      1975,
      846000
     ]
+   ],
+   "estimates": [
+    {
+     "year": -3100,
+     "low": 30000,
+     "high": 30000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": -2300,
+     "low": 30000,
+     "high": 30000,
+     "sources": [
+      "hucs:Modelski-inventory"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -2300,
+     "low": 35000,
+     "high": 35000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -2000,
+     "low": 60000,
+     "high": 60000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Modelski-inventory",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski",
+      "morris"
+     ]
+    },
+    {
+     "year": -1800,
+     "low": 30000,
+     "high": 30000,
+     "sources": [
+      "hucs:Modelski-inventory"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -1600,
+     "low": 22000,
+     "high": 22000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -1360,
+     "low": 32000,
+     "high": 32000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -1200,
+     "low": 50000,
+     "high": 50000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -1000,
+     "low": 35000,
+     "high": 100000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -800,
+     "low": 44000,
+     "high": 44000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -600,
+     "low": 65000,
+     "high": 65000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -430,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -11057,6 +15765,152 @@
      2025,
      17734212
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1600,
+     "low": 75000,
+     "high": 75000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 90000,
+     "high": 90000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 110000,
+     "high": 110000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 128000,
+     "high": 128000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 176000,
+     "high": 176000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 170000,
+     "high": 170000,
+     "sources": [
+      "hucs:Gotha",
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987",
+      "other:54a31f"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 3365081,
+     "high": 3365081,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 5479184,
+     "high": 5479184,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 8830947,
+     "high": 8830947,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 13027620,
+     "high": 13027620,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 15642318,
+     "high": 15642318,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 18457028,
+     "high": 18457028,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -11661,6 +16515,272 @@
      2025,
      6800676
     ]
+   ],
+   "estimates": [
+    {
+     "year": -200,
+     "low": 56000,
+     "high": 56000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 78000,
+     "high": 78000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 300,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 361,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 400,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 130000,
+     "high": 130000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 130000,
+     "high": 130000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 130000,
+     "high": 130000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 95000,
+     "high": 95000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 487000,
+     "high": 487000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 157000,
+     "high": 157000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 182000,
+     "high": 182000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 188000,
+     "high": 188000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 194000,
+     "high": 194000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 178000,
+     "high": 178000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 285000,
+     "high": 285000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 220000,
+     "high": 220000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 300000,
+     "high": 300000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -12107,6 +17227,136 @@
      2025,
      13920148
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1700,
+     "low": 1703,
+     "high": 1703,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 4436,
+     "high": 4436,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 1749,
+     "high": 1749,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 13296,
+     "high": 13296,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 63000,
+     "high": 63000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 170000,
+     "high": 170000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 682000,
+     "high": 682000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 1900000,
+     "high": 1900000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 12338471,
+     "high": 12338471,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 14163521,
+     "high": 14163521,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 16191179,
+     "high": 16191179,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 15601401,
+     "high": 15601401,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 16085600,
+     "high": 16085600,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 17813372,
+     "high": 17813372,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "unLabel": {
@@ -12622,6 +17872,164 @@
      2025,
      12964145
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1600,
+     "low": 200000,
+     "high": 360000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 220000,
+     "high": 220000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 350000,
+     "high": 380000,
+     "sources": [
+      "hucs:Etext",
+      "hucs:ReferenceA",
+      "hucs:anon:886ebdb3"
+     ],
+     "groups": [
+      "citypops",
+      "other:f-braudel-1979",
+      "other:sansom-1963"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 1749,
+     "high": 1749,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 400000,
+     "high": 400000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 1783,
+     "high": 1783,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 383000,
+     "high": 500000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 340000,
+     "high": 340000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 300000,
+     "high": 300000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 320000,
+     "high": 320000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p329"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 7005284,
+     "high": 7005284,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 10614841,
+     "high": 10614841,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 15271510,
+     "high": 15271510,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 17027548,
+     "high": 17027548,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 18388782,
+     "high": 18388782,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 18660022,
+     "high": 18660022,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "unLabel": {
@@ -13195,6 +18603,311 @@
      2025,
      9381921
     ]
+   ],
+   "estimates": [
+    {
+     "year": 800,
+     "low": 10000,
+     "high": 30000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 20000,
+     "high": 20000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 20000,
+     "high": 20000,
+     "sources": [
+      "hucs:sfn:Bairoch 1988#p28"
+     ],
+     "groups": [
+      "other:bairoch-1988"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 50000,
+     "high": 65000,
+     "sources": [
+      "hucs:anon:2adb5960",
+      "hucs:google184",
+      "hucs:google185",
+      "hucs:google186"
+     ],
+     "groups": [
+      "other:chase-dunn-1994",
+      "other:frassetto-2013",
+      "other:kibler-1995",
+      "other:lodge-2013"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 110000,
+     "high": 110000,
+     "sources": [
+      "hucs:sfn:Bairoch 1988#p28"
+     ],
+     "groups": [
+      "other:bairoch-1988"
+     ]
+    },
+    {
+     "year": 1250,
+     "low": 160000,
+     "high": 160000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 1328,
+     "high": 1328,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 200000,
+     "high": 270000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 215000,
+     "high": 215000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 1422,
+     "high": 1422,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 100000,
+     "high": 100000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p353"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 130000,
+     "high": 130000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p353"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 220000,
+     "high": 220000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 220000,
+     "high": 220000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p353"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 430000,
+     "high": 430000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p353"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 510000,
+     "high": 510000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p353"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 576000,
+     "high": 576000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p353"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 581000,
+     "high": 581000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p353"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 855000,
+     "high": 855000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 1314000,
+     "high": 1314000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 2250000,
+     "high": 2250000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 6283018,
+     "high": 6283018,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 7410735,
+     "high": 7410735,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 8208121,
+     "high": 8208121,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 8669349,
+     "high": 8669349,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 9330327,
+     "high": 9330327,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 9736538,
+     "high": 9736538,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -13627,6 +19340,103 @@
      2025,
      2689544
     ]
+   ],
+   "estimates": [
+    {
+     "year": -400,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -200,
+     "low": 350000,
+     "high": 400000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": -200,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs::2"
+     ],
+     "groups": [
+      "other:schlingloff-2013"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 69000,
+     "high": 69000,
+     "sources": [
+      "hucs:Chandler",
+      "hucs:Etext"
+     ],
+     "groups": [
+      "chandler-1987",
+      "citypops"
+     ]
+    },
+    {
+     "year": 361,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 500000,
+     "high": 500000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 600,
+     "low": 300000,
+     "high": 300000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 700,
+     "low": 100000,
+     "high": 100000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 74000,
+     "high": 74000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -14145,6 +19955,542 @@
      1990,
      2245202
     ]
+   ],
+   "estimates": [
+    {
+     "year": -1000,
+     "low": 4440,
+     "high": 4440,
+     "sources": [
+      "hucs:auto2"
+     ],
+     "groups": [
+      "other:fulminante-2014"
+     ]
+    },
+    {
+     "year": -500,
+     "low": 24400,
+     "high": 40000,
+     "sources": [
+      "hucs:auto2",
+      "hucs:auto8"
+     ],
+     "groups": [
+      "other:fulminante-2014",
+      "other:ward-1990"
+     ]
+    },
+    {
+     "year": -430,
+     "low": 27200,
+     "high": 27200,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": -400,
+     "low": 28960,
+     "high": 28960,
+     "sources": [
+      "hucs:auto8"
+     ],
+     "groups": [
+      "other:ward-1990"
+     ]
+    },
+    {
+     "year": -300,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:auto8"
+     ],
+     "groups": [
+      "other:ward-1990"
+     ]
+    },
+    {
+     "year": -200,
+     "low": 150000,
+     "high": 160000,
+     "sources": [
+      "hucs:Etext",
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987",
+      "citypops"
+     ]
+    },
+    {
+     "year": -100,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:Modelski",
+      "hucs:Morris"
+     ],
+     "groups": [
+      "modelski",
+      "morris"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski",
+      "morris"
+     ]
+    },
+    {
+     "year": 200,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 300,
+     "low": 800000,
+     "high": 800000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 361,
+     "low": 800000,
+     "high": 800000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 400,
+     "low": 800000,
+     "high": 800000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 100000,
+     "high": 100000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 600,
+     "low": 50000,
+     "high": 50000,
+     "sources": [
+      "hucs:sfn:Wickham 2015#p112"
+     ],
+     "groups": [
+      "other:wickham-2015"
+     ]
+    },
+    {
+     "year": 600,
+     "low": 90000,
+     "high": 90000,
+     "sources": [
+      "hucs:anon:447135f7"
+     ],
+     "groups": [
+      "other:bachrach-2013"
+     ]
+    },
+    {
+     "year": 622,
+     "low": 50000,
+     "high": 50000,
+     "sources": [
+      "hucs:sfn:Wickham 2015#p112"
+     ],
+     "groups": [
+      "other:wickham-2015"
+     ]
+    },
+    {
+     "year": 700,
+     "low": 50000,
+     "high": 50000,
+     "sources": [
+      "hucs:sfn:Wickham 2015#p112"
+     ],
+     "groups": [
+      "other:wickham-2015"
+     ]
+    },
+    {
+     "year": 775,
+     "low": 50000,
+     "high": 50000,
+     "sources": [
+      "hucs:sfn:Wickham 2015#p112"
+     ],
+     "groups": [
+      "other:wickham-2015"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 50000,
+     "high": 50000,
+     "sources": [
+      "hucs:anon:1a27ee9d",
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987",
+      "other:1a27ee"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 20000,
+     "high": 30000,
+     "sources": [
+      "hucs:sfn:Wickham 2015#p112"
+     ],
+     "groups": [
+      "other:wickham-2015"
+     ]
+    },
+    {
+     "year": 1000,
+     "low": 35000,
+     "high": 35000,
+     "sources": [
+      "hucs:Chandler",
+      "hucs:sfn:Hohenberg & Lees 2009#p10"
+     ],
+     "groups": [
+      "chandler-1987",
+      "other:hohenberg-lees-2009"
+     ]
+    },
+    {
+     "year": 1100,
+     "low": 30000,
+     "high": 40000,
+     "sources": [
+      "hucs:sfn:Wickham 2015#p112"
+     ],
+     "groups": [
+      "other:wickham-2015"
+     ]
+    },
+    {
+     "year": 1150,
+     "low": 30000,
+     "high": 40000,
+     "sources": [
+      "hucs:sfn:Wickham 2015#p112"
+     ],
+     "groups": [
+      "other:wickham-2015"
+     ]
+    },
+    {
+     "year": 1200,
+     "low": 40000,
+     "high": 40000,
+     "sources": [
+      "hucs:sfn:Wickham 2015#p112"
+     ],
+     "groups": [
+      "other:wickham-2015"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 40000,
+     "high": 50000,
+     "sources": [
+      "hucs:sfn:Wickham 2015#p112"
+     ],
+     "groups": [
+      "other:wickham-2015"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 15000,
+     "high": 15000,
+     "sources": [
+      "hucs:anon:532afeca"
+     ],
+     "groups": [
+      "other:532afe"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 17000,
+     "high": 17000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 33000,
+     "high": 33000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p92"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 1458,
+     "high": 1458,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 33500,
+     "high": 33500,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 38000,
+     "high": 38000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p92"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 55000,
+     "high": 55000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p355"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 45000,
+     "high": 45000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p355"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 1580,
+     "high": 1580,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 80000,
+     "high": 80000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 105000,
+     "high": 105000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p355"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 124000,
+     "high": 124000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p355"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 138000,
+     "high": 138000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p355"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 156000,
+     "high": 156000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p355"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 163000,
+     "high": 163000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p355"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 138000,
+     "high": 138000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 170000,
+     "high": 170000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 252000,
+     "high": 252000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p329"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 1884000,
+     "high": 1884000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 2456000,
+     "high": 2456000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 3135000,
+     "high": 3135000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 3390000,
+     "high": 3390000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 3714000,
+     "high": 3714000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 3708000,
+     "high": 3708000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -14591,6 +20937,62 @@
      2025,
      18949790
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1950,
+     "low": 2334038,
+     "high": 2334038,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 3969759,
+     "high": 3969759,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 7620490,
+     "high": 7620490,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 12089454,
+     "high": 12089454,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 14775840,
+     "high": 14775840,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 17014078,
+     "high": 17014078,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -14645,6 +21047,61 @@
      -100,
      250000
     ]
+   ],
+   "estimates": [
+    {
+     "year": -200,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": -100,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 1,
+     "low": 250000,
+     "high": 250000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -15041,6 +21498,172 @@
      2025,
      22490482
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1400,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1575,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 158000,
+     "high": 158000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 187000,
+     "high": 187000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 190000,
+     "high": 190000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 192000,
+     "high": 192000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 194000,
+     "high": 194000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 1021000,
+     "high": 1021000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 2361000,
+     "high": 2361000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 5312000,
+     "high": 5312000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 8244000,
+     "high": 8244000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 10518000,
+     "high": 10518000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 9879000,
+     "high": 9879000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -15437,6 +22060,118 @@
      2025,
      29558908
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1700,
+     "low": 45000,
+     "high": 45000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 60000,
+     "high": 60000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 100000,
+     "high": 100000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 115000,
+     "high": 115000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 250000,
+     "high": 250000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p329"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 4288091,
+     "high": 4288091,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 6865312,
+     "high": 6865312,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 6052468,
+     "high": 6052468,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 5927898,
+     "high": 5927898,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 8605812,
+     "high": 8605812,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 14246541,
+     "high": 14246541,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -15519,6 +22254,80 @@
      1900,
      108000
     ]
+   ],
+   "estimates": [
+    {
+     "year": -500,
+     "low": 24000,
+     "high": 40000,
+     "sources": [
+      "hucs:google79",
+      "hucs:anon:e9c2c483",
+      "hucs:google85"
+     ],
+     "groups": [
+      "other:de-camp-1972",
+      "other:gates-2011",
+      "other:glenn-storey-2006"
+     ]
+    },
+    {
+     "year": -430,
+     "low": 24000,
+     "high": 40000,
+     "sources": [
+      "hucs:google2c"
+     ],
+     "groups": [
+      "other:glenn-storey-2006"
+     ]
+    },
+    {
+     "year": -400,
+     "low": 24000,
+     "high": 125000,
+     "sources": [
+      "hucs:Etext",
+      "hucs:google2c"
+     ],
+     "groups": [
+      "citypops",
+      "other:glenn-storey-2006"
+     ]
+    },
+    {
+     "year": -300,
+     "low": 50000,
+     "high": 100000,
+     "sources": [
+      "hucs:google2c"
+     ],
+     "groups": [
+      "other:glenn-storey-2006"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 90000,
+     "high": 90000,
+     "sources": [
+      "hucs:sfn:Wilson 2011#p183"
+     ],
+     "groups": [
+      "other:wilson-2011"
+     ]
+    },
+    {
+     "year": 200,
+     "low": 90000,
+     "high": 90000,
+     "sources": [
+      "hucs:sfn:Wilson 2011#p183"
+     ],
+     "groups": [
+      "other:wilson-2011"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -15963,6 +22772,63 @@
      2025,
      1695674
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1300,
+     "low": 125000,
+     "high": 125000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 200000,
+     "high": 200000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -16013,6 +22879,74 @@
      -1360,
      80000
     ]
+   ],
+   "estimates": [
+    {
+     "year": -2000,
+     "low": 40000,
+     "high": 40000,
+     "sources": [
+      "hucs:Modelski-inventory"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -1800,
+     "low": 40000,
+     "high": 40000,
+     "sources": [
+      "hucs:Modelski-inventory"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": -1360,
+     "low": 80000,
+     "high": 80000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -1200,
+     "low": 80000,
+     "high": 80000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -1000,
+     "low": 50000,
+     "high": 120000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": -900,
+     "low": 50000,
+     "high": 50000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -16503,6 +23437,148 @@
      2025,
      33412512
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1600,
+     "low": 60000,
+     "high": 60000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 430000,
+     "high": 430000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 688000,
+     "high": 688000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 509000,
+     "high": 509000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 685000,
+     "high": 685000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 530000,
+     "high": 530000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 567000,
+     "high": 567000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 780000,
+     "high": 780000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p329"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1950,
+     "low": 11274641,
+     "high": 11274641,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1960,
+     "low": 16678822,
+     "high": 16678822,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1970,
+     "low": 23297502,
+     "high": 23297502,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1980,
+     "low": 28548512,
+     "high": 28548512,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1990,
+     "low": 32530002,
+     "high": 32530002,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 2000,
+     "low": 34449908,
+     "high": 34449908,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -16957,6 +24033,90 @@
      1975,
      1560003
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1600,
+     "low": 50000,
+     "high": 50000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p357"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 60000,
+     "high": 60000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p357"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 114000,
+     "high": 114000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p357"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 175400,
+     "high": 175400,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p357"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 231000,
+     "high": 231000,
+     "sources": [
+      "hucs:sfn:de Vries 1984#p357"
+     ],
+     "groups": [
+      "de-vries-1984"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 401200,
+     "high": 401200,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 551300,
+     "high": 551300,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 1020770,
+     "high": 1020770,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -17039,6 +24199,61 @@
      1565,
      480000
     ]
+   ],
+   "estimates": [
+    {
+     "year": 1350,
+     "low": 200000,
+     "high": 200000,
+     "sources": [],
+     "groups": [
+      "unsourced"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 550000,
+     "high": 550000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 500000,
+     "high": 500000,
+     "sources": [
+      "hucs:sfn:Chandler & Fox 1974#p265"
+     ],
+     "groups": [
+      "chandler-fox-1974"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:anon:f12aaa1b"
+     ],
+     "groups": [
+      "other:howes-2005"
+     ]
+    }
    ]
   },
   "wikipedia": {
@@ -17581,6 +24796,393 @@
      2025,
      5231053
     ]
+   ],
+   "estimates": [
+    {
+     "year": -200,
+     "low": 100000,
+     "high": 400000,
+     "sources": [
+      "hucs:Modelski",
+      "hucs:Morris",
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987",
+      "modelski",
+      "morris"
+     ]
+    },
+    {
+     "year": -100,
+     "low": 375000,
+     "high": 400000,
+     "sources": [
+      "hucs:Morris",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski",
+      "morris"
+     ]
+    },
+    {
+     "year": 1,
+     "low": 246000,
+     "high": 500000,
+     "sources": [
+      "hucs:anon:a2feb6fc",
+      "hucs:Modelski",
+      "hucs:Morris"
+     ],
+     "groups": [
+      "modelski",
+      "morris",
+      "other:a2feb6"
+     ]
+    },
+    {
+     "year": 100,
+     "low": 81000,
+     "high": 100000,
+     "sources": [
+      "hucs:Chandler",
+      "hucs:Etext",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "chandler-1987",
+      "citypops",
+      "modelski"
+     ]
+    },
+    {
+     "year": 200,
+     "low": 120000,
+     "high": 120000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 300,
+     "low": 140000,
+     "high": 140000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 361,
+     "low": 80000,
+     "high": 80000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 400,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 95000,
+     "high": 95000,
+     "sources": [
+      "hucs:Etext",
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "citypops",
+      "modelski"
+     ]
+    },
+    {
+     "year": 500,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 600,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 600,
+     "low": 600000,
+     "high": 600000,
+     "sources": [
+      "hucs:Morris"
+     ],
+     "groups": [
+      "morris"
+     ]
+    },
+    {
+     "year": 622,
+     "low": 400000,
+     "high": 400000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 700,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 775,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:Modelski",
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987",
+      "modelski"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 600000,
+     "high": 600000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 800,
+     "low": 1000000,
+     "high": 1000000,
+     "sources": [
+      "hucs:Modelski",
+      "hucs:Morris"
+     ],
+     "groups": [
+      "modelski",
+      "morris"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 100000,
+     "high": 100000,
+     "sources": [
+      "hucs:Modelski"
+     ],
+     "groups": [
+      "modelski"
+     ]
+    },
+    {
+     "year": 900,
+     "low": 750000,
+     "high": 750000,
+     "sources": [
+      "hucs:Etext",
+      "hucs:Morris"
+     ],
+     "groups": [
+      "citypops",
+      "morris"
+     ]
+    },
+    {
+     "year": 1300,
+     "low": 118000,
+     "high": 118000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1350,
+     "low": 114000,
+     "high": 114000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1400,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1450,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1500,
+     "low": 127000,
+     "high": 127000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1550,
+     "low": 150000,
+     "high": 150000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1600,
+     "low": 138000,
+     "high": 138000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1650,
+     "low": 147000,
+     "high": 147000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1700,
+     "low": 167000,
+     "high": 167000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1750,
+     "low": 195000,
+     "high": 195000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1800,
+     "low": 224000,
+     "high": 224000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1825,
+     "low": 259000,
+     "high": 259000,
+     "sources": [
+      "hucs:Etext"
+     ],
+     "groups": [
+      "citypops"
+     ]
+    },
+    {
+     "year": 1850,
+     "low": 275000,
+     "high": 275000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    },
+    {
+     "year": 1875,
+     "low": 250000,
+     "high": 250000,
+     "sources": [
+      "hucs:Chandler"
+     ],
+     "groups": [
+      "chandler-1987"
+     ]
+    }
    ]
   },
   "wikipedia": {

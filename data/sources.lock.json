@@ -22,5 +22,11 @@
     "retrieved": "2026-09-27",
     "sha256": "5bb9cc9b5ffde39b2c2de3c78323518bd2950654f8898c6e1ca1b1bf84449324",
     "bytes": 32704
+  },
+  "wiki_community_sizes": {
+    "url": "https://en.wikipedia.org/w/index.php?title=Historical_urban_community_sizes&action=raw",
+    "retrieved": "2026-09-27",
+    "sha256": "4638d495de288624d003a7a9565bc7562aa8ce59871ee4c7ad072347ef861310",
+    "bytes": 159571
   }
 }
